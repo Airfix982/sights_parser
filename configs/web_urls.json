@@ -1,7 +1,7 @@
 {
     "urls": {
-        "url_1": "https://wikiway.com/belarus/dostoprimechatelnosti/",
-        "url_2": "https://extraguide.ru/sights/",
-        "url_3": "https://www.tourister.ru/map/directions"
+        "extraguide": "https://extraguide.ru/sights/",
+        "turizm": "https://www.turizm.ru/countries/",
+        "tourister": "https://www.tourister.ru/map/directions"
     }
 }

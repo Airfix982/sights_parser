@@ -1,33 +1,27 @@
 import tkinter as tk
+import json
+
 from tkinter import messagebox
+from parsers import parse_extraguide, parse_turizm
 
 class PlaceholderEntry(tk.Entry):
-    def __init__(self, master=None, placeholder="Подсказка", color='grey', highlight_color='red'):
+    def __init__(self, master=None, highlight_color='red'):
         super().__init__(master, highlightthickness=1, highlightbackground=highlight_color)
 
-        self.placeholder = placeholder
-        self.placeholder_color = color
         self.default_fg_color = self['fg']
 
-        self.bind("<FocusIn>", self._clear_placeholder)
-        self.bind("<FocusOut>", self._add_placeholder)
 
-        self._add_placeholder()
 
-    def _add_placeholder(self, event=None):
-        if not self.get():
-            self.configure(fg=self.placeholder_color)
-            self.insert(0, self.placeholder)
-
-    def _clear_placeholder(self, event=None):
-        if self['fg'] == self.placeholder_color:
-            self.delete(0, "end")
-            self['fg'] = self.default_fg_color
-
-def start_scraping():
+def start_scraping(urls):
     country = country_entry.get()
+    # if not country.strip():
+    #     messagebox.showinfo("Ошибка", "Пожалуйста, введите страну.")
+    #     return
+
     city = city_entry.get()
-    messagebox.showinfo("Info", f"Начат сбор данных для страны: {country}, города: {city}")
+    parse_extraguide(urls["extraguide"])
+    parse_turizm(urls["turizm"])
+
 
 def show_page_one():
     page_one.pack(fill="both", expand=True)
@@ -38,6 +32,11 @@ def show_page_two():
     page_one.pack_forget()
 
 if __name__ == "__main__":
+
+    with open("configs/web_urls.json", 'r') as file:
+        config = json.load(file)
+        urls = config["urls"]
+
     # Создание главного окна
     root = tk.Tk()
     root.title("Сбор данных из Интернета")
@@ -59,19 +58,19 @@ if __name__ == "__main__":
     page_two = tk.Frame(root, bg="#f7f7f7")
 
     # Элементы на странице 1
-    country_label = tk.Label(page_one, text="Введите страну:", bg="#f7f7f7")
+    country_label = tk.Label(page_one, text="Введите страну: -обязательно", bg="#f7f7f7")
     country_label.pack(pady=10)
 
-    country_entry = PlaceholderEntry(page_one, "Страна", color='grey', highlight_color='red')
+    country_entry = PlaceholderEntry(page_one, highlight_color='red')
     country_entry.pack(pady=10)
 
-    city_label = tk.Label(page_one, text="Введите город: -не обязательно", bg="#f7f7f7")
+    city_label = tk.Label(page_one, text="Введите город:", bg="#f7f7f7")
     city_label.pack(pady=10)
 
-    city_entry = PlaceholderEntry(page_one, "Город", color='grey', highlight_color='#343434')
+    city_entry = PlaceholderEntry(page_one, highlight_color='#343434')
     city_entry.pack(pady=10)
 
-    start_button = tk.Button(page_one, text="Начать сбор данных", command=start_scraping, bg="#004851", fg="white")
+    start_button = tk.Button(page_one, text="Начать сбор данных", command=lambda: start_scraping(urls), bg="#004851", fg="white")
     start_button.pack(pady=10)
 
     # Элементы на странице 2 (пример)
