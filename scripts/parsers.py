@@ -2,6 +2,7 @@ import tkinter as tk
 import requests
 import re
 import selenium
+import os
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -14,39 +15,48 @@ from bs4 import BeautifulSoup
 from tkinter import messagebox
 
 def parse_extraguide(url):
+    countries = []
     response = requests.get(url)
     if response.status_code == 200:
         soup = BeautifulSoup(response.content, 'html.parser')
-        countries = soup.find_all('h2', class_="all-sights-h2")
-        with open('texts/countries_1.txt', 'w', encoding='utf-8') as file:
-            for i, country in enumerate(countries):
-                if i > 0:
-                    file.write("\n")
-                file.write(country.get_text(strip=True))
+        countries_elements = soup.find_all('h2', class_="all-sights-h2")
+        for country in countries_elements:
+            countries.append(country.get_text(strip=True))
+        return countries
     else:
         print(f"Ошибка при доступе к странице: {response.status_code}")
-
 
 def parse_turizm(url):
+    countries = []
     response = requests.get(url)
     if response.status_code == 200:
         soup = BeautifulSoup(response.content, 'html.parser')
-        
-        # Находим все элементы li с определенным классом
         list_items = soup.find_all('li', class_='infolist_alfa__item')
-
-        with open('texts/countries_2.txt', 'w', encoding='utf-8') as file:
-            for i, item in enumerate(list_items):
-                hidden_div = item.find('div', class_="hidden-xs")
-                if hidden_div:
-                    country_div = hidden_div.find_next_sibling('div')
-                    if country_div:
-                        country_name = country_div.get_text(strip=True)
-                        if i > 0:
-                            file.write("\n")
-                        file.write(country_name)
+        for item in list_items:
+            hidden_div = item.find('div', class_="hidden-xs")
+            if hidden_div:
+                country_div = hidden_div.find_next_sibling('div')
+                if country_div:
+                    countries.append(country_div.get_text(strip=True))
+        return countries
     else:
         print(f"Ошибка при доступе к странице: {response.status_code}")
+
+def parse_tourister(url):
+    countries = []
+    response = requests.get(url)
+    if response.status_code == 200:
+        soup = BeautifulSoup(response.content, 'html.parser')
+        country_divs = soup.find_all('div', class_='sitemap_country_links')
+        for div in country_divs:
+            h2_tag = div.find_previous_sibling('h2')
+            if h2_tag:
+                countries.append(h2_tag.get_text(strip=True))
+        return countries
+    else:
+        print(f"Ошибка при доступе к странице: {response.status_code}")
+
+
 
 
     # chrome_options = Options()

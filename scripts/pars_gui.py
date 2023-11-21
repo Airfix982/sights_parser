@@ -2,7 +2,8 @@ import tkinter as tk
 import json
 
 from tkinter import messagebox
-from parsers import parse_extraguide, parse_turizm
+#from parsers import 
+from dependecies import get_urls, get_countries_list
 
 class PlaceholderEntry(tk.Entry):
     def __init__(self, master=None, highlight_color='red'):
@@ -11,16 +12,19 @@ class PlaceholderEntry(tk.Entry):
         self.default_fg_color = self['fg']
 
 
+#def get_countries_list():
 
-def start_scraping(urls):
+
+def start_scraping(urls=None):
     country = country_entry.get()
     # if not country.strip():
     #     messagebox.showinfo("Ошибка", "Пожалуйста, введите страну.")
     #     return
 
     city = city_entry.get()
-    parse_extraguide(urls["extraguide"])
-    parse_turizm(urls["turizm"])
+    # parse_extraguide(urls["extraguide"])
+    # parse_turizm(urls["turizm"])
+    # parse_tourister(urls["tourister"])
 
 
 def show_page_one():
@@ -32,10 +36,13 @@ def show_page_two():
     page_one.pack_forget()
 
 if __name__ == "__main__":
+    with open("configs/settings.json", "r", encoding="utf-8") as file:
+        settings = json.load(file)
 
-    with open("configs/web_urls.json", 'r') as file:
-        config = json.load(file)
-        urls = config["urls"]
+    urls = get_urls(settings["web_urls"])
+
+    countries = get_countries_list(settings["countries_list"], urls)
+    print(countries[:10])
 
     # Создание главного окна
     root = tk.Tk()
@@ -70,7 +77,7 @@ if __name__ == "__main__":
     city_entry = PlaceholderEntry(page_one, highlight_color='#343434')
     city_entry.pack(pady=10)
 
-    start_button = tk.Button(page_one, text="Начать сбор данных", command=lambda: start_scraping(urls), bg="#004851", fg="white")
+    start_button = tk.Button(page_one, text="Начать сбор данных", command=lambda: start_scraping(), bg="#004851", fg="white")
     start_button.pack(pady=10)
 
     # Элементы на странице 2 (пример)

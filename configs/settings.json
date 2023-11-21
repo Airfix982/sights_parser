@@ -1,0 +1,4 @@
+{
+    "countries_list": "configs/countries.json",
+    "web_urls": "configs/web_urls.json"
+}
