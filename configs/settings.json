@@ -1,4 +1,6 @@
 {
-    "countries_list": "configs/countries.json",
-    "web_urls": "configs/web_urls.json"
+    "parse_data": "configs/parse_data.json",
+    "web_urls": "configs/web_urls.json",
+    "extraguide_data": "configs/extraguide.json",
+    "wikiway_data": "configs/wikiway.json"
 }

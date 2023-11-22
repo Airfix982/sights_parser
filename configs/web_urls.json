@@ -1,7 +1,50 @@
 {
     "urls": {
-        "extraguide": "https://extraguide.ru/sights/",
-        "turizm": "https://www.turizm.ru/countries/",
-        "tourister": "https://www.tourister.ru/map/directions"
+        "extraguide": 
+        {
+            "url": "https://extraguide.ru/sights/",
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                "Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+                "Connection": "keep-alive",
+                "Upgrade-Insecure-Requests": "1",
+                "Sec-Fetch-Dest": "document",
+                "Sec-Fetch-Mode": "navigate",
+                "Sec-Fetch-Site": "cross-site"
+            },
+            "cookies": {
+                "PHPSESSID": "ftusrpkgvchiv6b24c0q57mstr",
+                "_ga": "GA1.2.837499944.1700585973",
+                "_gid": "GA1.2.214441313.1700585973",
+                "_dc_gtm_UA-101953076-2": "1",
+                "_ga_5N6ZCNP1S0": "GS1.2.1700585973.1.0.1700585973.60.0.0"
+            }
+        },
+        "wikiway":
+        {
+            "url": "https://wikiway.com",
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                "Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+                "Connection": "keep-alive",
+                "Referer": "https://wikiway.com/",
+                "Upgrade-Insecure-Requests": "1",
+                "Sec-Fetch-Dest": "document",
+                "Sec-Fetch-Mode": "navigate",
+                "Sec-Fetch-Site": "same-origin"
+            },
+            "cookies": {
+                "JOYTEf": "QWMEfjGgvapkbJwIqloZUsrxnymutP",
+                "QWMEfjGgvapkbJwIqloZUsrxnymutP": "97e4354074487670b4bedce501a8856a-1700971084",
+                "JOYTEf_hits": "20",
+                "PHPSESSID": "cedfab288179f6664f5c9618ed366da8",
+                "__gads": "ID=2742068859f028b1:T=1700588461:RT=1700594720:S=ALNI_MZSLD1i9UfH2VDctcyAhCkmeDmcwA",
+                "__gpi": "UID=00000cdfb8e36e90:T=1700588461:RT=1700594720:S=ALNI_MbYo0TsSZTyIPW-HN28FsYb5W8ibg",
+                "_sp_ses.d3fe": "*",
+                "_sp_id.d3fe": "e3195dba-8a01-40da-97aa-4fc88123500d.1700594403.1.1700594403.1700594403.492550f2-4356-433e-adcd-f5a53d8b1aaa"
+            }
+        }
     }
 }
