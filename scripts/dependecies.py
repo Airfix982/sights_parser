@@ -1,6 +1,7 @@
 import json
 import os
-from parsers import init_parse_extraguide, init_parse_wikiway
+from parsers import init_parse_extraguide, init_parse_wikiway, parse_country#, parse_country_city
+from classes import Sight
 
 def get_settings():
     with open("configs/settings.json", "r", encoding="utf-8") as file:
@@ -33,14 +34,23 @@ def get_parse_data():
 
     parse_data_path = settings["parse_data"]
 
-    if os.path.exists(parse_data_path):
+    if os.path.exists(parse_data_path) and os.path.exists(settings["extraguide_data"]) and os.path.exists(settings["wikiway_data"]):
         with open(parse_data_path, 'r', encoding='utf-8') as file:
             return json.load(file)
     else:
         init_data = get_init_data(
-            lambda: init_parse_extraguide(urls["extraguide"]),
-            lambda: init_parse_wikiway(urls["wikiway"])
+            lambda: init_parse_extraguide(urls["extraguide"], settings),
+            lambda: init_parse_wikiway(urls["wikiway"], settings)
         )
         with open(parse_data_path, 'w', encoding='utf-8') as file:
             json.dump(init_data, file, indent=4)
         return init_data
+    
+def start_parsing(num_sights, *args):
+    settings = get_settings()
+    os.makedirs(settings["img_path"], exist_ok=True)
+    if len(args) == 1:
+        units = parse_country(settings, num_sights, args[0])
+        return units
+    #else:
+     #   parse_country_city(settings, num_sights, args[0], args[1])
