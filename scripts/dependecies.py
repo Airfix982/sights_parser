@@ -50,7 +50,6 @@ def start_parsing(num_sights, *args):
     settings = get_settings()
     os.makedirs(settings["img_path"], exist_ok=True)
     if len(args) == 1:
-        units = parse_country(settings, num_sights, args[0])
-        return units
-    #else:
-     #   parse_country_city(settings, num_sights, args[0], args[1])
+        return parse_country(settings, num_sights, args[0])
+    else:
+        return parse_country(settings, num_sights, args[0], args[1])

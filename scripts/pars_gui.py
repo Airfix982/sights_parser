@@ -1,6 +1,8 @@
 import tkinter as tk
+import os
 from tkinter import messagebox, ttk
-from dependecies import get_parse_data
+from dependecies import get_parse_data, get_settings, start_parsing
+from classes import Sight
 
 def format_string(s):
     """Форматирование строки с заглавной первой буквой."""
@@ -15,12 +17,29 @@ def update_city_list(*args):
 def on_start_button_click(country_city_data):
     country = country_var.get().lower()
     city = city_var.get().capitalize()
+    try:
+        num_sights = int(num_sights_var.get())
+        if num_sights <= 0:
+            raise ValueError
+    except ValueError:
+        messagebox.showerror("Ошибка ввода", "Введите корректное число достопримечательностей.")
+        return
+    if not num_sights_var.get():
+        num_sights = 1000
+
     if country not in country_city_data or (city and city not in [c.capitalize() for c in country_city_data[country]]):
         messagebox.showerror("Ошибка ввода", "Выбранная страна или город не найдены. Пожалуйста, выберите из списка.")
         return
     # Здесь код для начала сбора данных
+    if not city:
+        units = start_parsing(num_sights, country)
+        print(len(units))
+    else:
+        start_parsing(num_sights, country, city)
+    
 
 if __name__ == "__main__":
+    settings = get_settings()
     country_city_data = {key.lower(): [city.lower() for city in cities] for key, cities in get_parse_data().items()}
     root = tk.Tk()
     root.title("Сбор данных о городах и странах")
@@ -37,6 +56,11 @@ if __name__ == "__main__":
     city_var = tk.StringVar()
     city_combobox = ttk.Combobox(root, textvariable=city_var)
     city_combobox.pack()
+
+    ttk.Label(root, text="Выберите макс. количество:").pack()
+    num_sights_var = tk.StringVar()
+    num_sights_entry = ttk.Entry(root, textvariable=num_sights_var)
+    num_sights_entry.pack()
 
     start_button = tk.Button(root, text="Начать сбор данных", bg="#004158", fg="white", command=lambda: on_start_button_click(country_city_data))
     start_button.pack(pady=10)

@@ -202,6 +202,7 @@ def download_image_extraguide(image_url, image_name, headers, cookies, settings)
 
 def parse_country(settings, num_sights, *args):
     country_name = args[0].capitalize()
+    city_name = args[1].capitalize() if len(args) > 1 else None
     sights = []
     new_hashes = load_hashes(settings["hash_path"])
 
@@ -212,17 +213,20 @@ def parse_country(settings, num_sights, *args):
     cookies_wikiway = web_settings_wikiway["cookies"]
     base_url_wikiway = web_settings_wikiway["url"].rstrip('/')
 
-    for sight_url, city_name in sights_data_wikiway:
+    for sight_url, current_city_name in sights_data_wikiway:
         if len(sights) >= num_sights:
             break
+        # Проверка, соответствует ли город указанному, если он предоставлен
+        if city_name and current_city_name != city_name:
+            continue
         title, description, image_name, url = parse_sight_page_wikiway(sight_url, headers_wikiway, cookies_wikiway, base_url_wikiway, settings)
         sight_hash = image_name.split('.')[0]
         if sight_hash not in new_hashes:
-            sight_object = Sight(country_name, city_name if city_name != "Не указан" else "", title, description, f"img/{image_name}", url, sight_hash)
+            sight_object = Sight(country_name, current_city_name if current_city_name != "Не указан" else "", title, description, f"img/{image_name}", url, sight_hash)
             sights.append(sight_object)
             new_hashes.add(sight_hash)
 
-    # Проверка, нужно ли загружать данные с сайта Extraguide
+    # Аналогичные изменения для Extraguide
     if len(sights) < num_sights:
         sights_data_extraguide = load_sights_for_country_extraguide(country_name, settings["extraguide_data"])
         web_settings_extraguide = json.load(open(settings["web_urls"]))["urls"]["extraguide"]
@@ -230,15 +234,17 @@ def parse_country(settings, num_sights, *args):
         cookies_extraguide = web_settings_extraguide["cookies"]
         base_url_extraguide = web_settings_extraguide["url"].rstrip('/')
 
-        for city_url, city_name in sights_data_extraguide:
+        for city_url, current_city_name in sights_data_extraguide:
             if len(sights) >= num_sights:
                 break
+            if city_name and current_city_name != city_name:
+                continue
             sights_ex = parse_sight_page_extraguide(city_url, headers_extraguide, cookies_extraguide, base_url_extraguide, settings, 0, num_sights - len(sights))
 
             for title, description, image_name, url in sights_ex:
                 sight_hash = image_name.split('.')[0]
                 if sight_hash not in new_hashes:
-                    sight_object = Sight(country_name, city_name, title, description, f"img/{image_name}", url, sight_hash)
+                    sight_object = Sight(country_name, current_city_name, title, description, f"img/{image_name}", url, sight_hash)
                     sights.append(sight_object)
                     new_hashes.add(sight_hash)
                     if len(sights) >= num_sights:
@@ -246,6 +252,7 @@ def parse_country(settings, num_sights, *args):
 
     update_hashes(settings["hash_path"], new_hashes)
     return sights
+
 
 
 
