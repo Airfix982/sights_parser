@@ -1,0 +1,5936 @@
+{
+    "Абхазия": {
+        "url": "https://wikiway.com/abkhaziya/",
+        "cities": [
+            {
+                "name": "Гагра",
+                "url": "https://wikiway.com/abkhaziya/gagra/"
+            },
+            {
+                "name": "Пицунда",
+                "url": "https://wikiway.com/abkhaziya/pitsunda/"
+            },
+            {
+                "name": "Сухум",
+                "url": "https://wikiway.com/abkhaziya/sukhum/"
+            },
+            {
+                "name": "Новый Афон",
+                "url": "https://wikiway.com/abkhaziya/novyy-afon/"
+            },
+            {
+                "name": "Гудаута",
+                "url": "https://wikiway.com/abkhaziya/gudauta/"
+            }
+        ]
+    },
+    "Австралия": {
+        "url": "https://wikiway.com/australia/",
+        "cities": [
+            {
+                "name": "Сидней",
+                "url": "https://wikiway.com/australia/sidney/"
+            },
+            {
+                "name": "Канберра",
+                "url": "https://wikiway.com/australia/canberra/"
+            },
+            {
+                "name": "Перт",
+                "url": "https://wikiway.com/australia/pert/"
+            },
+            {
+                "name": "Мельбурн",
+                "url": "https://wikiway.com/australia/melbourne/"
+            },
+            {
+                "name": "Дарвин",
+                "url": "https://wikiway.com/australia/darwin/"
+            },
+            {
+                "name": "Аделаида",
+                "url": "https://wikiway.com/australia/adelaida/"
+            },
+            {
+                "name": "Брисбен",
+                "url": "https://wikiway.com/australia/brisben/"
+            },
+            {
+                "name": "Хобарт",
+                "url": "https://wikiway.com/australia/hobart/"
+            },
+            {
+                "name": "Кэрнс",
+                "url": "https://wikiway.com/australia/cairns/"
+            }
+        ]
+    },
+    "Австрия": {
+        "url": "https://wikiway.com/austria/",
+        "cities": [
+            {
+                "name": "Вена",
+                "url": "https://wikiway.com/austria/vienna/"
+            },
+            {
+                "name": "Зальцбург",
+                "url": "https://wikiway.com/austria/salzburg/"
+            },
+            {
+                "name": "Грац",
+                "url": "https://wikiway.com/austria/graz/"
+            },
+            {
+                "name": "Линц",
+                "url": "https://wikiway.com/austria/linz/"
+            },
+            {
+                "name": "Инсбрук",
+                "url": "https://wikiway.com/austria/innsbruck/"
+            },
+            {
+                "name": "Брегенц",
+                "url": "https://wikiway.com/austria/bregents/"
+            },
+            {
+                "name": "Мельк",
+                "url": "https://wikiway.com/austria/melk/"
+            },
+            {
+                "name": "Клагенфурт",
+                "url": "https://wikiway.com/austria/klagenfurt/"
+            },
+            {
+                "name": "Вельс",
+                "url": "https://wikiway.com/austria/wels/"
+            },
+            {
+                "name": "Айзенштадт",
+                "url": "https://wikiway.com/austria/ayzenshtadt/"
+            },
+            {
+                "name": "Филлах",
+                "url": "https://wikiway.com/austria/fillakh/"
+            }
+        ]
+    },
+    "Азербайджан": {
+        "url": "https://wikiway.com/azerbaijan/",
+        "cities": [
+            {
+                "name": "Баку",
+                "url": "https://wikiway.com/azerbaijan/baku/"
+            },
+            {
+                "name": "Гянджа",
+                "url": "https://wikiway.com/azerbaijan/gyandzha/"
+            },
+            {
+                "name": "Шеки",
+                "url": "https://wikiway.com/azerbaijan/sheki/"
+            },
+            {
+                "name": "Мингечаур",
+                "url": "https://wikiway.com/azerbaijan/mingechaur/"
+            },
+            {
+                "name": "Нахичевань",
+                "url": "https://wikiway.com/azerbaijan/nakhichevan/"
+            },
+            {
+                "name": "Куба",
+                "url": "https://wikiway.com/azerbaijan/quba/"
+            },
+            {
+                "name": "Агджабеди",
+                "url": "https://wikiway.com/azerbaijan/agdzhabedi/"
+            }
+        ]
+    },
+    "Албания": {
+        "url": "https://wikiway.com/albania/",
+        "cities": [
+            {
+                "name": "Тирана",
+                "url": "https://wikiway.com/albania/tirana/"
+            },
+            {
+                "name": "Шкодер",
+                "url": "https://wikiway.com/albania/shkoder/"
+            },
+            {
+                "name": "Дуррес",
+                "url": "https://wikiway.com/albania/durres/"
+            },
+            {
+                "name": "Гирокастра",
+                "url": "https://wikiway.com/albania/girokastra/"
+            },
+            {
+                "name": "Эльбасан",
+                "url": "https://wikiway.com/albania/elbasan/"
+            }
+        ]
+    },
+    "Алжир": {
+        "url": "https://wikiway.com/algeria/",
+        "cities": [
+            {
+                "name": "Константина",
+                "url": "https://wikiway.com/algeria/konstantina/"
+            },
+            {
+                "name": "Алжир",
+                "url": "https://wikiway.com/algeria/algeria-city/"
+            },
+            {
+                "name": "Оран",
+                "url": "https://wikiway.com/algeria/oran/"
+            },
+            {
+                "name": "Гардая",
+                "url": "https://wikiway.com/algeria/gardaya/"
+            },
+            {
+                "name": "Тенес",
+                "url": "https://wikiway.com/algeria/tenes/"
+            }
+        ]
+    },
+    "Ам. Виргинские острова": {
+        "url": "https://wikiway.com/amerikanskie-virginskie-ostrova/",
+        "cities": [
+            {
+                "name": "Шарлотта-Амалия",
+                "url": "https://wikiway.com/amerikanskie-virginskie-ostrova/sharlotta-amaliya/"
+            }
+        ]
+    },
+    "Американское Самоа": {
+        "url": "https://wikiway.com/amerikanskoe-samoa/",
+        "cities": [
+            {
+                "name": "Паго-Паго",
+                "url": "https://wikiway.com/amerikanskoe-samoa/pago-pago/"
+            }
+        ]
+    },
+    "Ангола": {
+        "url": "https://wikiway.com/angola/",
+        "cities": [
+            {
+                "name": "Луанда",
+                "url": "https://wikiway.com/angola/luanda/"
+            },
+            {
+                "name": "Уамбо",
+                "url": "https://wikiway.com/angola/huambo/"
+            },
+            {
+                "name": "Бенгела",
+                "url": "https://wikiway.com/angola/benguella/"
+            }
+        ]
+    },
+    "Андорра": {
+        "url": "https://wikiway.com/andorra/",
+        "cities": [
+            {
+                "name": "Андорра-ла-Велья",
+                "url": "https://wikiway.com/andorra/andorra-la-vella/"
+            }
+        ]
+    },
+    "Антигуа и Барбуда": {
+        "url": "https://wikiway.com/antigua-i-barbuda/",
+        "cities": [
+            {
+                "name": "Сент-Джонс",
+                "url": "https://wikiway.com/antigua-i-barbuda/sent-dzhons/"
+            }
+        ]
+    },
+    "Аргентина": {
+        "url": "https://wikiway.com/argentina/",
+        "cities": [
+            {
+                "name": "Буэнос-Айрес",
+                "url": "https://wikiway.com/argentina/buenos-aires/"
+            },
+            {
+                "name": "Кордова",
+                "url": "https://wikiway.com/argentina/cordoba/"
+            },
+            {
+                "name": "Сальта",
+                "url": "https://wikiway.com/argentina/salta/"
+            },
+            {
+                "name": "Мендоса",
+                "url": "https://wikiway.com/argentina/mendosa/"
+            },
+            {
+                "name": "Росарио",
+                "url": "https://wikiway.com/argentina/rosario/"
+            },
+            {
+                "name": "Ушуайя",
+                "url": "https://wikiway.com/argentina/ushuayya/"
+            },
+            {
+                "name": "Мар-дель-Плата",
+                "url": "https://wikiway.com/argentina/mar-del-plata/"
+            },
+            {
+                "name": "Чиполлетти",
+                "url": "https://wikiway.com/argentina/chipolletti/"
+            },
+            {
+                "name": "Неукен",
+                "url": "https://wikiway.com/argentina/neuken/"
+            }
+        ]
+    },
+    "Армения": {
+        "url": "https://wikiway.com/armenia/",
+        "cities": [
+            {
+                "name": "Ереван",
+                "url": "https://wikiway.com/armenia/erevan/"
+            },
+            {
+                "name": "Гюмри",
+                "url": "https://wikiway.com/armenia/gyumri/"
+            },
+            {
+                "name": "Армавир",
+                "url": "https://wikiway.com/armenia/armavir/"
+            },
+            {
+                "name": "Арарат",
+                "url": "https://wikiway.com/armenia/ararat/"
+            },
+            {
+                "name": "Алаверди",
+                "url": "https://wikiway.com/armenia/alaverdi/"
+            },
+            {
+                "name": "Вагаршапат",
+                "url": "https://wikiway.com/armenia/vagarshapat/"
+            }
+        ]
+    },
+    "Аруба": {
+        "url": "https://wikiway.com/aruba/",
+        "cities": [
+            {
+                "name": "Ораньестад",
+                "url": "https://wikiway.com/aruba/oranestad/"
+            }
+        ]
+    },
+    "Афганистан": {
+        "url": "https://wikiway.com/afganistan/",
+        "cities": [
+            {
+                "name": "Кабул",
+                "url": "https://wikiway.com/afganistan/kabul/"
+            },
+            {
+                "name": "Мазари-Шариф",
+                "url": "https://wikiway.com/afganistan/mazari-sharif/"
+            },
+            {
+                "name": "Кандагар",
+                "url": "https://wikiway.com/afganistan/kandagar/"
+            },
+            {
+                "name": "Герат",
+                "url": "https://wikiway.com/afganistan/gerat/"
+            },
+            {
+                "name": "Джелалабад",
+                "url": "https://wikiway.com/afganistan/dzhalalabad/"
+            }
+        ]
+    },
+    "Багамы": {
+        "url": "https://wikiway.com/bahamas/",
+        "cities": [
+            {
+                "name": "Нассау",
+                "url": "https://wikiway.com/bahamas/nassau/"
+            }
+        ]
+    },
+    "Бангладеш": {
+        "url": "https://wikiway.com/bangladesh/",
+        "cities": [
+            {
+                "name": "Дакка",
+                "url": "https://wikiway.com/bangladesh/dakka/"
+            },
+            {
+                "name": "Читтагонг",
+                "url": "https://wikiway.com/bangladesh/chittagong/"
+            },
+            {
+                "name": "Багерхат",
+                "url": "https://wikiway.com/bangladesh/bagerkhat/"
+            }
+        ]
+    },
+    "Барбадос": {
+        "url": "https://wikiway.com/barbados/",
+        "cities": [
+            {
+                "name": "Бриджтаун",
+                "url": "https://wikiway.com/barbados/bridzhtaun/"
+            }
+        ]
+    },
+    "Бахрейн": {
+        "url": "https://wikiway.com/bahrain/",
+        "cities": [
+            {
+                "name": "Манама",
+                "url": "https://wikiway.com/bahrain/manama/"
+            }
+        ]
+    },
+    "Белиз": {
+        "url": "https://wikiway.com/belize/",
+        "cities": [
+            {
+                "name": "Белиз",
+                "url": "https://wikiway.com/belize/beliz/"
+            },
+            {
+                "name": "Бельмопан",
+                "url": "https://wikiway.com/belize/belmopan/"
+            }
+        ]
+    },
+    "Беларусь": {
+        "url": "https://wikiway.com/belarus/",
+        "cities": [
+            {
+                "name": "Минск",
+                "url": "https://wikiway.com/belarus/minsk/"
+            },
+            {
+                "name": "Брест",
+                "url": "https://wikiway.com/belarus/brest/"
+            },
+            {
+                "name": "Гродно",
+                "url": "https://wikiway.com/belarus/grodno/"
+            },
+            {
+                "name": "Гомель",
+                "url": "https://wikiway.com/belarus/gomel/"
+            },
+            {
+                "name": "Витебск",
+                "url": "https://wikiway.com/belarus/vitebsk/"
+            },
+            {
+                "name": "Могилев",
+                "url": "https://wikiway.com/belarus/mogilev/"
+            },
+            {
+                "name": "Полоцк",
+                "url": "https://wikiway.com/belarus/polotsk/"
+            },
+            {
+                "name": "Несвиж",
+                "url": "https://wikiway.com/belarus/nesvizh/"
+            },
+            {
+                "name": "Бобруйск",
+                "url": "https://wikiway.com/belarus/bobruysk/"
+            },
+            {
+                "name": "Борисов",
+                "url": "https://wikiway.com/belarus/borisov/"
+            },
+            {
+                "name": "Каменец",
+                "url": "https://wikiway.com/belarus/kamenets/"
+            }
+        ]
+    },
+    "Бельгия": {
+        "url": "https://wikiway.com/belgium/",
+        "cities": [
+            {
+                "name": "Брюссель",
+                "url": "https://wikiway.com/belgium/bryussel/"
+            },
+            {
+                "name": "Брюгге",
+                "url": "https://wikiway.com/belgium/bryugge/"
+            },
+            {
+                "name": "Гент",
+                "url": "https://wikiway.com/belgium/gent/"
+            },
+            {
+                "name": "Антверпен",
+                "url": "https://wikiway.com/belgium/antverpen/"
+            },
+            {
+                "name": "Остенде",
+                "url": "https://wikiway.com/belgium/ostende/"
+            },
+            {
+                "name": "Лёвен",
+                "url": "https://wikiway.com/belgium/leuven/"
+            },
+            {
+                "name": "Льеж",
+                "url": "https://wikiway.com/belgium/lezh/"
+            },
+            {
+                "name": "Шарлеруа",
+                "url": "https://wikiway.com/belgium/sharlerua/"
+            },
+            {
+                "name": "Мехелен",
+                "url": "https://wikiway.com/belgium/mekhelen/"
+            },
+            {
+                "name": "Намюр",
+                "url": "https://wikiway.com/belgium/namyur/"
+            }
+        ]
+    },
+    "Бенин": {
+        "url": "https://wikiway.com/benin/",
+        "cities": [
+            {
+                "name": "Порто-Ново",
+                "url": "https://wikiway.com/benin/porto-novo/"
+            },
+            {
+                "name": "Котону",
+                "url": "https://wikiway.com/benin/kotonu/"
+            },
+            {
+                "name": "Абомей",
+                "url": "https://wikiway.com/benin/abomey/"
+            }
+        ]
+    },
+    "Бермудские Острова": {
+        "url": "https://wikiway.com/bermudskie-ostrova/",
+        "cities": [
+            {
+                "name": "Гамильтон",
+                "url": "https://wikiway.com/bermudskie-ostrova/hamilton/"
+            }
+        ]
+    },
+    "Болгария": {
+        "url": "https://wikiway.com/bolgaria/",
+        "cities": [
+            {
+                "name": "София",
+                "url": "https://wikiway.com/bolgaria/sofiya/"
+            },
+            {
+                "name": "Варна",
+                "url": "https://wikiway.com/bolgaria/varna/"
+            },
+            {
+                "name": "Бургас",
+                "url": "https://wikiway.com/bolgaria/burgas/"
+            },
+            {
+                "name": "Пловдив",
+                "url": "https://wikiway.com/bolgaria/plovdiv/"
+            },
+            {
+                "name": "Банско",
+                "url": "https://wikiway.com/bolgaria/bansko/"
+            },
+            {
+                "name": "Несебр",
+                "url": "https://wikiway.com/bolgaria/nesebyr/"
+            },
+            {
+                "name": "Созополь",
+                "url": "https://wikiway.com/bolgaria/sozopol/"
+            },
+            {
+                "name": "Обзор",
+                "url": "https://wikiway.com/bolgaria/obzor/"
+            },
+            {
+                "name": "Велико-Тырново",
+                "url": "https://wikiway.com/bolgaria/veliko-tyrnovo/"
+            },
+            {
+                "name": "Святой Влас",
+                "url": "https://wikiway.com/bolgaria/svyatoy-vlas/"
+            },
+            {
+                "name": "Плиска",
+                "url": "https://wikiway.com/bolgaria/pliska/"
+            },
+            {
+                "name": "Велики Преслав",
+                "url": "https://wikiway.com/bolgaria/veliki-preslav/"
+            }
+        ]
+    },
+    "Боливия": {
+        "url": "https://wikiway.com/bolivia/",
+        "cities": [
+            {
+                "name": "Ла-Пас",
+                "url": "https://wikiway.com/bolivia/la-pas/"
+            },
+            {
+                "name": "Сукре",
+                "url": "https://wikiway.com/bolivia/sukre/"
+            },
+            {
+                "name": "Тариха",
+                "url": "https://wikiway.com/bolivia/tarikha/"
+            },
+            {
+                "name": "Кочабамба",
+                "url": "https://wikiway.com/bolivia/kochabamba/"
+            },
+            {
+                "name": "Санта-Крус-де-ла-Сьерра",
+                "url": "https://wikiway.com/bolivia/santa-krus-de-la-serra/"
+            }
+        ]
+    },
+    "Бонэйр": {
+        "url": "https://wikiway.com/boneyr/",
+        "cities": [
+            {
+                "name": "Кралендейк",
+                "url": "https://wikiway.com/boneyr/kralendeyk/"
+            }
+        ]
+    },
+    "Босния и Герцеговина": {
+        "url": "https://wikiway.com/bosniya-i-gertsegovina/",
+        "cities": [
+            {
+                "name": "Сараево",
+                "url": "https://wikiway.com/bosniya-i-gertsegovina/saraevo/"
+            },
+            {
+                "name": "Мостар",
+                "url": "https://wikiway.com/bosniya-i-gertsegovina/mostar/"
+            },
+            {
+                "name": "Баня-Лука",
+                "url": "https://wikiway.com/bosniya-i-gertsegovina/banya-luka/"
+            },
+            {
+                "name": "Бихач",
+                "url": "https://wikiway.com/bosniya-i-gertsegovina/bikhach/"
+            }
+        ]
+    },
+    "Ботсвана": {
+        "url": "https://wikiway.com/botsvana/",
+        "cities": [
+            {
+                "name": "Габороне",
+                "url": "https://wikiway.com/botsvana/gaborone/"
+            }
+        ]
+    },
+    "Бразилия": {
+        "url": "https://wikiway.com/brazil/",
+        "cities": [
+            {
+                "name": "Рио-де-Жанейро",
+                "url": "https://wikiway.com/brazil/rio-de-zhaneyro/"
+            },
+            {
+                "name": "Салвадор",
+                "url": "https://wikiway.com/brazil/salvador/"
+            },
+            {
+                "name": "Бразилиа",
+                "url": "https://wikiway.com/brazil/brazilia/"
+            },
+            {
+                "name": "Сан-Паулу",
+                "url": "https://wikiway.com/brazil/san-paulu/"
+            },
+            {
+                "name": "Форталеза",
+                "url": "https://wikiway.com/brazil/fortaleza/"
+            },
+            {
+                "name": "Ресифи",
+                "url": "https://wikiway.com/brazil/resifi/"
+            },
+            {
+                "name": "Нитерой",
+                "url": "https://wikiway.com/brazil/niteroy/"
+            },
+            {
+                "name": "Манаус",
+                "url": "https://wikiway.com/brazil/manaus/"
+            },
+            {
+                "name": "Куяба",
+                "url": "https://wikiway.com/brazil/kuyaba/"
+            },
+            {
+                "name": "Белу-Оризонти",
+                "url": "https://wikiway.com/brazil/belu-orizonti/"
+            },
+            {
+                "name": "Белен",
+                "url": "https://wikiway.com/brazil/belen/"
+            },
+            {
+                "name": "Терезина",
+                "url": "https://wikiway.com/brazil/terezina/"
+            },
+            {
+                "name": "Сан-Луис",
+                "url": "https://wikiway.com/brazil/san-luis/"
+            },
+            {
+                "name": "Порту-Алегри",
+                "url": "https://wikiway.com/brazil/portu-alegri/"
+            },
+            {
+                "name": "Гояния",
+                "url": "https://wikiway.com/brazil/goyas/"
+            },
+            {
+                "name": "Бузиос",
+                "url": "https://wikiway.com/brazil/buzios/"
+            },
+            {
+                "name": "Аракажу",
+                "url": "https://wikiway.com/brazil/arakazhu/"
+            },
+            {
+                "name": "Ору-Прету",
+                "url": "https://wikiway.com/brazil/oru-pretu/"
+            }
+        ]
+    },
+    "Бр. Виргинские острова": {
+        "url": "https://wikiway.com/britanskie-virginskie-ostrova/",
+        "cities": [
+            {
+                "name": "Род-Таун",
+                "url": "https://wikiway.com/britanskie-virginskie-ostrova/rod-taun/"
+            }
+        ]
+    },
+    "Бруней": {
+        "url": "https://wikiway.com/brunei/",
+        "cities": [
+            {
+                "name": "Бандар-Сери-Бегаван",
+                "url": "https://wikiway.com/brunei/bandar-seri-begavan/"
+            }
+        ]
+    },
+    "Буркина-Фасо": {
+        "url": "https://wikiway.com/burkina-faso/",
+        "cities": [
+            {
+                "name": "Уагадугу",
+                "url": "https://wikiway.com/burkina-faso/uagadugu/"
+            }
+        ]
+    },
+    "Бурунди": {
+        "url": "https://wikiway.com/burundi/",
+        "cities": [
+            {
+                "name": "Бужумбура",
+                "url": "https://wikiway.com/burundi/buzhumbura/"
+            }
+        ]
+    },
+    "Бутан": {
+        "url": "https://wikiway.com/butan/",
+        "cities": [
+            {
+                "name": "Тхимпху",
+                "url": "https://wikiway.com/butan/tkhimpkhu/"
+            },
+            {
+                "name": "Пхунчхолинг",
+                "url": "https://wikiway.com/butan/pkhunchkholing/"
+            },
+            {
+                "name": "Пунакха",
+                "url": "https://wikiway.com/butan/punakkha/"
+            }
+        ]
+    },
+    "Вануату": {
+        "url": "https://wikiway.com/vanuatu/",
+        "cities": [
+            {
+                "name": "Порт-Вила",
+                "url": "https://wikiway.com/vanuatu/port-vila/"
+            },
+            {
+                "name": "Луганвилл",
+                "url": "https://wikiway.com/vanuatu/luganvill/"
+            },
+            {
+                "name": "Ленакел",
+                "url": "https://wikiway.com/vanuatu/lenakel/"
+            },
+            {
+                "name": "Исангел",
+                "url": "https://wikiway.com/vanuatu/isangel/"
+            }
+        ]
+    },
+    "Ватикан": {
+        "url": "https://wikiway.com/vatikan/",
+        "cities": []
+    },
+    "Великобритания": {
+        "url": "https://wikiway.com/velikobritaniya/",
+        "cities": [
+            {
+                "name": "Лондон",
+                "url": "https://wikiway.com/velikobritaniya/london/"
+            },
+            {
+                "name": "Ливерпуль",
+                "url": "https://wikiway.com/velikobritaniya/liverpul/"
+            },
+            {
+                "name": "Манчестер",
+                "url": "https://wikiway.com/velikobritaniya/manchester/"
+            },
+            {
+                "name": "Бат",
+                "url": "https://wikiway.com/velikobritaniya/bat/"
+            },
+            {
+                "name": "Виндзор",
+                "url": "https://wikiway.com/velikobritaniya/windsor/"
+            },
+            {
+                "name": "Оксфорд",
+                "url": "https://wikiway.com/velikobritaniya/oksford/"
+            },
+            {
+                "name": "Эдинбург",
+                "url": "https://wikiway.com/velikobritaniya/edinburg/"
+            },
+            {
+                "name": "Кембридж",
+                "url": "https://wikiway.com/velikobritaniya/kembridzh/"
+            },
+            {
+                "name": "Йорк",
+                "url": "https://wikiway.com/velikobritaniya/york/"
+            },
+            {
+                "name": "Глазго",
+                "url": "https://wikiway.com/velikobritaniya/glazgo/"
+            },
+            {
+                "name": "Бристоль",
+                "url": "https://wikiway.com/velikobritaniya/bristol/"
+            },
+            {
+                "name": "Бирмингем",
+                "url": "https://wikiway.com/velikobritaniya/birmingem/"
+            },
+            {
+                "name": "Абердин",
+                "url": "https://wikiway.com/velikobritaniya/aberdin/"
+            },
+            {
+                "name": "Честер",
+                "url": "https://wikiway.com/velikobritaniya/chester/"
+            },
+            {
+                "name": "Лидс",
+                "url": "https://wikiway.com/velikobritaniya/lids/"
+            },
+            {
+                "name": "Винчестер",
+                "url": "https://wikiway.com/velikobritaniya/vinchester/"
+            },
+            {
+                "name": "Белфаст",
+                "url": "https://wikiway.com/velikobritaniya/belfast/"
+            },
+            {
+                "name": "Или",
+                "url": "https://wikiway.com/velikobritaniya/ili/"
+            },
+            {
+                "name": "Шеффилд",
+                "url": "https://wikiway.com/velikobritaniya/sheffild/"
+            },
+            {
+                "name": "Кардифф",
+                "url": "https://wikiway.com/velikobritaniya/kardiff/"
+            },
+            {
+                "name": "Брайтон",
+                "url": "https://wikiway.com/velikobritaniya/brayton/"
+            },
+            {
+                "name": "Солсбери",
+                "url": "https://wikiway.com/velikobritaniya/solsberi/"
+            },
+            {
+                "name": "Стратфорд-на-Эйвоне",
+                "url": "https://wikiway.com/velikobritaniya/stratford-na-eyvone/"
+            },
+            {
+                "name": "Стерлинг",
+                "url": "https://wikiway.com/velikobritaniya/sterling/"
+            }
+        ]
+    },
+    "Венгрия": {
+        "url": "https://wikiway.com/hungary/",
+        "cities": [
+            {
+                "name": "Будапешт",
+                "url": "https://wikiway.com/hungary/budapesht/"
+            },
+            {
+                "name": "Печ",
+                "url": "https://wikiway.com/hungary/pech/"
+            },
+            {
+                "name": "Дьер",
+                "url": "https://wikiway.com/hungary/der/"
+            },
+            {
+                "name": "Сегед",
+                "url": "https://wikiway.com/hungary/seged/"
+            },
+            {
+                "name": "Дебрецен",
+                "url": "https://wikiway.com/hungary/debretsen/"
+            },
+            {
+                "name": "Эстергом",
+                "url": "https://wikiway.com/hungary/estergom/"
+            },
+            {
+                "name": "Мишкольц",
+                "url": "https://wikiway.com/hungary/mishkolts/"
+            },
+            {
+                "name": "Кечкемет",
+                "url": "https://wikiway.com/hungary/kechkemet/"
+            }
+        ]
+    },
+    "Венесуэла": {
+        "url": "https://wikiway.com/venezuela/",
+        "cities": [
+            {
+                "name": "Каракас",
+                "url": "https://wikiway.com/venezuela/karakas/"
+            },
+            {
+                "name": "Коро",
+                "url": "https://wikiway.com/venezuela/koro/"
+            },
+            {
+                "name": "Валенсия",
+                "url": "https://wikiway.com/venezuela/valensiya/"
+            },
+            {
+                "name": "Маракайбо",
+                "url": "https://wikiway.com/venezuela/marakaybo/"
+            },
+            {
+                "name": "Баркисимето",
+                "url": "https://wikiway.com/venezuela/barkisimeto/"
+            },
+            {
+                "name": "Кабимас",
+                "url": "https://wikiway.com/venezuela/kabimas/"
+            }
+        ]
+    },
+    "Восточный Тимор": {
+        "url": "https://wikiway.com/vostochnyy-timor/",
+        "cities": [
+            {
+                "name": "Дили",
+                "url": "https://wikiway.com/vostochnyy-timor/dili/"
+            }
+        ]
+    },
+    "Вьетнам": {
+        "url": "https://wikiway.com/vietnam/",
+        "cities": [
+            {
+                "name": "Ханой",
+                "url": "https://wikiway.com/vietnam/khanoy/"
+            },
+            {
+                "name": "Нячанг",
+                "url": "https://wikiway.com/vietnam/nyachang/"
+            },
+            {
+                "name": "Фантьет",
+                "url": "https://wikiway.com/vietnam/fantet/"
+            },
+            {
+                "name": "Хошимин (Сайгон)",
+                "url": "https://wikiway.com/vietnam/khoshimin/"
+            },
+            {
+                "name": "Муйне",
+                "url": "https://wikiway.com/vietnam/muyne/"
+            },
+            {
+                "name": "Далат",
+                "url": "https://wikiway.com/vietnam/dalat/"
+            },
+            {
+                "name": "Хюэ",
+                "url": "https://wikiway.com/vietnam/khyue/"
+            },
+            {
+                "name": "Хойан",
+                "url": "https://wikiway.com/vietnam/khoyan/"
+            },
+            {
+                "name": "Дананг",
+                "url": "https://wikiway.com/vietnam/danang/"
+            },
+            {
+                "name": "Вунгтау",
+                "url": "https://wikiway.com/vietnam/vungtau/"
+            },
+            {
+                "name": "Хайфон",
+                "url": "https://wikiway.com/vietnam/khayfon/"
+            }
+        ]
+    },
+    "Габон": {
+        "url": "https://wikiway.com/gabon/",
+        "cities": [
+            {
+                "name": "Либревиль",
+                "url": "https://wikiway.com/gabon/librevil/"
+            }
+        ]
+    },
+    "Гаити": {
+        "url": "https://wikiway.com/haiti/",
+        "cities": [
+            {
+                "name": "Порт-о-Пренс",
+                "url": "https://wikiway.com/haiti/port-o-prens/"
+            },
+            {
+                "name": "Кап-Аитьен",
+                "url": "https://wikiway.com/haiti/kap-aiten/"
+            }
+        ]
+    },
+    "Гайана": {
+        "url": "https://wikiway.com/guyana/",
+        "cities": [
+            {
+                "name": "Нью-Амстердам",
+                "url": "https://wikiway.com/guyana/new-amsterdam/"
+            },
+            {
+                "name": "Джорджтаун",
+                "url": "https://wikiway.com/guyana/dzhordzhtaun/"
+            }
+        ]
+    },
+    "Гамбия": {
+        "url": "https://wikiway.com/gambia/",
+        "cities": [
+            {
+                "name": "Банжул",
+                "url": "https://wikiway.com/gambia/banzhul/"
+            }
+        ]
+    },
+    "Гана": {
+        "url": "https://wikiway.com/ghana/",
+        "cities": [
+            {
+                "name": "Аккра",
+                "url": "https://wikiway.com/ghana/akkra/"
+            },
+            {
+                "name": "Кейп-Кост",
+                "url": "https://wikiway.com/ghana/keyp-kost/"
+            }
+        ]
+    },
+    "Гватемала": {
+        "url": "https://wikiway.com/guatemala/",
+        "cities": [
+            {
+                "name": "Гватемала",
+                "url": "https://wikiway.com/guatemala/gvatemala/"
+            },
+            {
+                "name": "Антигуа-Гватемала",
+                "url": "https://wikiway.com/guatemala/antigua-gvatemala/"
+            }
+        ]
+    },
+    "Гвинея": {
+        "url": "https://wikiway.com/guinea/",
+        "cities": [
+            {
+                "name": "Конакри",
+                "url": "https://wikiway.com/guinea/konakri/"
+            }
+        ]
+    },
+    "Гвинея-Бисау": {
+        "url": "https://wikiway.com/guinea-bissau/",
+        "cities": [
+            {
+                "name": "Бисау",
+                "url": "https://wikiway.com/guinea-bissau/bisau/"
+            }
+        ]
+    },
+    "Германия": {
+        "url": "https://wikiway.com/germany/",
+        "cities": [
+            {
+                "name": "Берлин",
+                "url": "https://wikiway.com/germany/berlin/"
+            },
+            {
+                "name": "Мюнхен",
+                "url": "https://wikiway.com/germany/myunkhen/"
+            },
+            {
+                "name": "Кёльн",
+                "url": "https://wikiway.com/germany/kyeln/"
+            },
+            {
+                "name": "Дюссельдорф",
+                "url": "https://wikiway.com/germany/dyusseldorf/"
+            },
+            {
+                "name": "Франкфурт-на-Майне",
+                "url": "https://wikiway.com/germany/frankfurt-na-mayne/"
+            },
+            {
+                "name": "Гамбург",
+                "url": "https://wikiway.com/germany/gamburg/"
+            },
+            {
+                "name": "Бремен",
+                "url": "https://wikiway.com/germany/bremen/"
+            },
+            {
+                "name": "Баден-Баден",
+                "url": "https://wikiway.com/germany/baden-baden/"
+            },
+            {
+                "name": "Штутгарт",
+                "url": "https://wikiway.com/germany/shtutgart/"
+            },
+            {
+                "name": "Дрезден",
+                "url": "https://wikiway.com/germany/drezden/"
+            },
+            {
+                "name": "Аугсбург",
+                "url": "https://wikiway.com/germany/augsburg/"
+            },
+            {
+                "name": "Дортмунд",
+                "url": "https://wikiway.com/germany/dortmund/"
+            },
+            {
+                "name": "Нюрнберг",
+                "url": "https://wikiway.com/germany/nyurnberg/"
+            },
+            {
+                "name": "Потсдам",
+                "url": "https://wikiway.com/germany/potsdam/"
+            },
+            {
+                "name": "Лейпциг",
+                "url": "https://wikiway.com/germany/leyptsig/"
+            },
+            {
+                "name": "Трир",
+                "url": "https://wikiway.com/germany/trir/"
+            },
+            {
+                "name": "Магдебург",
+                "url": "https://wikiway.com/germany/magdeburg/"
+            },
+            {
+                "name": "Ганновер",
+                "url": "https://wikiway.com/germany/gannover/"
+            },
+            {
+                "name": "Аахен",
+                "url": "https://wikiway.com/germany/akhen/"
+            },
+            {
+                "name": "Ротенбург-на-Таубере",
+                "url": "https://wikiway.com/germany/rotenburg-na-taubere/"
+            },
+            {
+                "name": "Регенсбург",
+                "url": "https://wikiway.com/germany/regensburg/"
+            },
+            {
+                "name": "Любек",
+                "url": "https://wikiway.com/germany/lyubek/"
+            },
+            {
+                "name": "Висбаден",
+                "url": "https://wikiway.com/germany/visbaden/"
+            },
+            {
+                "name": "Дессау",
+                "url": "https://wikiway.com/germany/dessau/"
+            }
+        ]
+    },
+    "Гондурас": {
+        "url": "https://wikiway.com/honduras/",
+        "cities": [
+            {
+                "name": "Тегусигальпа",
+                "url": "https://wikiway.com/honduras/tegusigalpa/"
+            }
+        ]
+    },
+    "Гонконг": {
+        "url": "https://wikiway.com/hong-kong/",
+        "cities": []
+    },
+    "Гренада": {
+        "url": "https://wikiway.com/grenada/",
+        "cities": [
+            {
+                "name": "Сент-Джорджес",
+                "url": "https://wikiway.com/grenada/sent-dzhordzhes/"
+            }
+        ]
+    },
+    "Греция": {
+        "url": "https://wikiway.com/greece/",
+        "cities": [
+            {
+                "name": "Афины",
+                "url": "https://wikiway.com/greece/afiny/"
+            },
+            {
+                "name": "Родос",
+                "url": "https://wikiway.com/greece/rodos/"
+            },
+            {
+                "name": "Салоники",
+                "url": "https://wikiway.com/greece/saloniki/"
+            },
+            {
+                "name": "Ираклион",
+                "url": "https://wikiway.com/greece/iraklion/"
+            },
+            {
+                "name": "Агиос Николаос",
+                "url": "https://wikiway.com/greece/agios-nikolaos/"
+            },
+            {
+                "name": "Ретимно",
+                "url": "https://wikiway.com/greece/retimno/"
+            },
+            {
+                "name": "Патры",
+                "url": "https://wikiway.com/greece/patry/"
+            },
+            {
+                "name": "Херсониссос",
+                "url": "https://wikiway.com/greece/khersonissos/"
+            },
+            {
+                "name": "Керкира (Корфу)",
+                "url": "https://wikiway.com/greece/kerkira-korfu/"
+            },
+            {
+                "name": "Иерапетра",
+                "url": "https://wikiway.com/greece/ierapetra/"
+            },
+            {
+                "name": "Дельфы",
+                "url": "https://wikiway.com/greece/delfy/"
+            },
+            {
+                "name": "Пирей",
+                "url": "https://wikiway.com/greece/pirey/"
+            },
+            {
+                "name": "Фивы",
+                "url": "https://wikiway.com/greece/fivy/"
+            },
+            {
+                "name": "Нафплион",
+                "url": "https://wikiway.com/greece/nafplion/"
+            },
+            {
+                "name": "Коринф",
+                "url": "https://wikiway.com/greece/korinf/"
+            },
+            {
+                "name": "Спарта",
+                "url": "https://wikiway.com/greece/sparta/"
+            },
+            {
+                "name": "Митилини",
+                "url": "https://wikiway.com/greece/mitilini/"
+            },
+            {
+                "name": "Мистра",
+                "url": "https://wikiway.com/greece/mistra/"
+            },
+            {
+                "name": "Сими",
+                "url": "https://wikiway.com/greece/simi/"
+            },
+            {
+                "name": "Эпидавр",
+                "url": "https://wikiway.com/greece/epidavr/"
+            }
+        ]
+    },
+    "Грузия": {
+        "url": "https://wikiway.com/georgia/",
+        "cities": [
+            {
+                "name": "Тбилиси",
+                "url": "https://wikiway.com/georgia/tbilisi/"
+            },
+            {
+                "name": "Батуми",
+                "url": "https://wikiway.com/georgia/batumi/"
+            },
+            {
+                "name": "Мцхета",
+                "url": "https://wikiway.com/georgia/mtskheta/"
+            },
+            {
+                "name": "Рустави",
+                "url": "https://wikiway.com/georgia/rustavi/"
+            },
+            {
+                "name": "Боржоми",
+                "url": "https://wikiway.com/georgia/borzhomi/"
+            },
+            {
+                "name": "Кутаиси",
+                "url": "https://wikiway.com/georgia/kutaisi/"
+            },
+            {
+                "name": "Телави",
+                "url": "https://wikiway.com/georgia/telavi/"
+            },
+            {
+                "name": "Сурами",
+                "url": "https://wikiway.com/georgia/surami/"
+            }
+        ]
+    },
+    "Дания": {
+        "url": "https://wikiway.com/daniya/",
+        "cities": [
+            {
+                "name": "Копенгаген",
+                "url": "https://wikiway.com/daniya/kopengagen/"
+            },
+            {
+                "name": "Оденсе",
+                "url": "https://wikiway.com/daniya/odense/"
+            },
+            {
+                "name": "Эсбьерг",
+                "url": "https://wikiway.com/daniya/esberg/"
+            },
+            {
+                "name": "Орхус",
+                "url": "https://wikiway.com/daniya/orkhus/"
+            },
+            {
+                "name": "Нуук",
+                "url": "https://wikiway.com/daniya/nuuk/"
+            },
+            {
+                "name": "Биллунд",
+                "url": "https://wikiway.com/daniya/billund/"
+            },
+            {
+                "name": "Ольборг",
+                "url": "https://wikiway.com/daniya/olborg/"
+            }
+        ]
+    },
+    "Д.Р. Конго": {
+        "url": "https://wikiway.com/demokraticheskaya-respublika-kongo/",
+        "cities": [
+            {
+                "name": "Бома",
+                "url": "https://wikiway.com/demokraticheskaya-respublika-kongo/boma/"
+            },
+            {
+                "name": "Киншаса",
+                "url": "https://wikiway.com/demokraticheskaya-respublika-kongo/kinshasa/"
+            },
+            {
+                "name": "Матади",
+                "url": "https://wikiway.com/demokraticheskaya-respublika-kongo/matadi/"
+            },
+            {
+                "name": "Лубумбаши",
+                "url": "https://wikiway.com/demokraticheskaya-respublika-kongo/lubumbashi/"
+            }
+        ]
+    },
+    "Джерси": {
+        "url": "https://wikiway.com/dzhersi/",
+        "cities": [
+            {
+                "name": "Сент-Хельер",
+                "url": "https://wikiway.com/dzhersi/sent-kheler/"
+            }
+        ]
+    },
+    "Джибути": {
+        "url": "https://wikiway.com/djibouti/",
+        "cities": [
+            {
+                "name": "Джибути",
+                "url": "https://wikiway.com/djibouti/dzhibuti/"
+            }
+        ]
+    },
+    "Доминика": {
+        "url": "https://wikiway.com/dominica/",
+        "cities": [
+            {
+                "name": "Розо",
+                "url": "https://wikiway.com/dominica/rozo/"
+            }
+        ]
+    },
+    "Доминикана": {
+        "url": "https://wikiway.com/dominikana/",
+        "cities": [
+            {
+                "name": "Пунта-Кана",
+                "url": "https://wikiway.com/dominikana/punta-kana/"
+            },
+            {
+                "name": "Санто-Доминго",
+                "url": "https://wikiway.com/dominikana/santo-domingo/"
+            },
+            {
+                "name": "Ла-Романа",
+                "url": "https://wikiway.com/dominikana/la-romana/"
+            },
+            {
+                "name": "Кабарете",
+                "url": "https://wikiway.com/dominikana/kabarete/"
+            },
+            {
+                "name": "Бока Чика",
+                "url": "https://wikiway.com/dominikana/boka-chika/"
+            },
+            {
+                "name": "Байяибе",
+                "url": "https://wikiway.com/dominikana/bayyaibe/"
+            },
+            {
+                "name": "Пуэрто Плата",
+                "url": "https://wikiway.com/dominikana/puerto-plata/"
+            },
+            {
+                "name": "Сосуа",
+                "url": "https://wikiway.com/dominikana/sosua/"
+            },
+            {
+                "name": "Харабакоа",
+                "url": "https://wikiway.com/dominikana/jarabacoa/"
+            },
+            {
+                "name": "Сантьяго",
+                "url": "https://wikiway.com/dominikana/santiago-dominicana/"
+            },
+            {
+                "name": "Сан-Педро-де-Макорис",
+                "url": "https://wikiway.com/dominikana/san-pedro-de-makoris/"
+            }
+        ]
+    },
+    "Египет": {
+        "url": "https://wikiway.com/egypt/",
+        "cities": [
+            {
+                "name": "Хургада",
+                "url": "https://wikiway.com/egypt/khurgada/"
+            },
+            {
+                "name": "Шарм-эль-Шейх",
+                "url": "https://wikiway.com/egypt/sharm-el-sheykh/"
+            },
+            {
+                "name": "Каир",
+                "url": "https://wikiway.com/egypt/kair/"
+            },
+            {
+                "name": "Александрия",
+                "url": "https://wikiway.com/egypt/aleksandriya/"
+            },
+            {
+                "name": "Луксор",
+                "url": "https://wikiway.com/egypt/luksor/"
+            },
+            {
+                "name": "Дахаб",
+                "url": "https://wikiway.com/egypt/dahab/"
+            },
+            {
+                "name": "Марса-Алам",
+                "url": "https://wikiway.com/egypt/marsa-alam/"
+            },
+            {
+                "name": "Гиза",
+                "url": "https://wikiway.com/egypt/giza/"
+            },
+            {
+                "name": "Эдфу",
+                "url": "https://wikiway.com/egypt/edfu/"
+            },
+            {
+                "name": "Суэц",
+                "url": "https://wikiway.com/egypt/suets/"
+            },
+            {
+                "name": "Асуан",
+                "url": "https://wikiway.com/egypt/asuan/"
+            },
+            {
+                "name": "Танта",
+                "url": "https://wikiway.com/egypt/tanta/"
+            },
+            {
+                "name": "Порт-Саид",
+                "url": "https://wikiway.com/egypt/port-said/"
+            }
+        ]
+    },
+    "Замбия": {
+        "url": "https://wikiway.com/zambia/",
+        "cities": [
+            {
+                "name": "Лусака",
+                "url": "https://wikiway.com/zambia/lusaka/"
+            },
+            {
+                "name": "Чингола",
+                "url": "https://wikiway.com/zambia/chingola/"
+            },
+            {
+                "name": "Кабве",
+                "url": "https://wikiway.com/zambia/kabve/"
+            }
+        ]
+    },
+    "Зимбабве": {
+        "url": "https://wikiway.com/zimbabwe/",
+        "cities": [
+            {
+                "name": "Хараре",
+                "url": "https://wikiway.com/zimbabwe/kharare/"
+            },
+            {
+                "name": "Булавайо",
+                "url": "https://wikiway.com/zimbabwe/bulavayo/"
+            }
+        ]
+    },
+    "Израиль": {
+        "url": "https://wikiway.com/izrail/",
+        "cities": [
+            {
+                "name": "Иерусалим",
+                "url": "https://wikiway.com/izrail/ierusalim/"
+            },
+            {
+                "name": "Тель-Авив",
+                "url": "https://wikiway.com/izrail/tel-aviv/"
+            },
+            {
+                "name": "Эйлат",
+                "url": "https://wikiway.com/izrail/eylat/"
+            },
+            {
+                "name": "Нетания",
+                "url": "https://wikiway.com/izrail/netaniya/"
+            },
+            {
+                "name": "Хайфа",
+                "url": "https://wikiway.com/izrail/khayfa/"
+            },
+            {
+                "name": "Назарет",
+                "url": "https://wikiway.com/izrail/nazaret/"
+            },
+            {
+                "name": "Акко",
+                "url": "https://wikiway.com/izrail/akko/"
+            },
+            {
+                "name": "Вифлеем",
+                "url": "https://wikiway.com/izrail/vifleem/"
+            },
+            {
+                "name": "Иерихон",
+                "url": "https://wikiway.com/izrail/ierikhon/"
+            },
+            {
+                "name": "Ашдод",
+                "url": "https://wikiway.com/izrail/ashdod/"
+            },
+            {
+                "name": "Беэр-Шева",
+                "url": "https://wikiway.com/izrail/beer-sheva/"
+            },
+            {
+                "name": "Рамат-Ган",
+                "url": "https://wikiway.com/izrail/ramat-gan/"
+            },
+            {
+                "name": "Ришон-ле-Цион",
+                "url": "https://wikiway.com/izrail/rishon-le-tsion/"
+            }
+        ]
+    },
+    "Индия": {
+        "url": "https://wikiway.com/india/",
+        "cities": [
+            {
+                "name": "Дели",
+                "url": "https://wikiway.com/india/deli/"
+            },
+            {
+                "name": "Варанаси",
+                "url": "https://wikiway.com/india/varanasi/"
+            },
+            {
+                "name": "Мумбаи",
+                "url": "https://wikiway.com/india/mumbai/"
+            },
+            {
+                "name": "Калькутта",
+                "url": "https://wikiway.com/india/kalkutta/"
+            },
+            {
+                "name": "Агра",
+                "url": "https://wikiway.com/india/agra/"
+            },
+            {
+                "name": "Джайпур",
+                "url": "https://wikiway.com/india/dzhaypur/"
+            },
+            {
+                "name": "Бангалор",
+                "url": "https://wikiway.com/india/bangalor/"
+            },
+            {
+                "name": "Ченнаи",
+                "url": "https://wikiway.com/india/chennai/"
+            },
+            {
+                "name": "Харидвар",
+                "url": "https://wikiway.com/india/kharidvar/"
+            },
+            {
+                "name": "Хайдарабад",
+                "url": "https://wikiway.com/india/khaydarabad/"
+            },
+            {
+                "name": "Сринагар",
+                "url": "https://wikiway.com/india/srinagar/"
+            },
+            {
+                "name": "Пури",
+                "url": "https://wikiway.com/india/puri/"
+            },
+            {
+                "name": "Маргао",
+                "url": "https://wikiway.com/india/margao/"
+            },
+            {
+                "name": "Майсур",
+                "url": "https://wikiway.com/india/maysur/"
+            },
+            {
+                "name": "Лакнау",
+                "url": "https://wikiway.com/india/laknau/"
+            },
+            {
+                "name": "Джодхпур",
+                "url": "https://wikiway.com/india/dzhodkhpur/"
+            },
+            {
+                "name": "Джайсалмер",
+                "url": "https://wikiway.com/india/dzhaysalmer/"
+            },
+            {
+                "name": "Дарджилинг",
+                "url": "https://wikiway.com/india/dardzhiling/"
+            },
+            {
+                "name": "Ахмадабад",
+                "url": "https://wikiway.com/india/akhmadabad/"
+            },
+            {
+                "name": "Амритсар",
+                "url": "https://wikiway.com/india/amritsar/"
+            },
+            {
+                "name": "Айодхья",
+                "url": "https://wikiway.com/india/ayodkhya/"
+            },
+            {
+                "name": "Удайпур",
+                "url": "https://wikiway.com/india/udaypur/"
+            },
+            {
+                "name": "Орчха",
+                "url": "https://wikiway.com/india/orchkha/"
+            },
+            {
+                "name": "Коччи",
+                "url": "https://wikiway.com/india/kochchi/"
+            }
+        ]
+    },
+    "Индонезия": {
+        "url": "https://wikiway.com/indonesia/",
+        "cities": [
+            {
+                "name": "Джакарта",
+                "url": "https://wikiway.com/indonesia/dzhakarta/"
+            },
+            {
+                "name": "Денпасар",
+                "url": "https://wikiway.com/indonesia/denpasar/"
+            },
+            {
+                "name": "Убуд",
+                "url": "https://wikiway.com/indonesia/ubud/"
+            },
+            {
+                "name": "Джокьякарта",
+                "url": "https://wikiway.com/indonesia/dzhokyakarta/"
+            },
+            {
+                "name": "Сурабая",
+                "url": "https://wikiway.com/indonesia/surabaya/"
+            },
+            {
+                "name": "Суракарта",
+                "url": "https://wikiway.com/indonesia/surakarta/"
+            },
+            {
+                "name": "Бандунг",
+                "url": "https://wikiway.com/indonesia/bandung/"
+            }
+        ]
+    },
+    "Иордания": {
+        "url": "https://wikiway.com/iordaniya/",
+        "cities": [
+            {
+                "name": "Амман",
+                "url": "https://wikiway.com/iordaniya/amman/"
+            },
+            {
+                "name": "Акаба",
+                "url": "https://wikiway.com/iordaniya/akaba/"
+            }
+        ]
+    },
+    "Ирак": {
+        "url": "https://wikiway.com/iraq/",
+        "cities": [
+            {
+                "name": "Багдад",
+                "url": "https://wikiway.com/iraq/bagdad/"
+            },
+            {
+                "name": "Мосул",
+                "url": "https://wikiway.com/iraq/mosul/"
+            },
+            {
+                "name": "Кербела",
+                "url": "https://wikiway.com/iraq/kerbela/"
+            },
+            {
+                "name": "Эн-Наджаф",
+                "url": "https://wikiway.com/iraq/en-nadzhaf/"
+            },
+            {
+                "name": "Эр-Рамади",
+                "url": "https://wikiway.com/iraq/er-ramadi/"
+            }
+        ]
+    },
+    "Иран": {
+        "url": "https://wikiway.com/iran/",
+        "cities": [
+            {
+                "name": "Тегеран",
+                "url": "https://wikiway.com/iran/tegeran/"
+            },
+            {
+                "name": "Кум",
+                "url": "https://wikiway.com/iran/kum/"
+            },
+            {
+                "name": "Исфахан",
+                "url": "https://wikiway.com/iran/isfakhan/"
+            },
+            {
+                "name": "Шираз",
+                "url": "https://wikiway.com/iran/shiraz/"
+            },
+            {
+                "name": "Мешхед",
+                "url": "https://wikiway.com/iran/meshkhed/"
+            },
+            {
+                "name": "Йезд",
+                "url": "https://wikiway.com/iran/yezd/"
+            },
+            {
+                "name": "Ахваз",
+                "url": "https://wikiway.com/iran/akhvaz/"
+            }
+        ]
+    },
+    "Ирландия": {
+        "url": "https://wikiway.com/ireland/",
+        "cities": [
+            {
+                "name": "Дублин",
+                "url": "https://wikiway.com/ireland/dublin/"
+            },
+            {
+                "name": "Лимерик",
+                "url": "https://wikiway.com/ireland/limerik/"
+            },
+            {
+                "name": "Корк",
+                "url": "https://wikiway.com/ireland/kork/"
+            },
+            {
+                "name": "Уотерфорд",
+                "url": "https://wikiway.com/ireland/uoterford/"
+            },
+            {
+                "name": "Голуэй",
+                "url": "https://wikiway.com/ireland/goluey/"
+            },
+            {
+                "name": "Ардара",
+                "url": "https://wikiway.com/ireland/ardara/"
+            }
+        ]
+    },
+    "Исландия": {
+        "url": "https://wikiway.com/islandiya/",
+        "cities": [
+            {
+                "name": "Рейкьявик",
+                "url": "https://wikiway.com/islandiya/reykyavik/"
+            },
+            {
+                "name": "Акюрейри",
+                "url": "https://wikiway.com/islandiya/akyureyri/"
+            },
+            {
+                "name": "Акранес",
+                "url": "https://wikiway.com/islandiya/akranes/"
+            }
+        ]
+    },
+    "Испания": {
+        "url": "https://wikiway.com/spain/",
+        "cities": [
+            {
+                "name": "Барселона",
+                "url": "https://wikiway.com/spain/barselona/"
+            },
+            {
+                "name": "Мадрид",
+                "url": "https://wikiway.com/spain/madrid/"
+            },
+            {
+                "name": "Аликанте",
+                "url": "https://wikiway.com/spain/alikante/"
+            },
+            {
+                "name": "Салоу",
+                "url": "https://wikiway.com/spain/salou/"
+            },
+            {
+                "name": "Валенсия",
+                "url": "https://wikiway.com/spain/valensia/"
+            },
+            {
+                "name": "Дения",
+                "url": "https://wikiway.com/spain/deniya/"
+            },
+            {
+                "name": "Малага",
+                "url": "https://wikiway.com/spain/malaga/"
+            },
+            {
+                "name": "Марбелья",
+                "url": "https://wikiway.com/spain/marbelya/"
+            },
+            {
+                "name": "Ллорет-де-Мар",
+                "url": "https://wikiway.com/spain/loret-de-mar/"
+            },
+            {
+                "name": "Жирона",
+                "url": "https://wikiway.com/spain/zhirona/"
+            },
+            {
+                "name": "Лас-Пальмас",
+                "url": "https://wikiway.com/spain/las-palmas/"
+            },
+            {
+                "name": "Севилья",
+                "url": "https://wikiway.com/spain/sevilya/"
+            },
+            {
+                "name": "Ибица",
+                "url": "https://wikiway.com/spain/ibitsa/"
+            },
+            {
+                "name": "Толедо",
+                "url": "https://wikiway.com/spain/toledo/"
+            },
+            {
+                "name": "Гранада",
+                "url": "https://wikiway.com/spain/granada/"
+            },
+            {
+                "name": "Таррагона",
+                "url": "https://wikiway.com/spain/tarragona/"
+            },
+            {
+                "name": "Калафель",
+                "url": "https://wikiway.com/spain/kalafel/"
+            },
+            {
+                "name": "Санта-Крус-де-Тенерифе",
+                "url": "https://wikiway.com/spain/santa-kruz/"
+            },
+            {
+                "name": "Бильбао",
+                "url": "https://wikiway.com/spain/bilbao/"
+            },
+            {
+                "name": "Сеговия",
+                "url": "https://wikiway.com/spain/segoviya/"
+            },
+            {
+                "name": "Сан-Себастьян",
+                "url": "https://wikiway.com/spain/san-sebastyan/"
+            },
+            {
+                "name": "Саламанка",
+                "url": "https://wikiway.com/spain/salamanka/"
+            },
+            {
+                "name": "Мурсия",
+                "url": "https://wikiway.com/spain/mursiya/"
+            },
+            {
+                "name": "Кордова",
+                "url": "https://wikiway.com/spain/kordova/"
+            }
+        ]
+    },
+    "Италия": {
+        "url": "https://wikiway.com/italia/",
+        "cities": [
+            {
+                "name": "Рим",
+                "url": "https://wikiway.com/italia/rim/"
+            },
+            {
+                "name": "Венеция",
+                "url": "https://wikiway.com/italia/venetsiya/"
+            },
+            {
+                "name": "Римини",
+                "url": "https://wikiway.com/italia/rimini/"
+            },
+            {
+                "name": "Милан",
+                "url": "https://wikiway.com/italia/milan/"
+            },
+            {
+                "name": "Флоренция",
+                "url": "https://wikiway.com/italia/florentsiya/"
+            },
+            {
+                "name": "Катания",
+                "url": "https://wikiway.com/italia/kataniya/"
+            },
+            {
+                "name": "Пиза",
+                "url": "https://wikiway.com/italia/piza/"
+            },
+            {
+                "name": "Неаполь",
+                "url": "https://wikiway.com/italia/neapol/"
+            },
+            {
+                "name": "Верона",
+                "url": "https://wikiway.com/italia/verona/"
+            },
+            {
+                "name": "Кальяри",
+                "url": "https://wikiway.com/italia/kalyari/"
+            },
+            {
+                "name": "Бергамо",
+                "url": "https://wikiway.com/italia/bergamo/"
+            },
+            {
+                "name": "Генуя",
+                "url": "https://wikiway.com/italia/genuya/"
+            },
+            {
+                "name": "Монтекатини-Терме",
+                "url": "https://wikiway.com/italia/montekatini-terme/"
+            },
+            {
+                "name": "Ольбия",
+                "url": "https://wikiway.com/italia/olbiya/"
+            },
+            {
+                "name": "Турин",
+                "url": "https://wikiway.com/italia/turin/"
+            },
+            {
+                "name": "Болонья",
+                "url": "https://wikiway.com/italia/bolonya/"
+            },
+            {
+                "name": "Салерно",
+                "url": "https://wikiway.com/italia/salerno/"
+            },
+            {
+                "name": "Палермо",
+                "url": "https://wikiway.com/italia/palermo/"
+            },
+            {
+                "name": "Сиена",
+                "url": "https://wikiway.com/italia/siena/"
+            },
+            {
+                "name": "Ното",
+                "url": "https://wikiway.com/italia/noto/"
+            },
+            {
+                "name": "Падуя",
+                "url": "https://wikiway.com/italia/paduya/"
+            },
+            {
+                "name": "Абано-Терме",
+                "url": "https://wikiway.com/italia/abano-terme/"
+            },
+            {
+                "name": "Таормина",
+                "url": "https://wikiway.com/italia/taormina/"
+            },
+            {
+                "name": "Сорренто",
+                "url": "https://wikiway.com/italia/sorrento/"
+            }
+        ]
+    },
+    "Йемен": {
+        "url": "https://wikiway.com/yemen/",
+        "cities": [
+            {
+                "name": "Сана",
+                "url": "https://wikiway.com/yemen/sana/"
+            },
+            {
+                "name": "Шибам",
+                "url": "https://wikiway.com/yemen/shibam/"
+            },
+            {
+                "name": "Таиз",
+                "url": "https://wikiway.com/yemen/taiz/"
+            }
+        ]
+    },
+    "Кабо-Верде": {
+        "url": "https://wikiway.com/cabo-verde/",
+        "cities": [
+            {
+                "name": "Прая",
+                "url": "https://wikiway.com/cabo-verde/praya/"
+            }
+        ]
+    },
+    "Казахстан": {
+        "url": "https://wikiway.com/kazakhstan/",
+        "cities": [
+            {
+                "name": "Астана",
+                "url": "https://wikiway.com/kazakhstan/astana/"
+            },
+            {
+                "name": "Актау",
+                "url": "https://wikiway.com/kazakhstan/aktau/"
+            },
+            {
+                "name": "Павлодар",
+                "url": "https://wikiway.com/kazakhstan/pavlodar/"
+            },
+            {
+                "name": "Семей",
+                "url": "https://wikiway.com/kazakhstan/semipalatinsk/"
+            },
+            {
+                "name": "Костанай",
+                "url": "https://wikiway.com/kazakhstan/kostanay/"
+            },
+            {
+                "name": "Алматы",
+                "url": "https://wikiway.com/kazakhstan/alma-ata/"
+            },
+            {
+                "name": "Караганда",
+                "url": "https://wikiway.com/kazakhstan/karaganda/"
+            },
+            {
+                "name": "Тараз",
+                "url": "https://wikiway.com/kazakhstan/taraz/"
+            },
+            {
+                "name": "Усть-Каменогорск",
+                "url": "https://wikiway.com/kazakhstan/ust-kamenogorsk/"
+            },
+            {
+                "name": "Шымкент",
+                "url": "https://wikiway.com/kazakhstan/shymkent/"
+            },
+            {
+                "name": "Актобе",
+                "url": "https://wikiway.com/kazakhstan/aktobe/"
+            },
+            {
+                "name": "Туркестан",
+                "url": "https://wikiway.com/kazakhstan/turkestan/"
+            }
+        ]
+    },
+    "Камбоджа": {
+        "url": "https://wikiway.com/cambodia/",
+        "cities": [
+            {
+                "name": "Ангкор",
+                "url": "https://wikiway.com/cambodia/angkor/"
+            },
+            {
+                "name": "Сием-Рип",
+                "url": "https://wikiway.com/cambodia/siem-rip/"
+            },
+            {
+                "name": "Пномпень",
+                "url": "https://wikiway.com/cambodia/pnompen/"
+            },
+            {
+                "name": "Сиануквиль",
+                "url": "https://wikiway.com/cambodia/sianukvil/"
+            },
+            {
+                "name": "Баттамбанг",
+                "url": "https://wikiway.com/cambodia/battambang/"
+            }
+        ]
+    },
+    "Камерун": {
+        "url": "https://wikiway.com/cameroon/",
+        "cities": [
+            {
+                "name": "Яунде",
+                "url": "https://wikiway.com/cameroon/yaunde/"
+            },
+            {
+                "name": "Дуала",
+                "url": "https://wikiway.com/cameroon/duala/"
+            },
+            {
+                "name": "Эдеа",
+                "url": "https://wikiway.com/cameroon/edea/"
+            },
+            {
+                "name": "Криби",
+                "url": "https://wikiway.com/cameroon/kribi/"
+            },
+            {
+                "name": "Буэа",
+                "url": "https://wikiway.com/cameroon/buea/"
+            }
+        ]
+    },
+    "Канада": {
+        "url": "https://wikiway.com/kenya/",
+        "cities": [
+            {
+                "name": "Найроби",
+                "url": "https://wikiway.com/kenya/nayrobi/"
+            },
+            {
+                "name": "Момбаса",
+                "url": "https://wikiway.com/kenya/mombasa/"
+            },
+            {
+                "name": "Малинди",
+                "url": "https://wikiway.com/kenya/malindi/"
+            },
+            {
+                "name": "Ньери",
+                "url": "https://wikiway.com/kenya/neri/"
+            }
+        ]
+    },
+    "Катар": {
+        "url": "https://wikiway.com/qatar/",
+        "cities": [
+            {
+                "name": "Доха",
+                "url": "https://wikiway.com/qatar/dokha/"
+            }
+        ]
+    },
+    "Кения": {
+        "url": "https://wikiway.com/kenya/",
+        "cities": [
+            {
+                "name": "Найроби",
+                "url": "https://wikiway.com/kenya/nayrobi/"
+            },
+            {
+                "name": "Момбаса",
+                "url": "https://wikiway.com/kenya/mombasa/"
+            },
+            {
+                "name": "Малинди",
+                "url": "https://wikiway.com/kenya/malindi/"
+            },
+            {
+                "name": "Ньери",
+                "url": "https://wikiway.com/kenya/neri/"
+            }
+        ]
+    },
+    "Кипр": {
+        "url": "https://wikiway.com/cyprus/",
+        "cities": [
+            {
+                "name": "Пафос",
+                "url": "https://wikiway.com/cyprus/pafos/"
+            },
+            {
+                "name": "Фамагуста",
+                "url": "https://wikiway.com/cyprus/famagusta/"
+            },
+            {
+                "name": "Лимассол",
+                "url": "https://wikiway.com/cyprus/limassol/"
+            },
+            {
+                "name": "Айя-Напа",
+                "url": "https://wikiway.com/cyprus/ayya-napa/"
+            },
+            {
+                "name": "Ларнака",
+                "url": "https://wikiway.com/cyprus/larnaka/"
+            },
+            {
+                "name": "Протарас",
+                "url": "https://wikiway.com/cyprus/protaras/"
+            },
+            {
+                "name": "Никосия",
+                "url": "https://wikiway.com/cyprus/nikosiya/"
+            }
+        ]
+    },
+    "Киргизия": {
+        "url": "https://wikiway.com/kyrgyzstan/",
+        "cities": [
+            {
+                "name": "Ош",
+                "url": "https://wikiway.com/kyrgyzstan/osh/"
+            },
+            {
+                "name": "Бишкек",
+                "url": "https://wikiway.com/kyrgyzstan/bishkek/"
+            },
+            {
+                "name": "Каракол",
+                "url": "https://wikiway.com/kyrgyzstan/karakol/"
+            },
+            {
+                "name": "Джалал-Абад",
+                "url": "https://wikiway.com/kyrgyzstan/dzhalal-abad/"
+            },
+            {
+                "name": "Баткен",
+                "url": "https://wikiway.com/kyrgyzstan/batken/"
+            },
+            {
+                "name": "Балыкчи",
+                "url": "https://wikiway.com/kyrgyzstan/balykchi/"
+            }
+        ]
+    },
+    "Кирибати": {
+        "url": "https://wikiway.com/kiribati/",
+        "cities": [
+            {
+                "name": "Южная Тарава",
+                "url": "https://wikiway.com/kiribati/yuzhnaya-tarava/"
+            }
+        ]
+    },
+    "Китай": {
+        "url": "https://wikiway.com/china/",
+        "cities": [
+            {
+                "name": "Пекин",
+                "url": "https://wikiway.com/china/pekin/"
+            },
+            {
+                "name": "Санья",
+                "url": "https://wikiway.com/china/sanya/"
+            },
+            {
+                "name": "Шэньчжэнь",
+                "url": "https://wikiway.com/china/shenchzhen/"
+            },
+            {
+                "name": "Шанхай",
+                "url": "https://wikiway.com/china/shankhay/"
+            },
+            {
+                "name": "Гонконг",
+                "url": "https://wikiway.com/china/gonkong/"
+            },
+            {
+                "name": "Гуанчжоу",
+                "url": "https://wikiway.com/china/guanchzhou/"
+            },
+            {
+                "name": "Харбин",
+                "url": "https://wikiway.com/china/kharbin/"
+            },
+            {
+                "name": "Макао",
+                "url": "https://wikiway.com/china/makao/"
+            },
+            {
+                "name": "Далянь",
+                "url": "https://wikiway.com/china/dalyan/"
+            },
+            {
+                "name": "Циндао",
+                "url": "https://wikiway.com/china/tsindao/"
+            },
+            {
+                "name": "Ханчжоу",
+                "url": "https://wikiway.com/china/khanchzhou/"
+            },
+            {
+                "name": "Тайбэй",
+                "url": "https://wikiway.com/china/taypey/"
+            },
+            {
+                "name": "Сямынь",
+                "url": "https://wikiway.com/china/syamyn/"
+            },
+            {
+                "name": "Нанкин",
+                "url": "https://wikiway.com/china/nankin/"
+            },
+            {
+                "name": "Чунцин",
+                "url": "https://wikiway.com/china/chuntsin/"
+            },
+            {
+                "name": "Цзинань",
+                "url": "https://wikiway.com/china/tszinan/"
+            },
+            {
+                "name": "Ухань",
+                "url": "https://wikiway.com/china/ukhan/"
+            },
+            {
+                "name": "Тяньцзинь",
+                "url": "https://wikiway.com/china/tyantszin/"
+            },
+            {
+                "name": "Сучжоу",
+                "url": "https://wikiway.com/china/suchzhou/"
+            },
+            {
+                "name": "Лхаса",
+                "url": "https://wikiway.com/china/lkhasa/"
+            },
+            {
+                "name": "Лоян",
+                "url": "https://wikiway.com/china/loyan/"
+            },
+            {
+                "name": "Кайфэн",
+                "url": "https://wikiway.com/china/kayfyn/"
+            },
+            {
+                "name": "Чэнду",
+                "url": "https://wikiway.com/china/chendu/"
+            },
+            {
+                "name": "Кашгар",
+                "url": "https://wikiway.com/china/kashgar/"
+            }
+        ]
+    },
+    "Колумбия": {
+        "url": "https://wikiway.com/colombia/",
+        "cities": [
+            {
+                "name": "Богота",
+                "url": "https://wikiway.com/colombia/bogota/"
+            },
+            {
+                "name": "Картахена",
+                "url": "https://wikiway.com/colombia/kartakhena/"
+            },
+            {
+                "name": "Кали",
+                "url": "https://wikiway.com/colombia/kali/"
+            },
+            {
+                "name": "Медельин",
+                "url": "https://wikiway.com/colombia/medelin/"
+            },
+            {
+                "name": "Барранкилья",
+                "url": "https://wikiway.com/colombia/barrankilya/"
+            },
+            {
+                "name": "Попаян",
+                "url": "https://wikiway.com/colombia/popayan/"
+            },
+            {
+                "name": "Армения",
+                "url": "https://wikiway.com/colombia/armeniya/"
+            }
+        ]
+    },
+    "Кокосовые острова": {
+        "url": "https://wikiway.com/kokosovye-ostrova/",
+        "cities": [
+            {
+                "name": "Уэст-Айленд",
+                "url": "https://wikiway.com/kokosovye-ostrova/uest-aylend/"
+            }
+        ]
+    },
+    "Коморские Острова": {
+        "url": "https://wikiway.com/komorskie-ostrova/",
+        "cities": [
+            {
+                "name": "Морони",
+                "url": "https://wikiway.com/komorskie-ostrova/moroni/"
+            }
+        ]
+    },
+    "Конго": {
+        "url": "https://wikiway.com/congo/",
+        "cities": [
+            {
+                "name": "Пуэнт-Нуар",
+                "url": "https://wikiway.com/congo/puent-nuar/"
+            },
+            {
+                "name": "Браззавиль",
+                "url": "https://wikiway.com/congo/brazzavil/"
+            },
+            {
+                "name": "Этумби",
+                "url": "https://wikiway.com/congo/etumbi/"
+            },
+            {
+                "name": "Лубомо",
+                "url": "https://wikiway.com/congo/lubomo/"
+            }
+        ]
+    },
+    "КНДР": {
+        "url": "https://wikiway.com/kndr/",
+        "cities": [
+            {
+                "name": "Пхеньян",
+                "url": "https://wikiway.com/kndr/pkhenyan/"
+            },
+            {
+                "name": "Кэсон",
+                "url": "https://wikiway.com/kndr/keson/"
+            },
+            {
+                "name": "Расон",
+                "url": "https://wikiway.com/kndr/rason/"
+            }
+        ]
+    },
+    "Коста-Рика": {
+        "url": "https://wikiway.com/kosta-rika/",
+        "cities": [
+            {
+                "name": "Сан-Хосе",
+                "url": "https://wikiway.com/kosta-rika/san-khose/"
+            },
+            {
+                "name": "Лимон",
+                "url": "https://wikiway.com/kosta-rika/limon/"
+            }
+        ]
+    },
+    "Кот-д'Ивуар": {
+        "url": "https://wikiway.com/kot-d-ivoire/",
+        "cities": [
+            {
+                "name": "Ямусукро",
+                "url": "https://wikiway.com/kot-d-ivoire/yamusukro/"
+            },
+            {
+                "name": "Абиджан",
+                "url": "https://wikiway.com/kot-d-ivoire/abidzhan/"
+            }
+        ]
+    },
+    "Куба": {
+        "url": "https://wikiway.com/cuba/",
+        "cities": [
+            {
+                "name": "Гавана",
+                "url": "https://wikiway.com/cuba/gavana/"
+            },
+            {
+                "name": "Варадеро",
+                "url": "https://wikiway.com/cuba/varadero/"
+            },
+            {
+                "name": "Ольгин",
+                "url": "https://wikiway.com/cuba/olgin/"
+            },
+            {
+                "name": "Тринидад",
+                "url": "https://wikiway.com/cuba/trinidad/"
+            },
+            {
+                "name": "Санта-Клара",
+                "url": "https://wikiway.com/cuba/santa-klara/"
+            },
+            {
+                "name": "Сьенфуэгос",
+                "url": "https://wikiway.com/cuba/senfuegos/"
+            },
+            {
+                "name": "Сантьяго-де-Куба",
+                "url": "https://wikiway.com/cuba/santyago-de-kuba/"
+            },
+            {
+                "name": "Гуантанамо",
+                "url": "https://wikiway.com/cuba/guantanamo/"
+            },
+            {
+                "name": "Матансас",
+                "url": "https://wikiway.com/cuba/matansas/"
+            },
+            {
+                "name": "Тарара",
+                "url": "https://wikiway.com/cuba/tarara/"
+            },
+            {
+                "name": "Камагуэй",
+                "url": "https://wikiway.com/cuba/kamaguey/"
+            }
+        ]
+    },
+    "Кувейт": {
+        "url": "https://wikiway.com/kuwait/",
+        "cities": [
+            {
+                "name": "Эль-Кувейт",
+                "url": "https://wikiway.com/kuwait/el-kuveyt/"
+            },
+            {
+                "name": "Эль-Ахмади",
+                "url": "https://wikiway.com/kuwait/el-akhmadi/"
+            },
+            {
+                "name": "Джахра",
+                "url": "https://wikiway.com/kuwait/dzhakhra/"
+            }
+        ]
+    },
+    "Кюрасао": {
+        "url": "https://wikiway.com/kyurasao/",
+        "cities": [
+            {
+                "name": "Виллемстад",
+                "url": "https://wikiway.com/kyurasao/villemstad/"
+            }
+        ]
+    },
+    "Лаос": {
+        "url": "https://wikiway.com/laos/",
+        "cities": [
+            {
+                "name": "Вьентьян",
+                "url": "https://wikiway.com/laos/ventyan/"
+            },
+            {
+                "name": "Луанг-Прабанг",
+                "url": "https://wikiway.com/laos/luang-prabang/"
+            }
+        ]
+    },
+    "Латвия": {
+        "url": "https://wikiway.com/latvia/",
+        "cities": [
+            {
+                "name": "Рига",
+                "url": "https://wikiway.com/latvia/riga/"
+            },
+            {
+                "name": "Юрмала",
+                "url": "https://wikiway.com/latvia/yurmala/"
+            },
+            {
+                "name": "Вентспилс",
+                "url": "https://wikiway.com/latvia/ventspils/"
+            },
+            {
+                "name": "Лиепая",
+                "url": "https://wikiway.com/latvia/liepaya/"
+            },
+            {
+                "name": "Даугавпилс",
+                "url": "https://wikiway.com/latvia/daugavpils/"
+            },
+            {
+                "name": "Сигулда",
+                "url": "https://wikiway.com/latvia/sigulda/"
+            },
+            {
+                "name": "Бауска",
+                "url": "https://wikiway.com/latvia/bauska/"
+            }
+        ]
+    },
+    "Лесото": {
+        "url": "https://wikiway.com/lesotho/",
+        "cities": [
+            {
+                "name": "Масеру",
+                "url": "https://wikiway.com/lesotho/maseru/"
+            },
+            {
+                "name": "Таба-Босиу",
+                "url": "https://wikiway.com/lesotho/taba-bosiu/"
+            }
+        ]
+    },
+    "Либерия": {
+        "url": "https://wikiway.com/liberia/",
+        "cities": [
+            {
+                "name": "Монровия",
+                "url": "https://wikiway.com/liberia/monroviya/"
+            }
+        ]
+    },
+    "Ливан": {
+        "url": "https://wikiway.com/livan/",
+        "cities": [
+            {
+                "name": "Бейрут",
+                "url": "https://wikiway.com/livan/beyrut/"
+            },
+            {
+                "name": "Библ",
+                "url": "https://wikiway.com/livan/bibl/"
+            },
+            {
+                "name": "Тир",
+                "url": "https://wikiway.com/livan/tir/"
+            },
+            {
+                "name": "Триполи",
+                "url": "https://wikiway.com/livan/tripoli/"
+            },
+            {
+                "name": "Баальбек",
+                "url": "https://wikiway.com/livan/baalbek/"
+            }
+        ]
+    },
+    "Ливия": {
+        "url": "https://wikiway.com/liviya/",
+        "cities": [
+            {
+                "name": "Триполи",
+                "url": "https://wikiway.com/liviya/tripoli-livia/"
+            },
+            {
+                "name": "Гадамес",
+                "url": "https://wikiway.com/liviya/gadames/"
+            },
+            {
+                "name": "Бенгази",
+                "url": "https://wikiway.com/liviya/bengazi/"
+            },
+            {
+                "name": "Тобрук",
+                "url": "https://wikiway.com/liviya/tobruk/"
+            },
+            {
+                "name": "Мисурата",
+                "url": "https://wikiway.com/liviya/misurata/"
+            }
+        ]
+    },
+    "Литва": {
+        "url": "https://wikiway.com/lithuania/",
+        "cities": [
+            {
+                "name": "Вильнюс",
+                "url": "https://wikiway.com/lithuania/vilnyus/"
+            },
+            {
+                "name": "Каунас",
+                "url": "https://wikiway.com/lithuania/kaunas/"
+            },
+            {
+                "name": "Клайпеда",
+                "url": "https://wikiway.com/lithuania/klaypeda/"
+            },
+            {
+                "name": "Паланга",
+                "url": "https://wikiway.com/lithuania/palanga/"
+            },
+            {
+                "name": "Друскининкай",
+                "url": "https://wikiway.com/lithuania/druskininkay/"
+            },
+            {
+                "name": "Алитус",
+                "url": "https://wikiway.com/lithuania/alitus/"
+            },
+            {
+                "name": "Шауляй",
+                "url": "https://wikiway.com/lithuania/shyaulyay/"
+            },
+            {
+                "name": "Биржай",
+                "url": "https://wikiway.com/lithuania/birzhay/"
+            }
+        ]
+    },
+    "Лихтенштейн": {
+        "url": "https://wikiway.com/liechtenstein/",
+        "cities": [
+            {
+                "name": "Вадуц",
+                "url": "https://wikiway.com/liechtenstein/vaduts/"
+            }
+        ]
+    },
+    "Люксембург": {
+        "url": "https://wikiway.com/luxembourg/",
+        "cities": [
+            {
+                "name": "Люксембург",
+                "url": "https://wikiway.com/luxembourg/lyuksemburg/"
+            },
+            {
+                "name": "Дикирх",
+                "url": "https://wikiway.com/luxembourg/dikirkh/"
+            }
+        ]
+    },
+    "Маврикий": {
+        "url": "https://wikiway.com/mauritius/",
+        "cities": [
+            {
+                "name": "Порт-Луи",
+                "url": "https://wikiway.com/mauritius/port-lui/"
+            },
+            {
+                "name": "Кюрпип",
+                "url": "https://wikiway.com/mauritius/kyurpip/"
+            }
+        ]
+    },
+    "Мавритания": {
+        "url": "https://wikiway.com/mavritaniya/",
+        "cities": [
+            {
+                "name": "Нуакшот",
+                "url": "https://wikiway.com/mavritaniya/nuakshot/"
+            },
+            {
+                "name": "Нуадибу",
+                "url": "https://wikiway.com/mavritaniya/nuadibu/"
+            }
+        ]
+    },
+    "Мадагаскар": {
+        "url": "https://wikiway.com/madagascar/",
+        "cities": [
+            {
+                "name": "Антананариву",
+                "url": "https://wikiway.com/madagascar/antananarivu/"
+            }
+        ]
+    },
+    "Македония": {
+        "url": "https://wikiway.com/makedonia/",
+        "cities": [
+            {
+                "name": "Охрид",
+                "url": "https://wikiway.com/makedonia/okhrid/"
+            },
+            {
+                "name": "Скопье",
+                "url": "https://wikiway.com/makedonia/skope/"
+            },
+            {
+                "name": "Битола",
+                "url": "https://wikiway.com/makedonia/bitola/"
+            },
+            {
+                "name": "Тетово",
+                "url": "https://wikiway.com/makedonia/tetovo/"
+            },
+            {
+                "name": "Гостивар",
+                "url": "https://wikiway.com/makedonia/gostivar/"
+            }
+        ]
+    },
+    "Малави": {
+        "url": "https://wikiway.com/malawi/",
+        "cities": [
+            {
+                "name": "Блантайр",
+                "url": "https://wikiway.com/malawi/blantayr/"
+            },
+            {
+                "name": "Лилонгве",
+                "url": "https://wikiway.com/malawi/lilongve/"
+            }
+        ]
+    },
+    "Малайзия": {
+        "url": "https://wikiway.com/malaysia/",
+        "cities": [
+            {
+                "name": "Куала-Лумпур",
+                "url": "https://wikiway.com/malaysia/kuala-lumpur/"
+            },
+            {
+                "name": "Путраджая",
+                "url": "https://wikiway.com/malaysia/putradzhaya/"
+            },
+            {
+                "name": "Малакка",
+                "url": "https://wikiway.com/malaysia/malakka/"
+            },
+            {
+                "name": "Кучинг",
+                "url": "https://wikiway.com/malaysia/kuching/"
+            },
+            {
+                "name": "Джорджтаун",
+                "url": "https://wikiway.com/malaysia/george-town/"
+            },
+            {
+                "name": "Джохор-Бару",
+                "url": "https://wikiway.com/malaysia/dzhokhor-baru/"
+            }
+        ]
+    },
+    "Мали": {
+        "url": "https://wikiway.com/mali/",
+        "cities": [
+            {
+                "name": "Тимбукту",
+                "url": "https://wikiway.com/mali/timbuktu/"
+            },
+            {
+                "name": "Бамако",
+                "url": "https://wikiway.com/mali/bamako/"
+            },
+            {
+                "name": "Дженне",
+                "url": "https://wikiway.com/mali/dzhenne/"
+            },
+            {
+                "name": "Мопти",
+                "url": "https://wikiway.com/mali/mopti/"
+            }
+        ]
+    },
+    "Мальта": {
+        "url": "https://wikiway.com/malta/",
+        "cities": [
+            {
+                "name": "Валлетта",
+                "url": "https://wikiway.com/malta/valletta/"
+            },
+            {
+                "name": "Мдина",
+                "url": "https://wikiway.com/malta/mdina/"
+            }
+        ]
+    },
+    "Мальдивы": {
+        "url": "https://wikiway.com/maldives/",
+        "cities": [
+            {
+                "name": "Мале",
+                "url": "https://wikiway.com/maldives/male/"
+            }
+        ]
+    },
+    "Марокко": {
+        "url": "https://wikiway.com/morocco/",
+        "cities": [
+            {
+                "name": "Марракеш",
+                "url": "https://wikiway.com/morocco/marrakesh/"
+            },
+            {
+                "name": "Касабланка",
+                "url": "https://wikiway.com/morocco/kasablanka/"
+            },
+            {
+                "name": "Агадир",
+                "url": "https://wikiway.com/morocco/agadir/"
+            },
+            {
+                "name": "Фес",
+                "url": "https://wikiway.com/morocco/fes/"
+            },
+            {
+                "name": "Танжер",
+                "url": "https://wikiway.com/morocco/tanzher/"
+            },
+            {
+                "name": "Рабат",
+                "url": "https://wikiway.com/morocco/rabat/"
+            },
+            {
+                "name": "Шефшауен",
+                "url": "https://wikiway.com/morocco/shefshauen/"
+            },
+            {
+                "name": "Тафраут",
+                "url": "https://wikiway.com/morocco/tafraut/"
+            },
+            {
+                "name": "Эс-Сувейра",
+                "url": "https://wikiway.com/morocco/es-suveyra/"
+            },
+            {
+                "name": "Мекнес",
+                "url": "https://wikiway.com/morocco/meknes/"
+            },
+            {
+                "name": "Тарудант",
+                "url": "https://wikiway.com/morocco/tarudant/"
+            },
+            {
+                "name": "Сиди-Ифни",
+                "url": "https://wikiway.com/morocco/sidi-ifni/"
+            }
+        ]
+    },
+    "Маршалловы Острова": {
+        "url": "https://wikiway.com/marshallovy-ostrova/",
+        "cities": [
+            {
+                "name": "Маджуро",
+                "url": "https://wikiway.com/marshallovy-ostrova/madzhuro/"
+            }
+        ]
+    },
+    "Мексика": {
+        "url": "https://wikiway.com/mexico/",
+        "cities": [
+            {
+                "name": "Мехико",
+                "url": "https://wikiway.com/mexico/mekhiko/"
+            },
+            {
+                "name": "Канкун",
+                "url": "https://wikiway.com/mexico/kankun/"
+            },
+            {
+                "name": "Гвадалахара",
+                "url": "https://wikiway.com/mexico/gvadalakhara/"
+            },
+            {
+                "name": "Мерида",
+                "url": "https://wikiway.com/mexico/merida/"
+            },
+            {
+                "name": "Акапулько",
+                "url": "https://wikiway.com/mexico/akapulko/"
+            },
+            {
+                "name": "Оахака",
+                "url": "https://wikiway.com/mexico/oakhaka/"
+            },
+            {
+                "name": "Вальядолид",
+                "url": "https://wikiway.com/mexico/valyadolid/"
+            },
+            {
+                "name": "Тихуана",
+                "url": "https://wikiway.com/mexico/tikhuana/"
+            },
+            {
+                "name": "Сьюдад-Хуарес",
+                "url": "https://wikiway.com/mexico/syudad-khuares/"
+            },
+            {
+                "name": "Плайя-дель-Кармен",
+                "url": "https://wikiway.com/mexico/playya-del-karmen/"
+            },
+            {
+                "name": "Акумаль",
+                "url": "https://wikiway.com/mexico/akumal/"
+            },
+            {
+                "name": "Пуэрто Морелос",
+                "url": "https://wikiway.com/mexico/puerto-morelos/"
+            },
+            {
+                "name": "Пуэрто Авентурас",
+                "url": "https://wikiway.com/mexico/puerto-aventuras/"
+            },
+            {
+                "name": "Сан-Мигель-де-Альенде",
+                "url": "https://wikiway.com/mexico/san-migel-de-alende/"
+            }
+        ]
+    },
+    "Мозамбик": {
+        "url": "https://wikiway.com/mozambique/",
+        "cities": [
+            {
+                "name": "Мозамбик",
+                "url": "https://wikiway.com/mozambique/mozambik/"
+            },
+            {
+                "name": "Мапуту",
+                "url": "https://wikiway.com/mozambique/maputu/"
+            },
+            {
+                "name": "Софала",
+                "url": "https://wikiway.com/mozambique/sofala/"
+            }
+        ]
+    },
+    "Молдова": {
+        "url": "https://wikiway.com/moldova/",
+        "cities": [
+            {
+                "name": "Кишинёв",
+                "url": "https://wikiway.com/moldova/kishinyev/"
+            },
+            {
+                "name": "Бельцы",
+                "url": "https://wikiway.com/moldova/beltsy/"
+            },
+            {
+                "name": "Тирасполь",
+                "url": "https://wikiway.com/moldova/tiraspol/"
+            },
+            {
+                "name": "Сороки",
+                "url": "https://wikiway.com/moldova/soroki/"
+            },
+            {
+                "name": "Бендеры",
+                "url": "https://wikiway.com/moldova/bendery/"
+            }
+        ]
+    },
+    "Монако": {
+        "url": "https://wikiway.com/monaco/",
+        "cities": []
+    },
+    "Монголия": {
+        "url": "https://wikiway.com/mongolia/",
+        "cities": [
+            {
+                "name": "Улан-Батор",
+                "url": "https://wikiway.com/mongolia/ulan-bator/"
+            },
+            {
+                "name": "Эрдэнэт",
+                "url": "https://wikiway.com/mongolia/erdenet/"
+            },
+            {
+                "name": "Ховд",
+                "url": "https://wikiway.com/mongolia/khovd/"
+            }
+        ]
+    },
+    "Мьянма": {
+        "url": "https://wikiway.com/myanmar/",
+        "cities": [
+            {
+                "name": "Янгон",
+                "url": "https://wikiway.com/myanmar/yangon/"
+            },
+            {
+                "name": "Нейпьидо",
+                "url": "https://wikiway.com/myanmar/neypido/"
+            },
+            {
+                "name": "Мандалай",
+                "url": "https://wikiway.com/myanmar/mandalay/"
+            },
+            {
+                "name": "Баго",
+                "url": "https://wikiway.com/myanmar/bago/"
+            }
+        ]
+    },
+    "Намибия": {
+        "url": "https://wikiway.com/namibia/",
+        "cities": [
+            {
+                "name": "Виндхук",
+                "url": "https://wikiway.com/namibia/vindkhuk/"
+            },
+            {
+                "name": "Людериц",
+                "url": "https://wikiway.com/namibia/lyuderits/"
+            },
+            {
+                "name": "Карасбург",
+                "url": "https://wikiway.com/namibia/karasburg/"
+            }
+        ]
+    },
+    "Науру": {
+        "url": "https://wikiway.com/nauru/",
+        "cities": [
+            {
+                "name": "Ярен",
+                "url": "https://wikiway.com/nauru/yaren/"
+            },
+            {
+                "name": "Денигомоду",
+                "url": "https://wikiway.com/nauru/denigomodu/"
+            }
+        ]
+    },
+    "Непал": {
+        "url": "https://wikiway.com/nepal/",
+        "cities": [
+            {
+                "name": "Покхара",
+                "url": "https://wikiway.com/nepal/pokkhara/"
+            },
+            {
+                "name": "Катманду",
+                "url": "https://wikiway.com/nepal/katmandu/"
+            },
+            {
+                "name": "Лумбини",
+                "url": "https://wikiway.com/nepal/lumbini/"
+            },
+            {
+                "name": "Патан",
+                "url": "https://wikiway.com/nepal/patan/"
+            },
+            {
+                "name": "Бхактапур",
+                "url": "https://wikiway.com/nepal/bkhaktapur/"
+            }
+        ]
+    },
+    "Нигер": {
+        "url": "https://wikiway.com/niger/",
+        "cities": [
+            {
+                "name": "Ниамей",
+                "url": "https://wikiway.com/niger/niamey/"
+            },
+            {
+                "name": "Агадес",
+                "url": "https://wikiway.com/niger/agades/"
+            }
+        ]
+    },
+    "Нигерия": {
+        "url": "https://wikiway.com/nigeria/",
+        "cities": [
+            {
+                "name": "Лагос",
+                "url": "https://wikiway.com/nigeria/lagos/"
+            },
+            {
+                "name": "Кано",
+                "url": "https://wikiway.com/nigeria/kano/"
+            },
+            {
+                "name": "Бонни",
+                "url": "https://wikiway.com/nigeria/bonni/"
+            },
+            {
+                "name": "Абуджа",
+                "url": "https://wikiway.com/nigeria/abudzha/"
+            },
+            {
+                "name": "Абеокута",
+                "url": "https://wikiway.com/nigeria/abeokuta/"
+            },
+            {
+                "name": "Аба",
+                "url": "https://wikiway.com/nigeria/aba/"
+            }
+        ]
+    },
+    "Нидерланды": {
+        "url": "https://wikiway.com/netherlands/",
+        "cities": [
+            {
+                "name": "Амстердам",
+                "url": "https://wikiway.com/netherlands/amsterdam/"
+            },
+            {
+                "name": "Роттердам",
+                "url": "https://wikiway.com/netherlands/rotterdam/"
+            },
+            {
+                "name": "Гаага",
+                "url": "https://wikiway.com/netherlands/gaaga/"
+            },
+            {
+                "name": "Лейден",
+                "url": "https://wikiway.com/netherlands/leyden/"
+            },
+            {
+                "name": "Делфт",
+                "url": "https://wikiway.com/netherlands/delft/"
+            },
+            {
+                "name": "Арнем",
+                "url": "https://wikiway.com/netherlands/arnem/"
+            },
+            {
+                "name": "Утрехт",
+                "url": "https://wikiway.com/netherlands/utrekht/"
+            },
+            {
+                "name": "Заандам",
+                "url": "https://wikiway.com/netherlands/zaandam/"
+            },
+            {
+                "name": "Алкмар",
+                "url": "https://wikiway.com/netherlands/alkmar/"
+            }
+        ]
+    },
+    "Никарагуа": {
+        "url": "https://wikiway.com/nicaragua/",
+        "cities": [
+            {
+                "name": "Гранада",
+                "url": "https://wikiway.com/nicaragua/granada-nikaragua/"
+            },
+            {
+                "name": "Леон",
+                "url": "https://wikiway.com/nicaragua/leon/"
+            },
+            {
+                "name": "Манагуа",
+                "url": "https://wikiway.com/nicaragua/managua/"
+            },
+            {
+                "name": "Сомото",
+                "url": "https://wikiway.com/nicaragua/somoto/"
+            }
+        ]
+    },
+    "Новая Зеландия": {
+        "url": "https://wikiway.com/novaya-zelandiya/",
+        "cities": [
+            {
+                "name": "Окленд",
+                "url": "https://wikiway.com/novaya-zelandiya/oklend/"
+            },
+            {
+                "name": "Крайстчерч",
+                "url": "https://wikiway.com/novaya-zelandiya/kraystcherch/"
+            },
+            {
+                "name": "Веллингтон",
+                "url": "https://wikiway.com/novaya-zelandiya/vellington/"
+            },
+            {
+                "name": "Нельсон",
+                "url": "https://wikiway.com/novaya-zelandiya/nelson/"
+            },
+            {
+                "name": "Квинстаун",
+                "url": "https://wikiway.com/novaya-zelandiya/kvinstaun/"
+            },
+            {
+                "name": "Гамильтон",
+                "url": "https://wikiway.com/novaya-zelandiya/gamilton/"
+            },
+            {
+                "name": "Бленем",
+                "url": "https://wikiway.com/novaya-zelandiya/blenem/"
+            }
+        ]
+    },
+    "Норвегия": {
+        "url": "https://wikiway.com/norway/",
+        "cities": [
+            {
+                "name": "Осло",
+                "url": "https://wikiway.com/norway/oslo/"
+            },
+            {
+                "name": "Берген",
+                "url": "https://wikiway.com/norway/bergen/"
+            },
+            {
+                "name": "Алесунд",
+                "url": "https://wikiway.com/norway/alesund/"
+            },
+            {
+                "name": "Тромсё",
+                "url": "https://wikiway.com/norway/tromsye/"
+            },
+            {
+                "name": "Лиллехаммер",
+                "url": "https://wikiway.com/norway/lillekhammer/"
+            },
+            {
+                "name": "Кристиансанн",
+                "url": "https://wikiway.com/norway/kristiansann/"
+            },
+            {
+                "name": "Тронхейм",
+                "url": "https://wikiway.com/norway/tronkheym/"
+            },
+            {
+                "name": "Ставангер",
+                "url": "https://wikiway.com/norway/stavanger/"
+            }
+        ]
+    },
+    "ОАЭ": {
+        "url": "https://wikiway.com/oae/",
+        "cities": [
+            {
+                "name": "Дубай",
+                "url": "https://wikiway.com/oae/dubay/"
+            },
+            {
+                "name": "Рас-эль-Хайма",
+                "url": "https://wikiway.com/oae/ras-el-khayma/"
+            },
+            {
+                "name": "Абу-Даби",
+                "url": "https://wikiway.com/oae/abu-dabi/"
+            },
+            {
+                "name": "Фуджейра",
+                "url": "https://wikiway.com/oae/fudzheyra/"
+            },
+            {
+                "name": "Шарджа",
+                "url": "https://wikiway.com/oae/shardzha/"
+            },
+            {
+                "name": "Аль-Айн",
+                "url": "https://wikiway.com/oae/al-ayn/"
+            },
+            {
+                "name": "Аджман",
+                "url": "https://wikiway.com/oae/adzhman/"
+            }
+        ]
+    },
+    "Оман": {
+        "url": "https://wikiway.com/oman/",
+        "cities": [
+            {
+                "name": "Маскат",
+                "url": "https://wikiway.com/oman/maskat/"
+            },
+            {
+                "name": "Салала",
+                "url": "https://wikiway.com/oman/salala/"
+            },
+            {
+                "name": "Бахла",
+                "url": "https://wikiway.com/oman/bakhla/"
+            },
+            {
+                "name": "Сохар",
+                "url": "https://wikiway.com/oman/sokhar/"
+            },
+            {
+                "name": "Низва",
+                "url": "https://wikiway.com/oman/nizva/"
+            }
+        ]
+    },
+    "Острова Кука": {
+        "url": "https://wikiway.com/ostrova-kuka/",
+        "cities": [
+            {
+                "name": "Аваруа",
+                "url": "https://wikiway.com/ostrova-kuka/avarua/"
+            }
+        ]
+    },
+    "Пакистан": {
+        "url": "https://wikiway.com/pakistan/",
+        "cities": [
+            {
+                "name": "Карачи",
+                "url": "https://wikiway.com/pakistan/karachi/"
+            },
+            {
+                "name": "Лахор",
+                "url": "https://wikiway.com/pakistan/lakhor/"
+            },
+            {
+                "name": "Исламабад",
+                "url": "https://wikiway.com/pakistan/islamabad/"
+            },
+            {
+                "name": "Пешавар",
+                "url": "https://wikiway.com/pakistan/peshavar/"
+            },
+            {
+                "name": "Бахавалпур",
+                "url": "https://wikiway.com/pakistan/bakhavalpur/"
+            },
+            {
+                "name": "Кветта",
+                "url": "https://wikiway.com/pakistan/kvetta/"
+            }
+        ]
+    },
+    "Палау": {
+        "url": "https://wikiway.com/palau/",
+        "cities": [
+            {
+                "name": "Корор",
+                "url": "https://wikiway.com/palau/koror/"
+            },
+            {
+                "name": "Нгерулмуд",
+                "url": "https://wikiway.com/palau/ngerulmud/"
+            }
+        ]
+    },
+    "Панама": {
+        "url": "https://wikiway.com/panama/",
+        "cities": [
+            {
+                "name": "Панама-Сити",
+                "url": "https://wikiway.com/panama/panama-city/"
+            },
+            {
+                "name": "Колон",
+                "url": "https://wikiway.com/panama/kolon/"
+            }
+        ]
+    },
+    "Папуа-Новая Гвинея": {
+        "url": "https://wikiway.com/papua-novaya-gvineya/",
+        "cities": [
+            {
+                "name": "Порт-Морсби",
+                "url": "https://wikiway.com/papua-novaya-gvineya/port-morsbi/"
+            },
+            {
+                "name": "Рабаул",
+                "url": "https://wikiway.com/papua-novaya-gvineya/rabaul/"
+            },
+            {
+                "name": "Маданг",
+                "url": "https://wikiway.com/papua-novaya-gvineya/madang/"
+            },
+            {
+                "name": "Горока",
+                "url": "https://wikiway.com/papua-novaya-gvineya/goroka/"
+            }
+        ]
+    },
+    "Парагвай": {
+        "url": "https://wikiway.com/paraguay/",
+        "cities": [
+            {
+                "name": "Асунсьон",
+                "url": "https://wikiway.com/paraguay/asunson/"
+            },
+            {
+                "name": "Сьюдад-дель-Эсте",
+                "url": "https://wikiway.com/paraguay/syudad-del-este/"
+            }
+        ]
+    },
+    "Перу": {
+        "url": "https://wikiway.com/peru/",
+        "cities": [
+            {
+                "name": "Лима",
+                "url": "https://wikiway.com/peru/lima/"
+            },
+            {
+                "name": "Куско",
+                "url": "https://wikiway.com/peru/kusko/"
+            },
+            {
+                "name": "Икитос",
+                "url": "https://wikiway.com/peru/ikitos/"
+            },
+            {
+                "name": "Трухильо",
+                "url": "https://wikiway.com/peru/trukhilo/"
+            },
+            {
+                "name": "Арекипа",
+                "url": "https://wikiway.com/peru/arekipa/"
+            },
+            {
+                "name": "Писко",
+                "url": "https://wikiway.com/peru/pisko/"
+            },
+            {
+                "name": "Мольендо",
+                "url": "https://wikiway.com/peru/molendo/"
+            },
+            {
+                "name": "Кахамарка",
+                "url": "https://wikiway.com/peru/kakhamarka/"
+            }
+        ]
+    },
+    "Пуэрто-Рико": {
+        "url": "https://wikiway.com/puerto-riko/",
+        "cities": [
+            {
+                "name": "Сан-Хуан",
+                "url": "https://wikiway.com/puerto-riko/san-khuan/"
+            }
+        ]
+    },
+    "Польша": {
+        "url": "https://wikiway.com/poland/",
+        "cities": [
+            {
+                "name": "Варшава",
+                "url": "https://wikiway.com/poland/varshava/"
+            },
+            {
+                "name": "Торунь",
+                "url": "https://wikiway.com/poland/torun/"
+            },
+            {
+                "name": "Краков",
+                "url": "https://wikiway.com/poland/krakov/"
+            },
+            {
+                "name": "Катовице",
+                "url": "https://wikiway.com/poland/katovitse/"
+            },
+            {
+                "name": "Гданьск",
+                "url": "https://wikiway.com/poland/gdansk/"
+            },
+            {
+                "name": "Лодзь",
+                "url": "https://wikiway.com/poland/lodz/"
+            },
+            {
+                "name": "Люблин",
+                "url": "https://wikiway.com/poland/lyublin/"
+            },
+            {
+                "name": "Познань",
+                "url": "https://wikiway.com/poland/poznan/"
+            },
+            {
+                "name": "Вроцлав",
+                "url": "https://wikiway.com/poland/vrotslav/"
+            },
+            {
+                "name": "Сопот",
+                "url": "https://wikiway.com/poland/sopot/"
+            },
+            {
+                "name": "Величка",
+                "url": "https://wikiway.com/poland/velichka/"
+            },
+            {
+                "name": "Закопане",
+                "url": "https://wikiway.com/poland/zakopane/"
+            }
+        ]
+    },
+    "Португалия": {
+        "url": "https://wikiway.com/portugaliya/",
+        "cities": [
+            {
+                "name": "Лиссабон",
+                "url": "https://wikiway.com/portugaliya/lissabon/"
+            },
+            {
+                "name": "Порту",
+                "url": "https://wikiway.com/portugaliya/portu/"
+            },
+            {
+                "name": "Коимбра",
+                "url": "https://wikiway.com/portugaliya/koimbra/"
+            },
+            {
+                "name": "Синтра",
+                "url": "https://wikiway.com/portugaliya/sintra/"
+            },
+            {
+                "name": "Фатима",
+                "url": "https://wikiway.com/portugaliya/fatima/"
+            },
+            {
+                "name": "Брага",
+                "url": "https://wikiway.com/portugaliya/braga/"
+            },
+            {
+                "name": "Эвора",
+                "url": "https://wikiway.com/portugaliya/evora/"
+            },
+            {
+                "name": "Кашкайш",
+                "url": "https://wikiway.com/portugaliya/kashkaysh/"
+            },
+            {
+                "name": "Бежа",
+                "url": "https://wikiway.com/portugaliya/bezha/"
+            },
+            {
+                "name": "Авиш",
+                "url": "https://wikiway.com/portugaliya/avish/"
+            },
+            {
+                "name": "Мафра",
+                "url": "https://wikiway.com/portugaliya/mafra/"
+            },
+            {
+                "name": "Пенакова",
+                "url": "https://wikiway.com/portugaliya/penakova/"
+            }
+        ]
+    },
+    "Россия": {
+        "url": "https://wikiway.com/russia/",
+        "cities": [
+            {
+                "name": "Москва",
+                "url": "https://wikiway.com/russia/moskva/"
+            },
+            {
+                "name": "Санкт-Петербург",
+                "url": "https://wikiway.com/russia/sankt-peterburg/"
+            },
+            {
+                "name": "Сочи",
+                "url": "https://wikiway.com/russia/sochi/"
+            },
+            {
+                "name": "Казань",
+                "url": "https://wikiway.com/russia/kazan/"
+            },
+            {
+                "name": "Ярославль",
+                "url": "https://wikiway.com/russia/yaroslavl/"
+            },
+            {
+                "name": "Калининград",
+                "url": "https://wikiway.com/russia/kaliningrad/"
+            },
+            {
+                "name": "Тверь",
+                "url": "https://wikiway.com/russia/tver/"
+            },
+            {
+                "name": "Екатеринбург",
+                "url": "https://wikiway.com/russia/ekaterinburg/"
+            },
+            {
+                "name": "Владимир",
+                "url": "https://wikiway.com/russia/vladimir/"
+            },
+            {
+                "name": "Севастополь",
+                "url": "https://wikiway.com/russia/sevastopol/"
+            },
+            {
+                "name": "Рязань",
+                "url": "https://wikiway.com/russia/ryazan/"
+            },
+            {
+                "name": "Липецк",
+                "url": "https://wikiway.com/russia/lipetsk/"
+            },
+            {
+                "name": "Воронеж",
+                "url": "https://wikiway.com/russia/voronezh/"
+            },
+            {
+                "name": "Астрахань",
+                "url": "https://wikiway.com/russia/astrakhan/"
+            },
+            {
+                "name": "Владивосток",
+                "url": "https://wikiway.com/russia/vladivostok/"
+            },
+            {
+                "name": "Краснодар",
+                "url": "https://wikiway.com/russia/krasnodar/"
+            },
+            {
+                "name": "Ростов-на-Дону",
+                "url": "https://wikiway.com/russia/rostov-na-donu/"
+            },
+            {
+                "name": "Грозный",
+                "url": "https://wikiway.com/russia/groznyy/"
+            },
+            {
+                "name": "Нижний Новгород",
+                "url": "https://wikiway.com/russia/nizhniy-novgorod/"
+            },
+            {
+                "name": "Волгоград",
+                "url": "https://wikiway.com/russia/volgograd/"
+            },
+            {
+                "name": "Смоленск",
+                "url": "https://wikiway.com/russia/smolensk/"
+            },
+            {
+                "name": "Пермь",
+                "url": "https://wikiway.com/russia/perm/"
+            },
+            {
+                "name": "Иркутск",
+                "url": "https://wikiway.com/russia/irkutsk/"
+            },
+            {
+                "name": "Алушта",
+                "url": "https://wikiway.com/russia/alushta/"
+            }
+        ]
+    },
+    "Руанда": {
+        "url": "https://wikiway.com/rwanda/",
+        "cities": [
+            {
+                "name": "Кигали",
+                "url": "https://wikiway.com/rwanda/kigali/"
+            }
+        ]
+    },
+    "Румыния": {
+        "url": "https://wikiway.com/romania/",
+        "cities": [
+            {
+                "name": "Бухарест",
+                "url": "https://wikiway.com/romania/bukharest/"
+            },
+            {
+                "name": "Констанца",
+                "url": "https://wikiway.com/romania/konstantsa/"
+            },
+            {
+                "name": "Брашов",
+                "url": "https://wikiway.com/romania/brashov/"
+            },
+            {
+                "name": "Яссы",
+                "url": "https://wikiway.com/romania/yassy/"
+            },
+            {
+                "name": "Сибиу",
+                "url": "https://wikiway.com/romania/sibiu/"
+            },
+            {
+                "name": "Галац",
+                "url": "https://wikiway.com/romania/galats/"
+            },
+            {
+                "name": "Хунедоара",
+                "url": "https://wikiway.com/romania/khunedoara/"
+            },
+            {
+                "name": "Клуж-Напока",
+                "url": "https://wikiway.com/romania/kluzh-napoka/"
+            },
+            {
+                "name": "Сигишоара",
+                "url": "https://wikiway.com/romania/sigishoara/"
+            }
+        ]
+    },
+    "Саба": {
+        "url": "https://wikiway.com/saba/",
+        "cities": [
+            {
+                "name": "Боттом",
+                "url": "https://wikiway.com/saba/bottom/"
+            }
+        ]
+    },
+    "Сальвадор": {
+        "url": "https://wikiway.com/salvador/",
+        "cities": [
+            {
+                "name": "Сан-Сальвадор",
+                "url": "https://wikiway.com/salvador/san-salvador/"
+            }
+        ]
+    },
+    "Самоа": {
+        "url": "https://wikiway.com/samoa/",
+        "cities": [
+            {
+                "name": "Апиа",
+                "url": "https://wikiway.com/samoa/apia/"
+            }
+        ]
+    },
+    "Сан-Марино": {
+        "url": "https://wikiway.com/san-marino/",
+        "cities": [
+            {
+                "name": "Сан-Марино",
+                "url": "https://wikiway.com/san-marino/san-marino/"
+            },
+            {
+                "name": "Серравалле",
+                "url": "https://wikiway.com/san-marino/serravalle/"
+            }
+        ]
+    },
+    "Сан-Томе и Принсипи": {
+        "url": "https://wikiway.com/san-tome-i-prinsipi/",
+        "cities": [
+            {
+                "name": "Сан-Томе",
+                "url": "https://wikiway.com/san-tome-i-prinsipi/san-tome/"
+            },
+            {
+                "name": "Санту-Антонью",
+                "url": "https://wikiway.com/san-tome-i-prinsipi/santu-antonyu/"
+            }
+        ]
+    },
+    "Саудовская Аравия": {
+        "url": "https://wikiway.com/saudovskaya-araviya/",
+        "cities": [
+            {
+                "name": "Мекка",
+                "url": "https://wikiway.com/saudovskaya-araviya/mekka/"
+            },
+            {
+                "name": "Медина",
+                "url": "https://wikiway.com/saudovskaya-araviya/medina/"
+            },
+            {
+                "name": "Эр-Рияд",
+                "url": "https://wikiway.com/saudovskaya-araviya/er-riyad/"
+            },
+            {
+                "name": "Джидда",
+                "url": "https://wikiway.com/saudovskaya-araviya/dzhidda/"
+            },
+            {
+                "name": "Дахран",
+                "url": "https://wikiway.com/saudovskaya-araviya/dakhran/"
+            }
+        ]
+    },
+    "Свазиленд": {
+        "url": "https://wikiway.com/swaziland/",
+        "cities": [
+            {
+                "name": "Ситеки",
+                "url": "https://wikiway.com/swaziland/siteki/"
+            },
+            {
+                "name": "Мбабане",
+                "url": "https://wikiway.com/swaziland/mbabane/"
+            },
+            {
+                "name": "Лобамба",
+                "url": "https://wikiway.com/swaziland/lobamba/"
+            }
+        ]
+    },
+    "Сейшелы": {
+        "url": "https://wikiway.com/seychelles/",
+        "cities": [
+            {
+                "name": "Виктория",
+                "url": "https://wikiway.com/seychelles/victoria/"
+            }
+        ]
+    },
+    "Сенегал": {
+        "url": "https://wikiway.com/senegal/",
+        "cities": [
+            {
+                "name": "Дакар",
+                "url": "https://wikiway.com/senegal/dakar/"
+            },
+            {
+                "name": "Сен-Луи",
+                "url": "https://wikiway.com/senegal/sen-lui/"
+            }
+        ]
+    },
+    "Сент-Винсент и Гренадины": {
+        "url": "https://wikiway.com/sent-vinsent-i-grenadiny/",
+        "cities": [
+            {
+                "name": "Кингстаун",
+                "url": "https://wikiway.com/sent-vinsent-i-grenadiny/kingstaun/"
+            }
+        ]
+    },
+    "Сент-Китс и Невис": {
+        "url": "https://wikiway.com/sent-kits-i-nevis/",
+        "cities": [
+            {
+                "name": "Бастер",
+                "url": "https://wikiway.com/sent-kits-i-nevis/baster/"
+            }
+        ]
+    },
+    "Сент-Люсия": {
+        "url": "https://wikiway.com/saint-lucia/",
+        "cities": [
+            {
+                "name": "Кастри",
+                "url": "https://wikiway.com/saint-lucia/kastri/"
+            },
+            {
+                "name": "Вье-Фор",
+                "url": "https://wikiway.com/saint-lucia/ve-for/"
+            }
+        ]
+    },
+    "Сен-Мартен": {
+        "url": "https://wikiway.com/sen-marten/",
+        "cities": [
+            {
+                "name": "Филипсбург",
+                "url": "https://wikiway.com/sen-marten/filipsburg/"
+            }
+        ]
+    },
+    "Сербия": {
+        "url": "https://wikiway.com/serbia/",
+        "cities": [
+            {
+                "name": "Белград",
+                "url": "https://wikiway.com/serbia/belgrad/"
+            },
+            {
+                "name": "Нови-Сад",
+                "url": "https://wikiway.com/serbia/novi-sad/"
+            },
+            {
+                "name": "Ниш",
+                "url": "https://wikiway.com/serbia/nish/"
+            },
+            {
+                "name": "Крушевац",
+                "url": "https://wikiway.com/serbia/krushevats/"
+            },
+            {
+                "name": "Крагуевац",
+                "url": "https://wikiway.com/serbia/kraguevats/"
+            },
+            {
+                "name": "Вршац",
+                "url": "https://wikiway.com/serbia/vrshats/"
+            },
+            {
+                "name": "Призрен",
+                "url": "https://wikiway.com/serbia/prizren/"
+            }
+        ]
+    },
+    "Сингапур": {
+        "url": "https://wikiway.com/singapore/",
+        "cities": []
+    },
+    "Синт-Эстатиус": {
+        "url": "https://wikiway.com/sint-estatius/",
+        "cities": [
+            {
+                "name": "Ораньестад",
+                "url": "https://wikiway.com/sint-estatius/oranjestad/"
+            }
+        ]
+    },
+    "Сирия": {
+        "url": "https://wikiway.com/syria/",
+        "cities": [
+            {
+                "name": "Алеппо",
+                "url": "https://wikiway.com/syria/aleppo/"
+            },
+            {
+                "name": "Хама",
+                "url": "https://wikiway.com/syria/khama/"
+            },
+            {
+                "name": "Дамаск",
+                "url": "https://wikiway.com/syria/damask/"
+            },
+            {
+                "name": "Латакия",
+                "url": "https://wikiway.com/syria/latakiya/"
+            }
+        ]
+    },
+    "Словакия": {
+        "url": "https://wikiway.com/slovakia/",
+        "cities": [
+            {
+                "name": "Братислава",
+                "url": "https://wikiway.com/slovakia/bratislava/"
+            },
+            {
+                "name": "Жилина",
+                "url": "https://wikiway.com/slovakia/zhilina/"
+            },
+            {
+                "name": "Прешов",
+                "url": "https://wikiway.com/slovakia/preshov/"
+            },
+            {
+                "name": "Нитра",
+                "url": "https://wikiway.com/slovakia/nitra/"
+            },
+            {
+                "name": "Кошице",
+                "url": "https://wikiway.com/slovakia/koshitse/"
+            },
+            {
+                "name": "Левоча",
+                "url": "https://wikiway.com/slovakia/levocha/"
+            },
+            {
+                "name": "Банска Бистрица",
+                "url": "https://wikiway.com/slovakia/banska-bistritsa/"
+            }
+        ]
+    },
+    "Словения": {
+        "url": "https://wikiway.com/slovenia/",
+        "cities": [
+            {
+                "name": "Любляна",
+                "url": "https://wikiway.com/slovenia/lyublyana/"
+            },
+            {
+                "name": "Рогашка Слатина",
+                "url": "https://wikiway.com/slovenia/rogashka-slatina/"
+            },
+            {
+                "name": "Копер",
+                "url": "https://wikiway.com/slovenia/koper/"
+            },
+            {
+                "name": "Марибор",
+                "url": "https://wikiway.com/slovenia/maribor/"
+            },
+            {
+                "name": "Веленье",
+                "url": "https://wikiway.com/slovenia/velene/"
+            },
+            {
+                "name": "Блед",
+                "url": "https://wikiway.com/slovenia/bled/"
+            },
+            {
+                "name": "Целье",
+                "url": "https://wikiway.com/slovenia/tsele/"
+            },
+            {
+                "name": "Постойна",
+                "url": "https://wikiway.com/slovenia/postoyna/"
+            }
+        ]
+    },
+    "США": {
+        "url": "https://wikiway.com/usa/",
+        "cities": [
+            {
+                "name": "Нью-Йорк",
+                "url": "https://wikiway.com/usa/new-york/"
+            },
+            {
+                "name": "Чикаго",
+                "url": "https://wikiway.com/usa/chikago/"
+            },
+            {
+                "name": "Детройт",
+                "url": "https://wikiway.com/usa/detroyt/"
+            },
+            {
+                "name": "Вашингтон",
+                "url": "https://wikiway.com/usa/vashington/"
+            },
+            {
+                "name": "Сан-Франциско",
+                "url": "https://wikiway.com/usa/san-frantsisko/"
+            },
+            {
+                "name": "Лос-Анджелес",
+                "url": "https://wikiway.com/usa/los-angeles/"
+            },
+            {
+                "name": "Атланта",
+                "url": "https://wikiway.com/usa/atlanta/"
+            },
+            {
+                "name": "Сиэтл",
+                "url": "https://wikiway.com/usa/sietl/"
+            },
+            {
+                "name": "Майами",
+                "url": "https://wikiway.com/usa/mayami/"
+            },
+            {
+                "name": "Лас-Вегас",
+                "url": "https://wikiway.com/usa/las-vegas/"
+            },
+            {
+                "name": "Бостон",
+                "url": "https://wikiway.com/usa/boston/"
+            },
+            {
+                "name": "Орландо",
+                "url": "https://wikiway.com/usa/orlando/"
+            },
+            {
+                "name": "Филадельфия",
+                "url": "https://wikiway.com/usa/filadelfiya/"
+            },
+            {
+                "name": "Остин",
+                "url": "https://wikiway.com/usa/ostin/"
+            },
+            {
+                "name": "Денвер",
+                "url": "https://wikiway.com/usa/denver/"
+            },
+            {
+                "name": "Хьюстон",
+                "url": "https://wikiway.com/usa/khyuston/"
+            },
+            {
+                "name": "Даллас",
+                "url": "https://wikiway.com/usa/dallas/"
+            },
+            {
+                "name": "Кембридж",
+                "url": "https://wikiway.com/usa/kembridzh-usa/"
+            },
+            {
+                "name": "Санта-Фе",
+                "url": "https://wikiway.com/usa/santa-fe/"
+            },
+            {
+                "name": "Сан-Диего",
+                "url": "https://wikiway.com/usa/san-diego/"
+            },
+            {
+                "name": "Новый Орлеан",
+                "url": "https://wikiway.com/usa/novyy-orlean/"
+            },
+            {
+                "name": "Мемфис",
+                "url": "https://wikiway.com/usa/memfis/"
+            },
+            {
+                "name": "Саванна",
+                "url": "https://wikiway.com/usa/savanna/"
+            },
+            {
+                "name": "Малибу",
+                "url": "https://wikiway.com/usa/malibu/"
+            }
+        ]
+    },
+    "Соломоновы Острова": {
+        "url": "https://wikiway.com/solomonovy-ostrova/",
+        "cities": [
+            {
+                "name": "Хониара",
+                "url": "https://wikiway.com/solomonovy-ostrova/khoniara/"
+            }
+        ]
+    },
+    "Сомали": {
+        "url": "https://wikiway.com/somali/",
+        "cities": [
+            {
+                "name": "Могадишо",
+                "url": "https://wikiway.com/somali/mogadisho/"
+            }
+        ]
+    },
+    "Судан": {
+        "url": "https://wikiway.com/sudan/",
+        "cities": [
+            {
+                "name": "Хартум",
+                "url": "https://wikiway.com/sudan/khartum/"
+            },
+            {
+                "name": "Омдурман",
+                "url": "https://wikiway.com/sudan/omdurman/"
+            },
+            {
+                "name": "Порт-Судан",
+                "url": "https://wikiway.com/sudan/port-sudan/"
+            }
+        ]
+    },
+    "Суринам": {
+        "url": "https://wikiway.com/suriname/",
+        "cities": [
+            {
+                "name": "Парамарибо",
+                "url": "https://wikiway.com/suriname/paramaribo/"
+            },
+            {
+                "name": "Албина",
+                "url": "https://wikiway.com/suriname/albina/"
+            },
+            {
+                "name": "Лелидорп",
+                "url": "https://wikiway.com/suriname/lelidorp/"
+            }
+        ]
+    },
+    "Сьерра-Леоне": {
+        "url": "https://wikiway.com/sierra-leone/",
+        "cities": [
+            {
+                "name": "Макени",
+                "url": "https://wikiway.com/sierra-leone/makeni/"
+            },
+            {
+                "name": "Фритаун",
+                "url": "https://wikiway.com/sierra-leone/fritaun/"
+            }
+        ]
+    },
+    "Таджикистан": {
+        "url": "https://wikiway.com/tadzhikistan/",
+        "cities": [
+            {
+                "name": "Душанбе",
+                "url": "https://wikiway.com/tadzhikistan/dushanbe/"
+            },
+            {
+                "name": "Худжанд",
+                "url": "https://wikiway.com/tadzhikistan/khudzhand/"
+            },
+            {
+                "name": "Куляб",
+                "url": "https://wikiway.com/tadzhikistan/kulyab/"
+            },
+            {
+                "name": "Истаравшан",
+                "url": "https://wikiway.com/tadzhikistan/istaravshan/"
+            },
+            {
+                "name": "Курган-Тюбе",
+                "url": "https://wikiway.com/tadzhikistan/kurgan-tyube/"
+            },
+            {
+                "name": "Пенджикент",
+                "url": "https://wikiway.com/tadzhikistan/pendzhikent/"
+            },
+            {
+                "name": "Бустон (Чкаловск)",
+                "url": "https://wikiway.com/tadzhikistan/chkalovsk/"
+            },
+            {
+                "name": "Гиссар",
+                "url": "https://wikiway.com/tadzhikistan/gissar/"
+            }
+        ]
+    },
+    "Таиланд": {
+        "url": "https://wikiway.com/thailand/",
+        "cities": [
+            {
+                "name": "Бангкок",
+                "url": "https://wikiway.com/thailand/bangkok/"
+            },
+            {
+                "name": "Паттайя",
+                "url": "https://wikiway.com/thailand/pattaya/"
+            },
+            {
+                "name": "Патонг",
+                "url": "https://wikiway.com/thailand/patong/"
+            },
+            {
+                "name": "Пхукет",
+                "url": "https://wikiway.com/thailand/pkhuket/"
+            },
+            {
+                "name": "Трат",
+                "url": "https://wikiway.com/thailand/trat/"
+            },
+            {
+                "name": "Чианграй",
+                "url": "https://wikiway.com/thailand/chiangray/"
+            },
+            {
+                "name": "Нан",
+                "url": "https://wikiway.com/thailand/nan/"
+            },
+            {
+                "name": "Сурин",
+                "url": "https://wikiway.com/thailand/surin/"
+            },
+            {
+                "name": "Краби",
+                "url": "https://wikiway.com/thailand/krabi/"
+            },
+            {
+                "name": "Яла",
+                "url": "https://wikiway.com/thailand/yala/"
+            },
+            {
+                "name": "Хуа Хин",
+                "url": "https://wikiway.com/thailand/khua-khin/"
+            },
+            {
+                "name": "Удонтхани",
+                "url": "https://wikiway.com/thailand/udontkhani/"
+            },
+            {
+                "name": "Так",
+                "url": "https://wikiway.com/thailand/tak/"
+            },
+            {
+                "name": "Сукхотхай",
+                "url": "https://wikiway.com/thailand/sukkhotkhay/"
+            },
+            {
+                "name": "Сонгкхла",
+                "url": "https://wikiway.com/thailand/songkkhla/"
+            },
+            {
+                "name": "Самутпракан",
+                "url": "https://wikiway.com/thailand/samutprakan/"
+            },
+            {
+                "name": "Паттани",
+                "url": "https://wikiway.com/thailand/pattani/"
+            },
+            {
+                "name": "Лопбури",
+                "url": "https://wikiway.com/thailand/lopburi/"
+            },
+            {
+                "name": "Лампанг",
+                "url": "https://wikiway.com/thailand/lampang/"
+            },
+            {
+                "name": "Районг",
+                "url": "https://wikiway.com/thailand/rayong/"
+            },
+            {
+                "name": "Као-Лак",
+                "url": "https://wikiway.com/thailand/kao-lak/"
+            },
+            {
+                "name": "Чонбури",
+                "url": "https://wikiway.com/thailand/chonburi/"
+            },
+            {
+                "name": "Аюттхая",
+                "url": "https://wikiway.com/thailand/ayuttkhaya/"
+            },
+            {
+                "name": "Чиангмай",
+                "url": "https://wikiway.com/thailand/chiangmay/"
+            }
+        ]
+    },
+    "Танзания": {
+        "url": "https://wikiway.com/tanzania/",
+        "cities": [
+            {
+                "name": "Танга",
+                "url": "https://wikiway.com/tanzania/tanga/"
+            },
+            {
+                "name": "Занзибар",
+                "url": "https://wikiway.com/tanzania/zanzibar/"
+            },
+            {
+                "name": "Додома",
+                "url": "https://wikiway.com/tanzania/dodoma/"
+            },
+            {
+                "name": "Дар-эс-Салам",
+                "url": "https://wikiway.com/tanzania/dar-es-salam/"
+            },
+            {
+                "name": "Букоба",
+                "url": "https://wikiway.com/tanzania/bukoba/"
+            },
+            {
+                "name": "Багамойо",
+                "url": "https://wikiway.com/tanzania/bagamoyo/"
+            }
+        ]
+    },
+    "Того": {
+        "url": "https://wikiway.com/togo/",
+        "cities": [
+            {
+                "name": "Ломе",
+                "url": "https://wikiway.com/togo/lome/"
+            }
+        ]
+    },
+    "Токелау": {
+        "url": "https://wikiway.com/tokelau/",
+        "cities": []
+    },
+    "Тонга": {
+        "url": "https://wikiway.com/tonga/",
+        "cities": [
+            {
+                "name": "Нукуалофа",
+                "url": "https://wikiway.com/tonga/nukualofa/"
+            }
+        ]
+    },
+    "Тринидад и Тобаго": {
+        "url": "https://wikiway.com/trinidad-and-tobago/",
+        "cities": [
+            {
+                "name": "Порт-оф-Спейн",
+                "url": "https://wikiway.com/trinidad-and-tobago/port-of-speyn/"
+            },
+            {
+                "name": "Чагуанас",
+                "url": "https://wikiway.com/trinidad-and-tobago/chaguanas/"
+            },
+            {
+                "name": "Сан-Хуан",
+                "url": "https://wikiway.com/trinidad-and-tobago/san-juan/"
+            },
+            {
+                "name": "Сан-Фернандо",
+                "url": "https://wikiway.com/trinidad-and-tobago/san-fernando/"
+            }
+        ]
+    },
+    "Тувалу": {
+        "url": "https://wikiway.com/tuvalu/",
+        "cities": [
+            {
+                "name": "Фунафути",
+                "url": "https://wikiway.com/tuvalu/funafuti/"
+            }
+        ]
+    },
+    "Тунис": {
+        "url": "https://wikiway.com/tunisia/",
+        "cities": [
+            {
+                "name": "Тунис",
+                "url": "https://wikiway.com/tunisia/tunis/"
+            },
+            {
+                "name": "Сусс",
+                "url": "https://wikiway.com/tunisia/suss/"
+            },
+            {
+                "name": "Монастир",
+                "url": "https://wikiway.com/tunisia/monastir/"
+            },
+            {
+                "name": "Хаммамет",
+                "url": "https://wikiway.com/tunisia/khammamet/"
+            },
+            {
+                "name": "Порт-Эль-Кантауи",
+                "url": "https://wikiway.com/tunisia/port-el-kantaui/"
+            },
+            {
+                "name": "Набёль",
+                "url": "https://wikiway.com/tunisia/nabyel/"
+            },
+            {
+                "name": "Карфаген",
+                "url": "https://wikiway.com/tunisia/karfagen/"
+            },
+            {
+                "name": "Сиди-Бу-Саид",
+                "url": "https://wikiway.com/tunisia/sidi-bu-said/"
+            },
+            {
+                "name": "Махдия",
+                "url": "https://wikiway.com/tunisia/makhdiya/"
+            },
+            {
+                "name": "Эль-Джем",
+                "url": "https://wikiway.com/tunisia/el-dzhem/"
+            },
+            {
+                "name": "Кайруан",
+                "url": "https://wikiway.com/tunisia/kayruan/"
+            },
+            {
+                "name": "Матмата",
+                "url": "https://wikiway.com/tunisia/matmata/"
+            },
+            {
+                "name": "Габес",
+                "url": "https://wikiway.com/tunisia/gabes/"
+            },
+            {
+                "name": "Бизерта",
+                "url": "https://wikiway.com/tunisia/bizerta/"
+            },
+            {
+                "name": "Таузар",
+                "url": "https://wikiway.com/tunisia/tauzar/"
+            },
+            {
+                "name": "Сфакс",
+                "url": "https://wikiway.com/tunisia/sfaks/"
+            }
+        ]
+    },
+    "Туркменистан": {
+        "url": "https://wikiway.com/turkmenistan/",
+        "cities": [
+            {
+                "name": "Ашхабад",
+                "url": "https://wikiway.com/turkmenistan/ashkhabad/"
+            },
+            {
+                "name": "Мары",
+                "url": "https://wikiway.com/turkmenistan/mary/"
+            },
+            {
+                "name": "Туркменбаши",
+                "url": "https://wikiway.com/turkmenistan/turkmenbashy/"
+            },
+            {
+                "name": "Дашогуз",
+                "url": "https://wikiway.com/turkmenistan/dashoguz/"
+            },
+            {
+                "name": "Туркменабад",
+                "url": "https://wikiway.com/turkmenistan/turkmenabat/"
+            },
+            {
+                "name": "Балканабад",
+                "url": "https://wikiway.com/turkmenistan/balkanabad/"
+            },
+            {
+                "name": "Серхетабад",
+                "url": "https://wikiway.com/turkmenistan/serkhetabad/"
+            }
+        ]
+    },
+    "Турция": {
+        "url": "https://wikiway.com/turkey/",
+        "cities": [
+            {
+                "name": "Стамбул",
+                "url": "https://wikiway.com/turkey/stambul/"
+            },
+            {
+                "name": "Кемер",
+                "url": "https://wikiway.com/turkey/kemer/"
+            },
+            {
+                "name": "Анталия",
+                "url": "https://wikiway.com/turkey/antaliya/"
+            },
+            {
+                "name": "Мармарис",
+                "url": "https://wikiway.com/turkey/marmaris/"
+            },
+            {
+                "name": "Белек",
+                "url": "https://wikiway.com/turkey/belek/"
+            },
+            {
+                "name": "Фетхие",
+                "url": "https://wikiway.com/turkey/fetkhie/"
+            },
+            {
+                "name": "Алания",
+                "url": "https://wikiway.com/turkey/alaniya/"
+            },
+            {
+                "name": "Бодрум",
+                "url": "https://wikiway.com/turkey/bodrum/"
+            },
+            {
+                "name": "Олюдениз",
+                "url": "https://wikiway.com/turkey/olyudeniz/"
+            },
+            {
+                "name": "Гёйнюк",
+                "url": "https://wikiway.com/turkey/gyeynyuk/"
+            },
+            {
+                "name": "Измир",
+                "url": "https://wikiway.com/turkey/izmir/"
+            },
+            {
+                "name": "Анкара",
+                "url": "https://wikiway.com/turkey/ankara/"
+            },
+            {
+                "name": "Бурса",
+                "url": "https://wikiway.com/turkey/bursa/"
+            },
+            {
+                "name": "Текирова",
+                "url": "https://wikiway.com/turkey/tekirova/"
+            },
+            {
+                "name": "Дидим",
+                "url": "https://wikiway.com/turkey/didim/"
+            },
+            {
+                "name": "Бельдиби",
+                "url": "https://wikiway.com/turkey/beldibi/"
+            },
+            {
+                "name": "Адана",
+                "url": "https://wikiway.com/turkey/adana/"
+            },
+            {
+                "name": "Газиантеп",
+                "url": "https://wikiway.com/turkey/gaziantep/"
+            },
+            {
+                "name": "Кушадасы",
+                "url": "https://wikiway.com/turkey/kushadasy/"
+            },
+            {
+                "name": "Трабзон",
+                "url": "https://wikiway.com/turkey/trabzon/"
+            },
+            {
+                "name": "Сиде",
+                "url": "https://wikiway.com/turkey/side/"
+            },
+            {
+                "name": "Эрзурум",
+                "url": "https://wikiway.com/turkey/erzurum/"
+            },
+            {
+                "name": "Испарта",
+                "url": "https://wikiway.com/turkey/isparta/"
+            },
+            {
+                "name": "Битлис",
+                "url": "https://wikiway.com/turkey/bitlis/"
+            }
+        ]
+    },
+    "Уганда": {
+        "url": "https://wikiway.com/uganda/",
+        "cities": [
+            {
+                "name": "Кампала",
+                "url": "https://wikiway.com/uganda/kampala/"
+            }
+        ]
+    },
+    "Узбекситан": {
+        "url": "https://wikiway.com/uzbekistan/",
+        "cities": [
+            {
+                "name": "Ташкент",
+                "url": "https://wikiway.com/uzbekistan/tashkent/"
+            },
+            {
+                "name": "Самарканд",
+                "url": "https://wikiway.com/uzbekistan/samarkand/"
+            },
+            {
+                "name": "Бухара",
+                "url": "https://wikiway.com/uzbekistan/bukhara/"
+            },
+            {
+                "name": "Фергана",
+                "url": "https://wikiway.com/uzbekistan/fergana/"
+            },
+            {
+                "name": "Нукус",
+                "url": "https://wikiway.com/uzbekistan/nukus/"
+            },
+            {
+                "name": "Хива",
+                "url": "https://wikiway.com/uzbekistan/khiva/"
+            },
+            {
+                "name": "Шахрисабз",
+                "url": "https://wikiway.com/uzbekistan/shakhrisabz/"
+            },
+            {
+                "name": "Коканд",
+                "url": "https://wikiway.com/uzbekistan/kokand/"
+            },
+            {
+                "name": "Андижан",
+                "url": "https://wikiway.com/uzbekistan/andizhan/"
+            },
+            {
+                "name": "Карши",
+                "url": "https://wikiway.com/uzbekistan/karshi/"
+            },
+            {
+                "name": "Наманган",
+                "url": "https://wikiway.com/uzbekistan/namangan/"
+            },
+            {
+                "name": "Муйнак",
+                "url": "https://wikiway.com/uzbekistan/muynak/"
+            }
+        ]
+    },
+    "Украина": {
+        "url": "https://wikiway.com/ukraina/",
+        "cities": [
+            {
+                "name": "Одесса",
+                "url": "https://wikiway.com/ukraina/odessa/"
+            },
+            {
+                "name": "Киев",
+                "url": "https://wikiway.com/ukraina/kiev/"
+            },
+            {
+                "name": "Николаев",
+                "url": "https://wikiway.com/ukraina/nikolaev/"
+            },
+            {
+                "name": "Львов",
+                "url": "https://wikiway.com/ukraina/lvov/"
+            },
+            {
+                "name": "Донецк",
+                "url": "https://wikiway.com/ukraina/donetsk/"
+            },
+            {
+                "name": "Мариуполь",
+                "url": "https://wikiway.com/ukraina/mariupol/"
+            },
+            {
+                "name": "Харьков",
+                "url": "https://wikiway.com/ukraina/kharkov/"
+            },
+            {
+                "name": "Сумы",
+                "url": "https://wikiway.com/ukraina/sumy/"
+            },
+            {
+                "name": "Луганск",
+                "url": "https://wikiway.com/ukraina/lugansk/"
+            },
+            {
+                "name": "Ровно",
+                "url": "https://wikiway.com/ukraina/rovno/"
+            },
+            {
+                "name": "Дубно",
+                "url": "https://wikiway.com/ukraina/dubno/"
+            },
+            {
+                "name": "Херсон",
+                "url": "https://wikiway.com/ukraina/kherson/"
+            },
+            {
+                "name": "Запорожье",
+                "url": "https://wikiway.com/ukraina/zaporozhe/"
+            },
+            {
+                "name": "Днепропетровск",
+                "url": "https://wikiway.com/ukraina/dnepropetrovsk/"
+            },
+            {
+                "name": "Винница",
+                "url": "https://wikiway.com/ukraina/vinnitsa/"
+            },
+            {
+                "name": "Полтава",
+                "url": "https://wikiway.com/ukraina/poltava/"
+            },
+            {
+                "name": "Черкассы",
+                "url": "https://wikiway.com/ukraina/cherkassy/"
+            },
+            {
+                "name": "Чернигов",
+                "url": "https://wikiway.com/ukraina/chernigov/"
+            },
+            {
+                "name": "Кривой Рог",
+                "url": "https://wikiway.com/ukraina/krivoy-rog/"
+            },
+            {
+                "name": "Макеевка",
+                "url": "https://wikiway.com/ukraina/makeevka/"
+            },
+            {
+                "name": "Луцк",
+                "url": "https://wikiway.com/ukraina/lutsk/"
+            },
+            {
+                "name": "Кировоград",
+                "url": "https://wikiway.com/ukraina/kirovograd/"
+            },
+            {
+                "name": "Ужгород",
+                "url": "https://wikiway.com/ukraina/uzhgorod/"
+            },
+            {
+                "name": "Золочев",
+                "url": "https://wikiway.com/ukraina/zolochev/"
+            }
+        ]
+    },
+    "Уоллис и Футуна": {
+        "url": "https://wikiway.com/uollis-i-futuna/",
+        "cities": [
+            {
+                "name": "Мата-Уту",
+                "url": "https://wikiway.com/uollis-i-futuna/mata-utu/"
+            }
+        ]
+    },
+    "Уругвай": {
+        "url": "https://wikiway.com/uruguay/",
+        "cities": [
+            {
+                "name": "Монтевидео",
+                "url": "https://wikiway.com/uruguay/montevideo/"
+            },
+            {
+                "name": "Трейнта-и-Трес",
+                "url": "https://wikiway.com/uruguay/treynta-i-tres/"
+            },
+            {
+                "name": "Колония-дель-Сакраменто",
+                "url": "https://wikiway.com/uruguay/koloniya-del-sakramento/"
+            },
+            {
+                "name": "Артигас",
+                "url": "https://wikiway.com/uruguay/artigas/"
+            }
+        ]
+    },
+    "Фарерские острова": {
+        "url": "https://wikiway.com/farerskie-ostrova/",
+        "cities": [
+            {
+                "name": "Торсхавн",
+                "url": "https://wikiway.com/farerskie-ostrova/torskhavn/"
+            }
+        ]
+    },
+    "Фед. Штаты Микронезии": {
+        "url": "https://wikiway.com/federativnye-shtaty-mikronezii/",
+        "cities": [
+            {
+                "name": "Паликир",
+                "url": "https://wikiway.com/federativnye-shtaty-mikronezii/palikir/"
+            },
+            {
+                "name": "Колониа",
+                "url": "https://wikiway.com/federativnye-shtaty-mikronezii/kolonia/"
+            }
+        ]
+    },
+    "Фиджи": {
+        "url": "https://wikiway.com/fiji/",
+        "cities": [
+            {
+                "name": "Сува",
+                "url": "https://wikiway.com/fiji/suva/"
+            },
+            {
+                "name": "Нади",
+                "url": "https://wikiway.com/fiji/nadi/"
+            },
+            {
+                "name": "Лаутока",
+                "url": "https://wikiway.com/fiji/lautoka/"
+            },
+            {
+                "name": "Раки-Раки",
+                "url": "https://wikiway.com/fiji/raki-raki/"
+            }
+        ]
+    },
+    "Филиппины": {
+        "url": "https://wikiway.com/philippines/",
+        "cities": [
+            {
+                "name": "Манила",
+                "url": "https://wikiway.com/philippines/manila/"
+            },
+            {
+                "name": "Себу",
+                "url": "https://wikiway.com/philippines/sebu/"
+            },
+            {
+                "name": "Кесон-Сити",
+                "url": "https://wikiway.com/philippines/keson-siti/"
+            },
+            {
+                "name": "Давао",
+                "url": "https://wikiway.com/philippines/davao/"
+            },
+            {
+                "name": "Багио",
+                "url": "https://wikiway.com/philippines/bagio/"
+            }
+        ]
+    },
+    "Финляндия": {
+        "url": "https://wikiway.com/finland/",
+        "cities": [
+            {
+                "name": "Хельсинки",
+                "url": "https://wikiway.com/finland/khelsinki/"
+            },
+            {
+                "name": "Тампере",
+                "url": "https://wikiway.com/finland/tampere/"
+            },
+            {
+                "name": "Турку",
+                "url": "https://wikiway.com/finland/turku/"
+            },
+            {
+                "name": "Коувола",
+                "url": "https://wikiway.com/finland/kouvola/"
+            },
+            {
+                "name": "Оулу",
+                "url": "https://wikiway.com/finland/oulu/"
+            },
+            {
+                "name": "Иматра",
+                "url": "https://wikiway.com/finland/imatra/"
+            },
+            {
+                "name": "Рованиеми",
+                "url": "https://wikiway.com/finland/rovaniemi/"
+            },
+            {
+                "name": "Йоэнсуу",
+                "url": "https://wikiway.com/finland/yoensuu/"
+            },
+            {
+                "name": "Вааса",
+                "url": "https://wikiway.com/finland/vaasa/"
+            },
+            {
+                "name": "Наантали",
+                "url": "https://wikiway.com/finland/naantali/"
+            },
+            {
+                "name": "Иисалми",
+                "url": "https://wikiway.com/finland/iisalmi/"
+            }
+        ]
+    },
+    "Фолклендские острова": {
+        "url": "https://wikiway.com/folklendskie-ostrova/",
+        "cities": [
+            {
+                "name": "Стэнли",
+                "url": "https://wikiway.com/folklendskie-ostrova/stenli/"
+            }
+        ]
+    },
+    "Франция": {
+        "url": "https://wikiway.com/france/",
+        "cities": [
+            {
+                "name": "Париж",
+                "url": "https://wikiway.com/france/parizh/"
+            },
+            {
+                "name": "Ницца",
+                "url": "https://wikiway.com/france/nitstsa/"
+            },
+            {
+                "name": "Марсель",
+                "url": "https://wikiway.com/france/marsel/"
+            },
+            {
+                "name": "Лион",
+                "url": "https://wikiway.com/france/lion/"
+            },
+            {
+                "name": "Кан",
+                "url": "https://wikiway.com/france/kan/"
+            },
+            {
+                "name": "Антиб",
+                "url": "https://wikiway.com/france/antib/"
+            },
+            {
+                "name": "Канны",
+                "url": "https://wikiway.com/france/kanny/"
+            },
+            {
+                "name": "Бордо",
+                "url": "https://wikiway.com/france/bordo/"
+            },
+            {
+                "name": "Аяччо",
+                "url": "https://wikiway.com/france/ayachcho/"
+            },
+            {
+                "name": "Страсбург",
+                "url": "https://wikiway.com/france/strasburg/"
+            },
+            {
+                "name": "Орлеан",
+                "url": "https://wikiway.com/france/orlean/"
+            },
+            {
+                "name": "Ним",
+                "url": "https://wikiway.com/france/nim/"
+            },
+            {
+                "name": "Грасс",
+                "url": "https://wikiway.com/france/grass/"
+            },
+            {
+                "name": "Тулуза",
+                "url": "https://wikiway.com/france/tuluza/"
+            },
+            {
+                "name": "Руан",
+                "url": "https://wikiway.com/france/ruan/"
+            },
+            {
+                "name": "Нант",
+                "url": "https://wikiway.com/france/nant/"
+            },
+            {
+                "name": "Авиньон",
+                "url": "https://wikiway.com/france/avinon/"
+            },
+            {
+                "name": "Арль",
+                "url": "https://wikiway.com/france/arl/"
+            },
+            {
+                "name": "Тур",
+                "url": "https://wikiway.com/france/tur/"
+            },
+            {
+                "name": "Ренн",
+                "url": "https://wikiway.com/france/renn/"
+            },
+            {
+                "name": "Реймс",
+                "url": "https://wikiway.com/france/reyms/"
+            },
+            {
+                "name": "Оранж",
+                "url": "https://wikiway.com/france/oranzh/"
+            },
+            {
+                "name": "Монпелье",
+                "url": "https://wikiway.com/france/monpele/"
+            },
+            {
+                "name": "Каркассон",
+                "url": "https://wikiway.com/france/karkasson/"
+            }
+        ]
+    },
+    "Французская Полинезия": {
+        "url": "https://wikiway.com/frantsuzskaya-polineziya/",
+        "cities": [
+            {
+                "name": "Папеэте",
+                "url": "https://wikiway.com/frantsuzskaya-polineziya/papeete/"
+            }
+        ]
+    },
+    "Хорватия": {
+        "url": "https://wikiway.com/croatia/",
+        "cities": [
+            {
+                "name": "Сплит",
+                "url": "https://wikiway.com/croatia/split/"
+            },
+            {
+                "name": "Пула",
+                "url": "https://wikiway.com/croatia/pula/"
+            },
+            {
+                "name": "Дубровник",
+                "url": "https://wikiway.com/croatia/dubrovnik/"
+            },
+            {
+                "name": "Ровинь",
+                "url": "https://wikiway.com/croatia/rovin/"
+            },
+            {
+                "name": "Загреб",
+                "url": "https://wikiway.com/croatia/zagreb/"
+            },
+            {
+                "name": "Опатия",
+                "url": "https://wikiway.com/croatia/opatiya/"
+            },
+            {
+                "name": "Трогир",
+                "url": "https://wikiway.com/croatia/trogir/"
+            },
+            {
+                "name": "Задар",
+                "url": "https://wikiway.com/croatia/zadar/"
+            },
+            {
+                "name": "Омиш",
+                "url": "https://wikiway.com/croatia/omish/"
+            },
+            {
+                "name": "Шибеник",
+                "url": "https://wikiway.com/croatia/shibenik/"
+            },
+            {
+                "name": "Риека",
+                "url": "https://wikiway.com/croatia/rieka/"
+            },
+            {
+                "name": "Хум",
+                "url": "https://wikiway.com/croatia/khum/"
+            },
+            {
+                "name": "Корчула",
+                "url": "https://wikiway.com/croatia/korchula/"
+            },
+            {
+                "name": "Осиек",
+                "url": "https://wikiway.com/croatia/osiek/"
+            },
+            {
+                "name": "Вараждин",
+                "url": "https://wikiway.com/croatia/varazhdin/"
+            }
+        ]
+    },
+    "ЦАР": {
+        "url": "https://wikiway.com/car/",
+        "cities": [
+            {
+                "name": "Банги",
+                "url": "https://wikiway.com/car/bangi/"
+            }
+        ]
+    },
+    "Чад": {
+        "url": "https://wikiway.com/chad/",
+        "cities": [
+            {
+                "name": "Нджамена",
+                "url": "https://wikiway.com/chad/ndzhamena/"
+            },
+            {
+                "name": "Мунду",
+                "url": "https://wikiway.com/chad/mundu/"
+            },
+            {
+                "name": "Сарх",
+                "url": "https://wikiway.com/chad/sarkh/"
+            },
+            {
+                "name": "Абеше",
+                "url": "https://wikiway.com/chad/abeshe/"
+            }
+        ]
+    },
+    "Черногория": {
+        "url": "https://wikiway.com/montenegro/",
+        "cities": [
+            {
+                "name": "Котор",
+                "url": "https://wikiway.com/montenegro/kotor/"
+            },
+            {
+                "name": "Тиват",
+                "url": "https://wikiway.com/montenegro/tivat/"
+            },
+            {
+                "name": "Будва",
+                "url": "https://wikiway.com/montenegro/budva/"
+            },
+            {
+                "name": "Петровац",
+                "url": "https://wikiway.com/montenegro/petrovats/"
+            },
+            {
+                "name": "Подгорица",
+                "url": "https://wikiway.com/montenegro/podgoritsa/"
+            },
+            {
+                "name": "Бечичи",
+                "url": "https://wikiway.com/montenegro/bechichi/"
+            },
+            {
+                "name": "Сутоморе",
+                "url": "https://wikiway.com/montenegro/sutomore/"
+            },
+            {
+                "name": "Цетинье",
+                "url": "https://wikiway.com/montenegro/tsetine/"
+            },
+            {
+                "name": "Жабляк",
+                "url": "https://wikiway.com/montenegro/zhablyak/"
+            },
+            {
+                "name": "Бар",
+                "url": "https://wikiway.com/montenegro/bar/"
+            }
+        ]
+    },
+    "Чехия": {
+        "url": "https://wikiway.com/chekhiya/",
+        "cities": [
+            {
+                "name": "Прага",
+                "url": "https://wikiway.com/chekhiya/praga/"
+            },
+            {
+                "name": "Карловы Вары",
+                "url": "https://wikiway.com/chekhiya/karlovi-vari/"
+            },
+            {
+                "name": "Марианские Лазни",
+                "url": "https://wikiway.com/chekhiya/marianskie-lazni/"
+            },
+            {
+                "name": "Брно",
+                "url": "https://wikiway.com/chekhiya/brno/"
+            },
+            {
+                "name": "Острава",
+                "url": "https://wikiway.com/chekhiya/ostrava/"
+            },
+            {
+                "name": "Кутна-Гора",
+                "url": "https://wikiway.com/chekhiya/kutna-gora/"
+            },
+            {
+                "name": "Чешский Крумлов",
+                "url": "https://wikiway.com/chekhiya/cheshskiy-krumlov/"
+            },
+            {
+                "name": "Хеб",
+                "url": "https://wikiway.com/chekhiya/kheb/"
+            },
+            {
+                "name": "Пльзень",
+                "url": "https://wikiway.com/chekhiya/plzen/"
+            },
+            {
+                "name": "Оломоуц",
+                "url": "https://wikiway.com/chekhiya/olomouts/"
+            },
+            {
+                "name": "Челаковице",
+                "url": "https://wikiway.com/chekhiya/chelyakovitsy/"
+            },
+            {
+                "name": "Ческе-Будеёвице",
+                "url": "https://wikiway.com/chekhiya/cheske-budeyevitse/"
+            },
+            {
+                "name": "Жатец",
+                "url": "https://wikiway.com/chekhiya/zhatets/"
+            },
+            {
+                "name": "Коуржим",
+                "url": "https://wikiway.com/chekhiya/kourzhim/"
+            }
+        ]
+    },
+    "Чили": {
+        "url": "https://wikiway.com/chile/",
+        "cities": [
+            {
+                "name": "Сантьяго",
+                "url": "https://wikiway.com/chile/santyago/"
+            },
+            {
+                "name": "Талька",
+                "url": "https://wikiway.com/chile/talka/"
+            },
+            {
+                "name": "Вальпараисо",
+                "url": "https://wikiway.com/chile/valparaiso/"
+            },
+            {
+                "name": "Икике",
+                "url": "https://wikiway.com/chile/ikike/"
+            },
+            {
+                "name": "Вальдивия",
+                "url": "https://wikiway.com/chile/valdiviya/"
+            },
+            {
+                "name": "Арика",
+                "url": "https://wikiway.com/chile/arika/"
+            },
+            {
+                "name": "Антофагаста",
+                "url": "https://wikiway.com/chile/antofagasta/"
+            },
+            {
+                "name": "Сан-Фелипе",
+                "url": "https://wikiway.com/chile/san-felipe/"
+            },
+            {
+                "name": "Сан-Педро-де-Атакама",
+                "url": "https://wikiway.com/chile/san-pedro-de-atakama/"
+            },
+            {
+                "name": "Ранкагуа",
+                "url": "https://wikiway.com/chile/rankagua/"
+            },
+            {
+                "name": "Пичилему",
+                "url": "https://wikiway.com/chile/pichilemu/"
+            },
+            {
+                "name": "Ла-Серена",
+                "url": "https://wikiway.com/chile/la-serena/"
+            },
+            {
+                "name": "Курико",
+                "url": "https://wikiway.com/chile/kuriko/"
+            },
+            {
+                "name": "Консепсьон",
+                "url": "https://wikiway.com/chile/konsepson/"
+            }
+        ]
+    },
+    "Швейцария": {
+        "url": "https://wikiway.com/switzerland/",
+        "cities": [
+            {
+                "name": "Цюрих",
+                "url": "https://wikiway.com/switzerland/tsyurikh/"
+            },
+            {
+                "name": "Женева",
+                "url": "https://wikiway.com/switzerland/zheneva/"
+            },
+            {
+                "name": "Берн",
+                "url": "https://wikiway.com/switzerland/bern/"
+            },
+            {
+                "name": "Монтре",
+                "url": "https://wikiway.com/switzerland/montre/"
+            },
+            {
+                "name": "Люцерн",
+                "url": "https://wikiway.com/switzerland/lyutsern/"
+            },
+            {
+                "name": "Базель",
+                "url": "https://wikiway.com/switzerland/bazel/"
+            },
+            {
+                "name": "Лозанна",
+                "url": "https://wikiway.com/switzerland/lozanna/"
+            },
+            {
+                "name": "Санкт-Галлен",
+                "url": "https://wikiway.com/switzerland/sankt-gallen/"
+            },
+            {
+                "name": "Интерлакен",
+                "url": "https://wikiway.com/switzerland/interlaken/"
+            }
+        ]
+    },
+    "Швеция": {
+        "url": "https://wikiway.com/sweden/",
+        "cities": [
+            {
+                "name": "Стокгольм",
+                "url": "https://wikiway.com/sweden/stokgolm/"
+            },
+            {
+                "name": "Мальмё",
+                "url": "https://wikiway.com/sweden/malmye/"
+            },
+            {
+                "name": "Гетеборг",
+                "url": "https://wikiway.com/sweden/geteborg/"
+            },
+            {
+                "name": "Уппсала",
+                "url": "https://wikiway.com/sweden/upsala/"
+            },
+            {
+                "name": "Фалун",
+                "url": "https://wikiway.com/sweden/falun/"
+            },
+            {
+                "name": "Висбю",
+                "url": "https://wikiway.com/sweden/visbyu/"
+            },
+            {
+                "name": "Эребру",
+                "url": "https://wikiway.com/sweden/erebru/"
+            },
+            {
+                "name": "Хельсингборг",
+                "url": "https://wikiway.com/sweden/khelsingborg/"
+            },
+            {
+                "name": "Хальмстад",
+                "url": "https://wikiway.com/sweden/khalmstad/"
+            },
+            {
+                "name": "Ландскрона",
+                "url": "https://wikiway.com/sweden/landskrona/"
+            },
+            {
+                "name": "Сигтуна",
+                "url": "https://wikiway.com/sweden/sigtuna/"
+            }
+        ]
+    },
+    "Шри-Ланка": {
+        "url": "https://wikiway.com/sri-lanka/",
+        "cities": [
+            {
+                "name": "Коломбо",
+                "url": "https://wikiway.com/sri-lanka/kolombo/"
+            },
+            {
+                "name": "Хиккадува",
+                "url": "https://wikiway.com/sri-lanka/khikkaduva/"
+            },
+            {
+                "name": "Галле",
+                "url": "https://wikiway.com/sri-lanka/galle/"
+            },
+            {
+                "name": "Бентота",
+                "url": "https://wikiway.com/sri-lanka/bentota/"
+            },
+            {
+                "name": "Унаватуна",
+                "url": "https://wikiway.com/sri-lanka/unavatuna/"
+            },
+            {
+                "name": "Полоннарува",
+                "url": "https://wikiway.com/sri-lanka/polonnaruva/"
+            },
+            {
+                "name": "Канди",
+                "url": "https://wikiway.com/sri-lanka/kandi/"
+            },
+            {
+                "name": "Анурадхапура",
+                "url": "https://wikiway.com/sri-lanka/anuradkhapura/"
+            },
+            {
+                "name": "Нувара-Элия",
+                "url": "https://wikiway.com/sri-lanka/nuvara-eliya/"
+            },
+            {
+                "name": "Ратнапура",
+                "url": "https://wikiway.com/sri-lanka/ratnapura/"
+            },
+            {
+                "name": "Джафна",
+                "url": "https://wikiway.com/sri-lanka/dzhafna/"
+            },
+            {
+                "name": "Амбалангода",
+                "url": "https://wikiway.com/sri-lanka/ambalangoda/"
+            }
+        ]
+    },
+    "Эквадор": {
+        "url": "https://wikiway.com/ecuador/",
+        "cities": [
+            {
+                "name": "Кито",
+                "url": "https://wikiway.com/ecuador/kito/"
+            },
+            {
+                "name": "Куэнка",
+                "url": "https://wikiway.com/ecuador/kuenka/"
+            },
+            {
+                "name": "Гуаякиль",
+                "url": "https://wikiway.com/ecuador/guayakil/"
+            },
+            {
+                "name": "Риобамба",
+                "url": "https://wikiway.com/ecuador/riobamba/"
+            },
+            {
+                "name": "Амбато",
+                "url": "https://wikiway.com/ecuador/ambato/"
+            }
+        ]
+    },
+    "Экваториальная Гвинея": {
+        "url": "https://wikiway.com/equatorial-guinea/",
+        "cities": [
+            {
+                "name": "Малабо",
+                "url": "https://wikiway.com/equatorial-guinea/malabo/"
+            },
+            {
+                "name": "Бата",
+                "url": "https://wikiway.com/equatorial-guinea/bata/"
+            },
+            {
+                "name": "Эбебьин",
+                "url": "https://wikiway.com/equatorial-guinea/ebebin/"
+            }
+        ]
+    },
+    "Эритрея": {
+        "url": "https://wikiway.com/eritrea/",
+        "cities": [
+            {
+                "name": "Асмэра",
+                "url": "https://wikiway.com/eritrea/asmera/"
+            },
+            {
+                "name": "Массауа",
+                "url": "https://wikiway.com/eritrea/massava/"
+            },
+            {
+                "name": "Керен",
+                "url": "https://wikiway.com/eritrea/keren/"
+            },
+            {
+                "name": "Сенафе",
+                "url": "https://wikiway.com/eritrea/senafe/"
+            },
+            {
+                "name": "Зула",
+                "url": "https://wikiway.com/eritrea/zula/"
+            },
+            {
+                "name": "Баренту",
+                "url": "https://wikiway.com/eritrea/barentu/"
+            },
+            {
+                "name": "Агордат",
+                "url": "https://wikiway.com/eritrea/agordat/"
+            }
+        ]
+    },
+    "Эстония": {
+        "url": "https://wikiway.com/estonia/",
+        "cities": [
+            {
+                "name": "Таллин",
+                "url": "https://wikiway.com/estonia/tallin/"
+            },
+            {
+                "name": "Тарту",
+                "url": "https://wikiway.com/estonia/tartu/"
+            },
+            {
+                "name": "Нарва",
+                "url": "https://wikiway.com/estonia/narva/"
+            },
+            {
+                "name": "Пярну",
+                "url": "https://wikiway.com/estonia/pyarnu/"
+            },
+            {
+                "name": "Выру",
+                "url": "https://wikiway.com/estonia/vyru/"
+            },
+            {
+                "name": "Раквере",
+                "url": "https://wikiway.com/estonia/rakvere/"
+            },
+            {
+                "name": "Кярдла",
+                "url": "https://wikiway.com/estonia/kyardla/"
+            },
+            {
+                "name": "Курессааре",
+                "url": "https://wikiway.com/estonia/kuressaare/"
+            },
+            {
+                "name": "Кохтла-Ярве",
+                "url": "https://wikiway.com/estonia/kokhtla-yarve/"
+            },
+            {
+                "name": "Йыхви",
+                "url": "https://wikiway.com/estonia/yykhvi/"
+            },
+            {
+                "name": "Валга",
+                "url": "https://wikiway.com/estonia/valga/"
+            },
+            {
+                "name": "Силламяэ",
+                "url": "https://wikiway.com/estonia/sillamyae/"
+            },
+            {
+                "name": "Палдиски",
+                "url": "https://wikiway.com/estonia/paldiski/"
+            },
+            {
+                "name": "Маарду",
+                "url": "https://wikiway.com/estonia/maardu/"
+            },
+            {
+                "name": "Кунда",
+                "url": "https://wikiway.com/estonia/kunda/"
+            },
+            {
+                "name": "Кейла",
+                "url": "https://wikiway.com/estonia/keyla/"
+            },
+            {
+                "name": "Выхма",
+                "url": "https://wikiway.com/estonia/vykhma/"
+            },
+            {
+                "name": "Вильянди",
+                "url": "https://wikiway.com/estonia/vilyandi/"
+            },
+            {
+                "name": "Кивиыли",
+                "url": "https://wikiway.com/estonia/kiviyli/"
+            },
+            {
+                "name": "Кехра",
+                "url": "https://wikiway.com/estonia/kekhra/"
+            },
+            {
+                "name": "Йыгева",
+                "url": "https://wikiway.com/estonia/yygeva/"
+            }
+        ]
+    },
+    "Эфиопия": {
+        "url": "https://wikiway.com/ethiopia/",
+        "cities": [
+            {
+                "name": "Аддис-Абеба",
+                "url": "https://wikiway.com/ethiopia/addis-abeba/"
+            },
+            {
+                "name": "Аксум",
+                "url": "https://wikiway.com/ethiopia/aksum/"
+            },
+            {
+                "name": "Бахр-Дар",
+                "url": "https://wikiway.com/ethiopia/bakhr-dar/"
+            },
+            {
+                "name": "Харар",
+                "url": "https://wikiway.com/ethiopia/kharar/"
+            },
+            {
+                "name": "Дыре-Дауа",
+                "url": "https://wikiway.com/ethiopia/dyre-daua/"
+            },
+            {
+                "name": "Гондэр",
+                "url": "https://wikiway.com/ethiopia/gonder/"
+            }
+        ]
+    },
+    "ЮАР": {
+        "url": "https://wikiway.com/yuar/",
+        "cities": [
+            {
+                "name": "Кейптаун",
+                "url": "https://wikiway.com/yuar/keyptaun/"
+            },
+            {
+                "name": "Претория",
+                "url": "https://wikiway.com/yuar/pretoriya/"
+            },
+            {
+                "name": "Йоханнесбург",
+                "url": "https://wikiway.com/yuar/yokhannesburg/"
+            },
+            {
+                "name": "Кимберли",
+                "url": "https://wikiway.com/yuar/kimberli/"
+            },
+            {
+                "name": "Дурбан",
+                "url": "https://wikiway.com/yuar/durban/"
+            },
+            {
+                "name": "Порт-Элизабет",
+                "url": "https://wikiway.com/yuar/port-elizabet/"
+            }
+        ]
+    },
+    "Южная Корея": {
+        "url": "https://wikiway.com/korea/",
+        "cities": [
+            {
+                "name": "Сеул",
+                "url": "https://wikiway.com/korea/seul/"
+            },
+            {
+                "name": "Пусан",
+                "url": "https://wikiway.com/korea/pusan/"
+            },
+            {
+                "name": "Тэгу",
+                "url": "https://wikiway.com/korea/tegu/"
+            },
+            {
+                "name": "Кёнджу",
+                "url": "https://wikiway.com/korea/kyendzhu/"
+            }
+        ]
+    },
+    "Южный Судан": {
+        "url": "https://wikiway.com/yuzhnyy-sudan/",
+        "cities": [
+            {
+                "name": "Джуба",
+                "url": "https://wikiway.com/yuzhnyy-sudan/dzhuba/"
+            }
+        ]
+    },
+    "Ямайка": {
+        "url": "https://wikiway.com/jamaica/",
+        "cities": [
+            {
+                "name": "Кингстон",
+                "url": "https://wikiway.com/jamaica/kingston/"
+            },
+            {
+                "name": "Монтего-Бей",
+                "url": "https://wikiway.com/jamaica/montego-bey/"
+            },
+            {
+                "name": "Негрил",
+                "url": "https://wikiway.com/jamaica/negril/"
+            },
+            {
+                "name": "Спаниш-Таун",
+                "url": "https://wikiway.com/jamaica/spanish-taun/"
+            },
+            {
+                "name": "Порт-Антонио",
+                "url": "https://wikiway.com/jamaica/port-antonio/"
+            },
+            {
+                "name": "Очо-Риос",
+                "url": "https://wikiway.com/jamaica/ocho-rios/"
+            }
+        ]
+    },
+    "Япония": {
+        "url": "https://wikiway.com/japan/",
+        "cities": [
+            {
+                "name": "Токио",
+                "url": "https://wikiway.com/japan/tokio/"
+            },
+            {
+                "name": "Хиросима",
+                "url": "https://wikiway.com/japan/khirosima/"
+            },
+            {
+                "name": "Нагасаки",
+                "url": "https://wikiway.com/japan/nagasaki/"
+            },
+            {
+                "name": "Осака",
+                "url": "https://wikiway.com/japan/osaka/"
+            },
+            {
+                "name": "Киото",
+                "url": "https://wikiway.com/japan/kioto/"
+            },
+            {
+                "name": "Кобе",
+                "url": "https://wikiway.com/japan/kobe/"
+            },
+            {
+                "name": "Кавасаки",
+                "url": "https://wikiway.com/japan/kavasaki/"
+            },
+            {
+                "name": "Нагоя",
+                "url": "https://wikiway.com/japan/nagoya/"
+            },
+            {
+                "name": "Окаяма",
+                "url": "https://wikiway.com/japan/okayama/"
+            },
+            {
+                "name": "Фукуока",
+                "url": "https://wikiway.com/japan/fukuoka/"
+            },
+            {
+                "name": "Камакура",
+                "url": "https://wikiway.com/japan/kamakura/"
+            },
+            {
+                "name": "Мацуяма",
+                "url": "https://wikiway.com/japan/matsuyama/"
+            },
+            {
+                "name": "Саппоро",
+                "url": "https://wikiway.com/japan/sapporo/"
+            },
+            {
+                "name": "Исэ",
+                "url": "https://wikiway.com/japan/ise/"
+            },
+            {
+                "name": "Мацуэ",
+                "url": "https://wikiway.com/japan/matsue/"
+            },
+            {
+                "name": "Химедзи",
+                "url": "https://wikiway.com/japan/khimedzi/"
+            },
+            {
+                "name": "Йокогама",
+                "url": "https://wikiway.com/japan/iokogama/"
+            },
+            {
+                "name": "Канадзава",
+                "url": "https://wikiway.com/japan/kanadzava/"
+            },
+            {
+                "name": "Мацумото",
+                "url": "https://wikiway.com/japan/matsumoto/"
+            },
+            {
+                "name": "Никко",
+                "url": "https://wikiway.com/japan/nikko/"
+            },
+            {
+                "name": "Такаяма",
+                "url": "https://wikiway.com/japan/takayama/"
+            }
+        ]
+    }
+}

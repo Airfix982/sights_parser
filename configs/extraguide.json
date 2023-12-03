@@ -1,0 +1,1578 @@
+{
+    "Абхазия": [
+        {
+            "name": "Сухум",
+            "url": "https://extraguide.ru/abkhazia/sukhum/sights/"
+        },
+        {
+            "name": "Гагра",
+            "url": "https://extraguide.ru/abkhazia/gagra/sights/"
+        },
+        {
+            "name": "Пицунда",
+            "url": "https://extraguide.ru/abkhazia/pitsunda/sights/"
+        },
+        {
+            "name": "Новый Афон",
+            "url": "https://extraguide.ru/abkhazia/new-athos/sights/"
+        }
+    ],
+    "Австралия": [
+        {
+            "name": "Сидней",
+            "url": "https://extraguide.ru/australia/sydney/sights/"
+        }
+    ],
+    "Австрия": [
+        {
+            "name": "Вена",
+            "url": "https://extraguide.ru/austria/vienna/sights/"
+        },
+        {
+            "name": "Зальцбург",
+            "url": "https://extraguide.ru/austria/salzburg/sights/"
+        },
+        {
+            "name": "Инсбрук",
+            "url": "https://extraguide.ru/austria/innsbruck/sights/"
+        }
+    ],
+    "Азербайджан": [
+        {
+            "name": "Баку",
+            "url": "https://extraguide.ru/azerbaijan/baku/sights/"
+        }
+    ],
+    "Аргентина": [
+        {
+            "name": "Буэнос-Айрес",
+            "url": "https://extraguide.ru/argentina/buenos-aires/sights/"
+        }
+    ],
+    "Армения": [
+        {
+            "name": "Ереван",
+            "url": "https://extraguide.ru/armenia/yerevan/sights/"
+        },
+        {
+            "name": "Гюмри",
+            "url": "https://extraguide.ru/armenia/gyumri/sights/"
+        }
+    ],
+    "Беларусь": [
+        {
+            "name": "Минск",
+            "url": "https://extraguide.ru/belarus/minsk/sights/"
+        },
+        {
+            "name": "Витебск",
+            "url": "https://extraguide.ru/belarus/vitebsk/sights/"
+        },
+        {
+            "name": "Брест",
+            "url": "https://extraguide.ru/belarus/brest/sights/"
+        },
+        {
+            "name": "Полоцк",
+            "url": "https://extraguide.ru/belarus/polotsk/sights/"
+        },
+        {
+            "name": "Гродно",
+            "url": "https://extraguide.ru/belarus/grodno/sights/"
+        },
+        {
+            "name": "Гомель",
+            "url": "https://extraguide.ru/belarus/gomel/sights/"
+        }
+    ],
+    "Бельгия": [
+        {
+            "name": "Брюссель",
+            "url": "https://extraguide.ru/belgium/brussels/sights/"
+        },
+        {
+            "name": "Брюгге",
+            "url": "https://extraguide.ru/belgium/bruges/sights/"
+        },
+        {
+            "name": "Антверпен",
+            "url": "https://extraguide.ru/belgium/antwerp/sights/"
+        },
+        {
+            "name": "Гент",
+            "url": "https://extraguide.ru/belgium/gent/sights/"
+        }
+    ],
+    "Болгария": [
+        {
+            "name": "София",
+            "url": "https://extraguide.ru/bulgaria/sofia/sights/"
+        },
+        {
+            "name": "Бургас",
+            "url": "https://extraguide.ru/bulgaria/burgas/sights/"
+        },
+        {
+            "name": "Варна",
+            "url": "https://extraguide.ru/bulgaria/varna/sights/"
+        }
+    ],
+    "Бразилия": [
+        {
+            "name": "Рио-де-Жанейро",
+            "url": "https://extraguide.ru/brazil/rio-de-janeiro/sights/"
+        }
+    ],
+    "Великобритания": [
+        {
+            "name": "Лондон",
+            "url": "https://extraguide.ru/united-kingdom/london/sights/"
+        },
+        {
+            "name": "Эдинбург",
+            "url": "https://extraguide.ru/united-kingdom/edinburgh/sights/"
+        }
+    ],
+    "Венгрия": [
+        {
+            "name": "Будапешт",
+            "url": "https://extraguide.ru/hungary/budapest/sights/"
+        }
+    ],
+    "Вьетнам": [
+        {
+            "name": "Нячанг",
+            "url": "https://extraguide.ru/vietnam/nha-trang/sights/"
+        },
+        {
+            "name": "Хошимин",
+            "url": "https://extraguide.ru/vietnam/ho-chi-minh-city/sights/"
+        },
+        {
+            "name": "Ханой",
+            "url": "https://extraguide.ru/vietnam/hanoi/sights/"
+        },
+        {
+            "name": "Фукуок",
+            "url": "https://extraguide.ru/vietnam/phu-quoc/sights/"
+        }
+    ],
+    "Германия": [
+        {
+            "name": "Кёльн",
+            "url": "https://extraguide.ru/germany/cologne/sights/"
+        },
+        {
+            "name": "Мюнхен",
+            "url": "https://extraguide.ru/germany/munich/sights/"
+        },
+        {
+            "name": "Берлин",
+            "url": "https://extraguide.ru/germany/berlin/sights/"
+        },
+        {
+            "name": "Нюрнберг",
+            "url": "https://extraguide.ru/germany/nuremberg/sights/"
+        },
+        {
+            "name": "Гамбург",
+            "url": "https://extraguide.ru/germany/hamburg/sights/"
+        },
+        {
+            "name": "Франкфурт",
+            "url": "https://extraguide.ru/germany/frankfurt/sights/"
+        },
+        {
+            "name": "Дюссельдорф",
+            "url": "https://extraguide.ru/germany/dusseldorf/sights/"
+        },
+        {
+            "name": "Бамберг",
+            "url": "https://extraguide.ru/germany/bamberg/sights/"
+        },
+        {
+            "name": "Дрезден",
+            "url": "https://extraguide.ru/germany/dresden/sights/"
+        },
+        {
+            "name": "Потсдам",
+            "url": "https://extraguide.ru/germany/potsdam/sights/"
+        },
+        {
+            "name": "Бремен",
+            "url": "https://extraguide.ru/germany/bremen/sights/"
+        },
+        {
+            "name": "Лейпциг",
+            "url": "https://extraguide.ru/germany/leipzig/sights/"
+        },
+        {
+            "name": "Баден-Баден",
+            "url": "https://extraguide.ru/germany/baden-baden/sights/"
+        },
+        {
+            "name": "Ганновер",
+            "url": "https://extraguide.ru/germany/hanover/sights/"
+        }
+    ],
+    "Греция": [
+        {
+            "name": "Афины",
+            "url": "https://extraguide.ru/greece/athens/sights/"
+        },
+        {
+            "name": "Крит",
+            "url": "https://extraguide.ru/greece/crete/sights/"
+        },
+        {
+            "name": "Салоники",
+            "url": "https://extraguide.ru/greece/thessaloniki/sights/"
+        },
+        {
+            "name": "Родос",
+            "url": "https://extraguide.ru/greece/rhodes/sights/"
+        },
+        {
+            "name": "Ираклион",
+            "url": "https://extraguide.ru/greece/heraklion/sights/"
+        },
+        {
+            "name": "Корфу",
+            "url": "https://extraguide.ru/greece/corfu/sights/"
+        },
+        {
+            "name": "Ретимно",
+            "url": "https://extraguide.ru/greece/rethymnon/sights/"
+        }
+    ],
+    "Грузия": [
+        {
+            "name": "Тбилиси",
+            "url": "https://extraguide.ru/georgia/tbilisi/sights/"
+        },
+        {
+            "name": "Батуми",
+            "url": "https://extraguide.ru/georgia/batumi/sights/"
+        },
+        {
+            "name": "Мцхета",
+            "url": "https://extraguide.ru/georgia/mtskheta/sights/"
+        },
+        {
+            "name": "Кутаиси",
+            "url": "https://extraguide.ru/georgia/kutaisi/sights/"
+        },
+        {
+            "name": "Кобулети",
+            "url": "https://extraguide.ru/georgia/kobuleti/sights/"
+        }
+    ],
+    "Дания": [
+        {
+            "name": "Копенгаген",
+            "url": "https://extraguide.ru/denmark/copenhagen/sights/"
+        }
+    ],
+    "Доминиканская Республика": [
+        {
+            "name": "Пунта-Кана",
+            "url": "https://extraguide.ru/dominican-republic/punta-cana/sights/"
+        }
+    ],
+    "Египет": [
+        {
+            "name": "Хургада",
+            "url": "https://extraguide.ru/egypt/hurghada/sights/"
+        },
+        {
+            "name": "Шарм-эль-Шейх",
+            "url": "https://extraguide.ru/egypt/sharm-el-sheikh/sights/"
+        },
+        {
+            "name": "Каир",
+            "url": "https://extraguide.ru/egypt/cairo/sights/"
+        },
+        {
+            "name": "Луксор",
+            "url": "https://extraguide.ru/egypt/luxor/sights/"
+        }
+    ],
+    "Израиль": [
+        {
+            "name": "Иерусалим",
+            "url": "https://extraguide.ru/israel/jerusalem/sights/"
+        },
+        {
+            "name": "Эйлат",
+            "url": "https://extraguide.ru/israel/eilat/sights/"
+        },
+        {
+            "name": "Тель-Авив",
+            "url": "https://extraguide.ru/israel/tel-aviv/sights/"
+        },
+        {
+            "name": "Нетания",
+            "url": "https://extraguide.ru/israel/netanya/sights/"
+        },
+        {
+            "name": "Акко",
+            "url": "https://extraguide.ru/israel/acre/sights/"
+        },
+        {
+            "name": "Хайфа",
+            "url": "https://extraguide.ru/israel/haifa/sights/"
+        }
+    ],
+    "Индия": [
+        {
+            "name": "Гоа",
+            "url": "https://extraguide.ru/india/goa/sights/"
+        },
+        {
+            "name": "Дели",
+            "url": "https://extraguide.ru/india/delhi/sights/"
+        },
+        {
+            "name": "Мумбаи",
+            "url": "https://extraguide.ru/india/mumbai/sights/"
+        }
+    ],
+    "Индонезия": [
+        {
+            "name": "Бали",
+            "url": "https://extraguide.ru/indonesia/bali/sights/"
+        }
+    ],
+    "Иран": [
+        {
+            "name": "Тегеран",
+            "url": "https://extraguide.ru/iran/tehran/sights/"
+        }
+    ],
+    "Ирландия": [
+        {
+            "name": "Дублин",
+            "url": "https://extraguide.ru/ireland/dublin/sights/"
+        }
+    ],
+    "Исландия": [
+        {
+            "name": "Рейкьявик",
+            "url": "https://extraguide.ru/iceland/reykjavik/sights/"
+        }
+    ],
+    "Испания": [
+        {
+            "name": "Мадрид",
+            "url": "https://extraguide.ru/spain/madrid/sights/"
+        },
+        {
+            "name": "Барселона",
+            "url": "https://extraguide.ru/spain/barcelona/sights/"
+        },
+        {
+            "name": "Севилья",
+            "url": "https://extraguide.ru/spain/sevilla/sights/"
+        },
+        {
+            "name": "Гранада",
+            "url": "https://extraguide.ru/spain/granada/sights/"
+        },
+        {
+            "name": "Марбелья",
+            "url": "https://extraguide.ru/spain/marbella/sights/"
+        },
+        {
+            "name": "Малага",
+            "url": "https://extraguide.ru/spain/malaga/sights/"
+        },
+        {
+            "name": "Кадис",
+            "url": "https://extraguide.ru/spain/cadiz/sights/"
+        },
+        {
+            "name": "Аликанте",
+            "url": "https://extraguide.ru/spain/alicante/sights/"
+        },
+        {
+            "name": "Жирона",
+            "url": "https://extraguide.ru/spain/girona/sights/"
+        },
+        {
+            "name": "Валенсия",
+            "url": "https://extraguide.ru/spain/valencia/sights/"
+        },
+        {
+            "name": "Тенерифе",
+            "url": "https://extraguide.ru/spain/tenerife/sights/"
+        },
+        {
+            "name": "Бильбао",
+            "url": "https://extraguide.ru/spain/bilbao/sights/"
+        },
+        {
+            "name": "Толедо",
+            "url": "https://extraguide.ru/spain/toledo/sights/"
+        },
+        {
+            "name": "Майорка",
+            "url": "https://extraguide.ru/spain/majorca/sights/"
+        },
+        {
+            "name": "Ибица",
+            "url": "https://extraguide.ru/spain/ibiza/sights/"
+        },
+        {
+            "name": "Таррагона",
+            "url": "https://extraguide.ru/spain/tarragona/sights/"
+        },
+        {
+            "name": "Сан-Себастьян",
+            "url": "https://extraguide.ru/spain/san-sebastian/sights/"
+        }
+    ],
+    "Италия": [
+        {
+            "name": "Венеция",
+            "url": "https://extraguide.ru/italy/venice/sights/"
+        },
+        {
+            "name": "Флоренция",
+            "url": "https://extraguide.ru/italy/florence/sights/"
+        },
+        {
+            "name": "Милан",
+            "url": "https://extraguide.ru/italy/milan/sights/"
+        },
+        {
+            "name": "Рим",
+            "url": "https://extraguide.ru/italy/rome/sights/"
+        },
+        {
+            "name": "Неаполь",
+            "url": "https://extraguide.ru/italy/naples/sights/"
+        },
+        {
+            "name": "Пиза",
+            "url": "https://extraguide.ru/italy/pisa/sights/"
+        },
+        {
+            "name": "Верона",
+            "url": "https://extraguide.ru/italy/verona/sights/"
+        },
+        {
+            "name": "Генуя",
+            "url": "https://extraguide.ru/italy/genoa/sights/"
+        },
+        {
+            "name": "Турин",
+            "url": "https://extraguide.ru/italy/turin/sights/"
+        },
+        {
+            "name": "Палермо",
+            "url": "https://extraguide.ru/italy/palermo/sights/"
+        },
+        {
+            "name": "Сиена",
+            "url": "https://extraguide.ru/italy/sienna/sights/"
+        },
+        {
+            "name": "Бари",
+            "url": "https://extraguide.ru/italy/bari/sights/"
+        },
+        {
+            "name": "Болонья",
+            "url": "https://extraguide.ru/italy/bologna/sights/"
+        },
+        {
+            "name": "Римини",
+            "url": "https://extraguide.ru/italy/rimini/sights/"
+        },
+        {
+            "name": "Калабрия",
+            "url": "https://extraguide.ru/italy/calabria/sights/"
+        },
+        {
+            "name": "Амальфи",
+            "url": "https://extraguide.ru/italy/amalfi/sights/"
+        },
+        {
+            "name": "Бергамо",
+            "url": "https://extraguide.ru/italy/bergamo/sights/"
+        },
+        {
+            "name": "Катания",
+            "url": "https://extraguide.ru/italy/catania/sights/"
+        },
+        {
+            "name": "Падуя",
+            "url": "https://extraguide.ru/italy/padua/sights/"
+        }
+    ],
+    "Казахстан": [
+        {
+            "name": "Алматы",
+            "url": "https://extraguide.ru/kazakhstan/alma-ata/sights/"
+        },
+        {
+            "name": "Астана",
+            "url": "https://extraguide.ru/kazakhstan/astana/sights/"
+        }
+    ],
+    "Канада": [
+        {
+            "name": "Монреаль",
+            "url": "https://extraguide.ru/canada/montreal/sights/"
+        },
+        {
+            "name": "Торонто",
+            "url": "https://extraguide.ru/canada/toronto/sights/"
+        }
+    ],
+    "Кипр": [
+        {
+            "name": "Лимассол",
+            "url": "https://extraguide.ru/cyprus/limassol/sights/"
+        },
+        {
+            "name": "Пафос",
+            "url": "https://extraguide.ru/cyprus/pathos/sights/"
+        },
+        {
+            "name": "Айя-Напа",
+            "url": "https://extraguide.ru/cyprus/ayia-napa/sights/"
+        },
+        {
+            "name": "Ларнака",
+            "url": "https://extraguide.ru/cyprus/larnaca/sights/"
+        },
+        {
+            "name": "Протарас",
+            "url": "https://extraguide.ru/cyprus/protaras/sights/"
+        }
+    ],
+    "Китай": [
+        {
+            "name": "Пекин",
+            "url": "https://extraguide.ru/china/beijing/sights/"
+        },
+        {
+            "name": "Гонконг",
+            "url": "https://extraguide.ru/china/hong-kong/sights/"
+        },
+        {
+            "name": "Шанхай",
+            "url": "https://extraguide.ru/china/shanghai/sights/"
+        },
+        {
+            "name": "Гуанчжоу",
+            "url": "https://extraguide.ru/china/guangzhou/sights/"
+        }
+    ],
+    "Крым": [
+        {
+            "name": "Севастополь",
+            "url": "https://extraguide.ru/crimea/sevastopol/sights/"
+        },
+        {
+            "name": "Ялта",
+            "url": "https://extraguide.ru/crimea/yalta/sights/"
+        },
+        {
+            "name": "Евпатория",
+            "url": "https://extraguide.ru/crimea/evpatoria/sights/"
+        },
+        {
+            "name": "Симферополь",
+            "url": "https://extraguide.ru/crimea/simferopol/sights/"
+        },
+        {
+            "name": "Алушта",
+            "url": "https://extraguide.ru/crimea/alushta/sights/"
+        },
+        {
+            "name": "Бахчисарай",
+            "url": "https://extraguide.ru/crimea/bakhchisaray/sights/"
+        },
+        {
+            "name": "Балаклава",
+            "url": "https://extraguide.ru/crimea/balaclava/sights/"
+        },
+        {
+            "name": "Керчь",
+            "url": "https://extraguide.ru/crimea/kerch/sights/"
+        },
+        {
+            "name": "Феодосия",
+            "url": "https://extraguide.ru/crimea/feodosia/sights/"
+        },
+        {
+            "name": "Судак",
+            "url": "https://extraguide.ru/crimea/sudak/sights/"
+        },
+        {
+            "name": "Коктебель",
+            "url": "https://extraguide.ru/crimea/koktebel/sights/"
+        },
+        {
+            "name": "Гурзуф",
+            "url": "https://extraguide.ru/crimea/gurzuf/sights/"
+        },
+        {
+            "name": "Алупка",
+            "url": "https://extraguide.ru/crimea/alupka/sights/"
+        },
+        {
+            "name": "Саки",
+            "url": "https://extraguide.ru/crimea/saki/sights/"
+        }
+    ],
+    "Куба": [
+        {
+            "name": "Гавана",
+            "url": "https://extraguide.ru/cuba/havana/sights/"
+        },
+        {
+            "name": "Варадеро",
+            "url": "https://extraguide.ru/cuba/varadero/sights/"
+        }
+    ],
+    "Кыргызстан": [
+        {
+            "name": "Бишкек",
+            "url": "https://extraguide.ru/kyrgyzstan/bishkek/sights/"
+        }
+    ],
+    "Латвия": [
+        {
+            "name": "Рига",
+            "url": "https://extraguide.ru/latvia/riga/sights/"
+        }
+    ],
+    "Литва": [
+        {
+            "name": "Вильнюс",
+            "url": "https://extraguide.ru/lithuania/vilnius/sights/"
+        },
+        {
+            "name": "Каунас",
+            "url": "https://extraguide.ru/lithuania/kaunas/sights/"
+        }
+    ],
+    "Люксембург": [
+        {
+            "name": "Люксембург",
+            "url": "https://extraguide.ru/luxembourg/luxembourg/sights/"
+        }
+    ],
+    "Малайзия": [
+        {
+            "name": "Куала-Лумпур",
+            "url": "https://extraguide.ru/malaysia/kuala-lumpur/sights/"
+        }
+    ],
+    "Марокко": [
+        {
+            "name": "Марракеш",
+            "url": "https://extraguide.ru/morocco/marrakesh/sights/"
+        },
+        {
+            "name": "Касабланка",
+            "url": "https://extraguide.ru/morocco/casablanca/sights/"
+        }
+    ],
+    "Мексика": [
+        {
+            "name": "Канкун",
+            "url": "https://extraguide.ru/mexico/cancun/sights/"
+        }
+    ],
+    "Молдова": [
+        {
+            "name": "Кишинёв",
+            "url": "https://extraguide.ru/moldova/kishinev/sights/"
+        }
+    ],
+    "Монако": [
+        {
+            "name": "Монако",
+            "url": "https://extraguide.ru/monaco/monaco/sights/"
+        }
+    ],
+    "Непал": [
+        {
+            "name": "Катманду",
+            "url": "https://extraguide.ru/nepal/katmandu/sights/"
+        }
+    ],
+    "Нидерланды": [
+        {
+            "name": "Амстердам",
+            "url": "https://extraguide.ru/netherlands/amsterdam/sights/"
+        },
+        {
+            "name": "Гаага",
+            "url": "https://extraguide.ru/netherlands/hague/sights/"
+        },
+        {
+            "name": "Роттердам",
+            "url": "https://extraguide.ru/netherlands/rotterdam/sights/"
+        }
+    ],
+    "Норвегия": [
+        {
+            "name": "Осло",
+            "url": "https://extraguide.ru/norway/oslo/sights/"
+        }
+    ],
+    "ОАЭ": [
+        {
+            "name": "Дубай",
+            "url": "https://extraguide.ru/uae/dubai/sights/"
+        },
+        {
+            "name": "Шарджа",
+            "url": "https://extraguide.ru/uae/sharjah/sights/"
+        },
+        {
+            "name": "Абу-Даби",
+            "url": "https://extraguide.ru/uae/abu-dhabi/sights/"
+        },
+        {
+            "name": "Фуджейра",
+            "url": "https://extraguide.ru/uae/fujairah/sights/"
+        },
+        {
+            "name": "Рас-эль-Хайма",
+            "url": "https://extraguide.ru/uae/ras-al-khaimah/sights/"
+        }
+    ],
+    "Оман": [
+        {
+            "name": "Маскат",
+            "url": "https://extraguide.ru/oman/muscat/sights/"
+        }
+    ],
+    "Польша": [
+        {
+            "name": "Краков",
+            "url": "https://extraguide.ru/poland/krakow/sights/"
+        },
+        {
+            "name": "Варшава",
+            "url": "https://extraguide.ru/poland/warsaw/sights/"
+        },
+        {
+            "name": "Вроцлав",
+            "url": "https://extraguide.ru/poland/wroclaw/sights/"
+        },
+        {
+            "name": "Гданьск",
+            "url": "https://extraguide.ru/poland/gdansk/sights/"
+        }
+    ],
+    "Португалия": [
+        {
+            "name": "Лиссабон",
+            "url": "https://extraguide.ru/portugal/lisbon/sights/"
+        },
+        {
+            "name": "Порту",
+            "url": "https://extraguide.ru/portugal/porto/sights/"
+        },
+        {
+            "name": "Мадейра",
+            "url": "https://extraguide.ru/portugal/madeira/sights/"
+        },
+        {
+            "name": "Синтра",
+            "url": "https://extraguide.ru/portugal/sintra/sights/"
+        }
+    ],
+    "Россия": [
+        {
+            "name": "Мурманск",
+            "url": "https://extraguide.ru/russia/murmansk/sights/"
+        },
+        {
+            "name": "Суздаль",
+            "url": "https://extraguide.ru/russia/suzdal/sights/"
+        },
+        {
+            "name": "Кострома",
+            "url": "https://extraguide.ru/russia/kostroma/sights/"
+        },
+        {
+            "name": "Тула",
+            "url": "https://extraguide.ru/russia/tula/sights/"
+        },
+        {
+            "name": "Екатеринбург",
+            "url": "https://extraguide.ru/russia/ekaterinburg/sights/"
+        },
+        {
+            "name": "Воронеж",
+            "url": "https://extraguide.ru/russia/voronezh/sights/"
+        },
+        {
+            "name": "Коломна",
+            "url": "https://extraguide.ru/russia/kolomna/sights/"
+        },
+        {
+            "name": "Новосибирск",
+            "url": "https://extraguide.ru/russia/novosibirsk/sights/"
+        },
+        {
+            "name": "Краснодар",
+            "url": "https://extraguide.ru/russia/krasnodar/sights/"
+        },
+        {
+            "name": "Волгоград",
+            "url": "https://extraguide.ru/russia/volgograd/sights/"
+        },
+        {
+            "name": "Выборг",
+            "url": "https://extraguide.ru/russia/vyborg/sights/"
+        },
+        {
+            "name": "Ростов-на-Дону",
+            "url": "https://extraguide.ru/russia/rostov-on-don/sights/"
+        },
+        {
+            "name": "Великий Новгород",
+            "url": "https://extraguide.ru/russia/velikiy-novgorod/sights/"
+        },
+        {
+            "name": "Самара",
+            "url": "https://extraguide.ru/russia/samara/sights/"
+        },
+        {
+            "name": "Пятигорск",
+            "url": "https://extraguide.ru/russia/pyatigorsk/sights/"
+        },
+        {
+            "name": "Рязань",
+            "url": "https://extraguide.ru/russia/ryazan/sights/"
+        },
+        {
+            "name": "Кисловодск",
+            "url": "https://extraguide.ru/russia/kislovodsk/sights/"
+        },
+        {
+            "name": "Красноярск",
+            "url": "https://extraguide.ru/russia/krasnoyarsk/sights/"
+        },
+        {
+            "name": "Псков",
+            "url": "https://extraguide.ru/russia/pskov/sights/"
+        },
+        {
+            "name": "Иркутск",
+            "url": "https://extraguide.ru/russia/irkutsk/sights/"
+        },
+        {
+            "name": "Смоленск",
+            "url": "https://extraguide.ru/russia/smolensk/sights/"
+        },
+        {
+            "name": "Петрозаводск",
+            "url": "https://extraguide.ru/russia/petrozavodsk/sights/"
+        },
+        {
+            "name": "Адлер",
+            "url": "https://extraguide.ru/russia/adler/sights/"
+        },
+        {
+            "name": "Владивосток",
+            "url": "https://extraguide.ru/russia/vladivostok/sights/"
+        },
+        {
+            "name": "Светлогорск",
+            "url": "https://extraguide.ru/russia/svetlogorsk/sights/"
+        },
+        {
+            "name": "Владикавказ",
+            "url": "https://extraguide.ru/russia/vladikavkaz/sights/"
+        },
+        {
+            "name": "Калининград",
+            "url": "https://extraguide.ru/russia/kaliningrad/sights/"
+        },
+        {
+            "name": "Казань",
+            "url": "https://extraguide.ru/russia/kazan/sights/"
+        },
+        {
+            "name": "Ярославль",
+            "url": "https://extraguide.ru/russia/yaroslavl/sights/"
+        },
+        {
+            "name": "Сочи",
+            "url": "https://extraguide.ru/russia/sochi/sights/"
+        },
+        {
+            "name": "Нижний Новгород",
+            "url": "https://extraguide.ru/russia/nizhny-novgorod/sights/"
+        },
+        {
+            "name": "Владимир",
+            "url": "https://extraguide.ru/russia/vladimir/sights/"
+        },
+        {
+            "name": "Москва",
+            "url": "https://extraguide.ru/russia/moscow/sights/"
+        },
+        {
+            "name": "Санкт-Петербург",
+            "url": "https://extraguide.ru/russia/saint-petersburg/sights/"
+        },
+        {
+            "name": "Тверь",
+            "url": "https://extraguide.ru/russia/tver/sights/"
+        },
+        {
+            "name": "Сергиев Посад",
+            "url": "https://extraguide.ru/russia/sergiev-posad/sights/"
+        },
+        {
+            "name": "Анапа",
+            "url": "https://extraguide.ru/russia/anapa/sights/"
+        },
+        {
+            "name": "Пермь",
+            "url": "https://extraguide.ru/russia/perm/sights/"
+        },
+        {
+            "name": "Уфа",
+            "url": "https://extraguide.ru/russia/ufa/sights/"
+        },
+        {
+            "name": "Зеленоградск",
+            "url": "https://extraguide.ru/russia/zelenogradsk/sights/"
+        },
+        {
+            "name": "Геленджик",
+            "url": "https://extraguide.ru/russia/gelendzhik/sights/"
+        },
+        {
+            "name": "Муром",
+            "url": "https://extraguide.ru/russia/murom/sights/"
+        },
+        {
+            "name": "Новороссийск",
+            "url": "https://extraguide.ru/russia/novorossiysk/sights/"
+        },
+        {
+            "name": "Ессентуки",
+            "url": "https://extraguide.ru/russia/essentuki/sights/"
+        },
+        {
+            "name": "Калуга",
+            "url": "https://extraguide.ru/russia/kaluga/sights/"
+        },
+        {
+            "name": "Томск",
+            "url": "https://extraguide.ru/russia/tomsk/sights/"
+        },
+        {
+            "name": "Переславль",
+            "url": "https://extraguide.ru/russia/pereslavl/sights/"
+        },
+        {
+            "name": "Нальчик",
+            "url": "https://extraguide.ru/russia/nalchik/sights/"
+        },
+        {
+            "name": "Вологда",
+            "url": "https://extraguide.ru/russia/vologda/sights/"
+        },
+        {
+            "name": "Ростов Великий",
+            "url": "https://extraguide.ru/russia/rostov-veliky/sights/"
+        },
+        {
+            "name": "Архангельск",
+            "url": "https://extraguide.ru/russia/arkhangelsk/sights/"
+        },
+        {
+            "name": "Саратов",
+            "url": "https://extraguide.ru/russia/saratov/sights/"
+        },
+        {
+            "name": "Тюмень",
+            "url": "https://extraguide.ru/russia/tyumen/sights/"
+        },
+        {
+            "name": "Йошкар-Ола",
+            "url": "https://extraguide.ru/russia/yoshkar-ola/sights/"
+        },
+        {
+            "name": "Торжок",
+            "url": "https://extraguide.ru/russia/torzhok/sights/"
+        },
+        {
+            "name": "Улан-Удэ",
+            "url": "https://extraguide.ru/russia/ulan-ude/sights/"
+        },
+        {
+            "name": "Углич",
+            "url": "https://extraguide.ru/russia/uglich/sights/"
+        },
+        {
+            "name": "Хабаровск",
+            "url": "https://extraguide.ru/russia/khabarovsk/sights/"
+        },
+        {
+            "name": "Ижевск",
+            "url": "https://extraguide.ru/russia/izhevsk/sights/"
+        },
+        {
+            "name": "Плёс",
+            "url": "https://extraguide.ru/russia/ples/sights/"
+        },
+        {
+            "name": "Ульяновск",
+            "url": "https://extraguide.ru/russia/ulyanovsk/sights/"
+        },
+        {
+            "name": "Орёл",
+            "url": "https://extraguide.ru/russia/orel/sights/"
+        },
+        {
+            "name": "Кронштадт",
+            "url": "https://extraguide.ru/russia/kronstadt/sights/"
+        },
+        {
+            "name": "Махачкала",
+            "url": "https://extraguide.ru/russia/makhachkala/sights/"
+        },
+        {
+            "name": "Пенза",
+            "url": "https://extraguide.ru/russia/penza/sights/"
+        },
+        {
+            "name": "Лазаревское",
+            "url": "https://extraguide.ru/russia/lazarevskoe/sights/"
+        },
+        {
+            "name": "Серпухов",
+            "url": "https://extraguide.ru/russia/serpukhov/sights/"
+        },
+        {
+            "name": "Сортавала",
+            "url": "https://extraguide.ru/russia/sortavala/sights/"
+        },
+        {
+            "name": "Иваново",
+            "url": "https://extraguide.ru/russia/ivanovo/sights/"
+        },
+        {
+            "name": "Астрахань",
+            "url": "https://extraguide.ru/russia/astrakhan/sights/"
+        },
+        {
+            "name": "Арзамас",
+            "url": "https://extraguide.ru/russia/arzamas/sights/"
+        },
+        {
+            "name": "Абрау-Дюрсо",
+            "url": "https://extraguide.ru/russia/abrau-durso/sights/"
+        },
+        {
+            "name": "Белгород",
+            "url": "https://extraguide.ru/russia/belgorod/sights/"
+        },
+        {
+            "name": "Челябинск",
+            "url": "https://extraguide.ru/russia/chelyabinsk/sights/"
+        },
+        {
+            "name": "Городец",
+            "url": "https://extraguide.ru/russia/gorodets/sights/"
+        },
+        {
+            "name": "Звенигород",
+            "url": "https://extraguide.ru/russia/zvenigorod/sights/"
+        },
+        {
+            "name": "Железноводск",
+            "url": "https://extraguide.ru/russia/zheleznovodsk/sights/"
+        },
+        {
+            "name": "Горно-Алтайск",
+            "url": "https://extraguide.ru/russia/gorno-altaisk/sights/"
+        },
+        {
+            "name": "Минеральные Воды",
+            "url": "https://extraguide.ru/russia/mineralnye-vody/sights/"
+        },
+        {
+            "name": "Саранск",
+            "url": "https://extraguide.ru/russia/saransk/sights/"
+        },
+        {
+            "name": "Красная Поляна",
+            "url": "https://extraguide.ru/russia/krasnaya-polyana/sights/"
+        },
+        {
+            "name": "Выкса",
+            "url": "https://extraguide.ru/russia/vyksa/sights/"
+        },
+        {
+            "name": "Свияжск",
+            "url": "https://extraguide.ru/russia/sviyazhsk/sights/"
+        },
+        {
+            "name": "Омск",
+            "url": "https://extraguide.ru/russia/omsk/sights/"
+        },
+        {
+            "name": "Камчатка",
+            "url": "https://extraguide.ru/russia/kamchatka/sights/"
+        },
+        {
+            "name": "Великий Устюг",
+            "url": "https://extraguide.ru/russia/velikiy-ustyug/sights/"
+        },
+        {
+            "name": "Брянск",
+            "url": "https://extraguide.ru/russia/bryansk/sights/"
+        },
+        {
+            "name": "Изборск",
+            "url": "https://extraguide.ru/russia/izborsk/sights/"
+        },
+        {
+            "name": "Пушкин",
+            "url": "https://extraguide.ru/russia/pushkin/sights/"
+        },
+        {
+            "name": "Дербент",
+            "url": "https://extraguide.ru/russia/derbent/sights/"
+        },
+        {
+            "name": "Грозный",
+            "url": "https://extraguide.ru/russia/grozniy/sights/"
+        },
+        {
+            "name": "Александров",
+            "url": "https://extraguide.ru/russia/aleksandrov/sights/"
+        },
+        {
+            "name": "Подольск",
+            "url": "https://extraguide.ru/russia/podolsk/sights/"
+        },
+        {
+            "name": "Старая Русса",
+            "url": "https://extraguide.ru/russia/staraya-russa/sights/"
+        },
+        {
+            "name": "Ставрополь",
+            "url": "https://extraguide.ru/russia/stavropol/sights/"
+        },
+        {
+            "name": "Тобольск",
+            "url": "https://extraguide.ru/russia/tobolsk/sights/"
+        },
+        {
+            "name": "Чебоксары",
+            "url": "https://extraguide.ru/russia/cheboksary/sights/"
+        },
+        {
+            "name": "Кабардинка",
+            "url": "https://extraguide.ru/russia/kabardinka/sights/"
+        },
+        {
+            "name": "Каспийск",
+            "url": "https://extraguide.ru/russia/kaspiysk/sights/"
+        },
+        {
+            "name": "Рыбинск",
+            "url": "https://extraguide.ru/russia/rybinsk/sights/"
+        },
+        {
+            "name": "Киров",
+            "url": "https://extraguide.ru/russia/kirov/sights/"
+        },
+        {
+            "name": "Тольятти",
+            "url": "https://extraguide.ru/russia/tolyatti/sights/"
+        },
+        {
+            "name": "Тамбов",
+            "url": "https://extraguide.ru/russia/tambov/sights/"
+        },
+        {
+            "name": "Туапсе",
+            "url": "https://extraguide.ru/russia/tuapse/sights/"
+        },
+        {
+            "name": "Липецк",
+            "url": "https://extraguide.ru/russia/lipetsk/sights/"
+        },
+        {
+            "name": "Сахалин",
+            "url": "https://extraguide.ru/russia/sahalin/sights/"
+        },
+        {
+            "name": "Оренбург",
+            "url": "https://extraguide.ru/russia/orenburg/sights/"
+        },
+        {
+            "name": "Элиста",
+            "url": "https://extraguide.ru/russia/elista/sights/"
+        },
+        {
+            "name": "Дмитров",
+            "url": "https://extraguide.ru/russia/dmitrov/sights/"
+        },
+        {
+            "name": "Таганрог",
+            "url": "https://extraguide.ru/russia/taganrog/sights/"
+        },
+        {
+            "name": "Калязин",
+            "url": "https://extraguide.ru/russia/kalyazin/sights/"
+        },
+        {
+            "name": "Таруса",
+            "url": "https://extraguide.ru/russia/tarusa/sights/"
+        },
+        {
+            "name": "Гороховец",
+            "url": "https://extraguide.ru/russia/gorohovets/sights/"
+        },
+        {
+            "name": "Барнаул",
+            "url": "https://extraguide.ru/russia/barnaul/sights/"
+        },
+        {
+            "name": "Курск",
+            "url": "https://extraguide.ru/russia/kursk/sights/"
+        },
+        {
+            "name": "Мышкин",
+            "url": "https://extraguide.ru/russia/myshkin/sights/"
+        },
+        {
+            "name": "Ржев",
+            "url": "https://extraguide.ru/russia/rzhev/sights/"
+        },
+        {
+            "name": "Елец",
+            "url": "https://extraguide.ru/russia/elets/sights/"
+        },
+        {
+            "name": "Магас",
+            "url": "https://extraguide.ru/russia/magas/sights/"
+        }
+    ],
+    "Румыния": [
+        {
+            "name": "Бухарест",
+            "url": "https://extraguide.ru/romania/bucharest/sights/"
+        }
+    ],
+    "Сербия": [
+        {
+            "name": "Белград",
+            "url": "https://extraguide.ru/serbia/belgrade/sights/"
+        },
+        {
+            "name": "Нови-Сад",
+            "url": "https://extraguide.ru/serbia/novi-sad/sights/"
+        }
+    ],
+    "Сингапур": [
+        {
+            "name": "Сингапур",
+            "url": "https://extraguide.ru/singapore/singapore/sights/"
+        }
+    ],
+    "Словакия": [
+        {
+            "name": "Братислава",
+            "url": "https://extraguide.ru/slovakia/bratislava/sights/"
+        }
+    ],
+    "Словения": [
+        {
+            "name": "Любляна",
+            "url": "https://extraguide.ru/slovenia/ljubljana/sights/"
+        }
+    ],
+    "Соединенные Штаты Америки": [
+        {
+            "name": "Нью-Йорк",
+            "url": "https://extraguide.ru/usa/new-york/sights/"
+        },
+        {
+            "name": "Лос-Анджелес",
+            "url": "https://extraguide.ru/usa/los-angeles/sights/"
+        },
+        {
+            "name": "Сан-Франциско",
+            "url": "https://extraguide.ru/usa/san-francisco/sights/"
+        },
+        {
+            "name": "Майами",
+            "url": "https://extraguide.ru/usa/miami/sights/"
+        },
+        {
+            "name": "Лас-Вегас",
+            "url": "https://extraguide.ru/usa/las-vegas/sights/"
+        },
+        {
+            "name": "Чикаго",
+            "url": "https://extraguide.ru/usa/chicago/sights/"
+        },
+        {
+            "name": "Вашингтон",
+            "url": "https://extraguide.ru/usa/washington/sights/"
+        }
+    ],
+    "Таиланд": [
+        {
+            "name": "Пхукет",
+            "url": "https://extraguide.ru/thailand/phuket/sights/"
+        },
+        {
+            "name": "Бангкок",
+            "url": "https://extraguide.ru/thailand/bangkok/sights/"
+        },
+        {
+            "name": "Краби",
+            "url": "https://extraguide.ru/thailand/krabi/sights/"
+        },
+        {
+            "name": "Паттайя",
+            "url": "https://extraguide.ru/thailand/pattaya/sights/"
+        },
+        {
+            "name": "Самуи",
+            "url": "https://extraguide.ru/thailand/samui/sights/"
+        }
+    ],
+    "Танзания": [
+        {
+            "name": "Занзибар",
+            "url": "https://extraguide.ru/tanzania/zanzibar/sights/"
+        }
+    ],
+    "Тунис": [
+        {
+            "name": "Хаммамет",
+            "url": "https://extraguide.ru/tunisia/hammamet/sights/"
+        },
+        {
+            "name": "Тунис",
+            "url": "https://extraguide.ru/tunisia/tunisia/sights/"
+        }
+    ],
+    "Турция": [
+        {
+            "name": "Стамбул",
+            "url": "https://extraguide.ru/turkey/istanbul/sights/"
+        },
+        {
+            "name": "Аланья",
+            "url": "https://extraguide.ru/turkey/alanya/sights/"
+        },
+        {
+            "name": "Анталья",
+            "url": "https://extraguide.ru/turkey/antalya/sights/"
+        },
+        {
+            "name": "Кемер",
+            "url": "https://extraguide.ru/turkey/kemer/sights/"
+        },
+        {
+            "name": "Белек",
+            "url": "https://extraguide.ru/turkey/belek/sights/"
+        },
+        {
+            "name": "Сиде",
+            "url": "https://extraguide.ru/turkey/side/sights/"
+        },
+        {
+            "name": "Каппадокия",
+            "url": "https://extraguide.ru/turkey/cappadocia/sights/"
+        },
+        {
+            "name": "Мармарис",
+            "url": "https://extraguide.ru/turkey/marmaris/sights/"
+        },
+        {
+            "name": "Кушадасы",
+            "url": "https://extraguide.ru/turkey/kusadasi/sights/"
+        },
+        {
+            "name": "Бодрум",
+            "url": "https://extraguide.ru/turkey/bodrum/sights/"
+        },
+        {
+            "name": "Фетхие",
+            "url": "https://extraguide.ru/turkey/fethiye/sights/"
+        },
+        {
+            "name": "Измир",
+            "url": "https://extraguide.ru/turkey/izmir/sights/"
+        }
+    ],
+    "Узбекистан": [
+        {
+            "name": "Ташкент",
+            "url": "https://extraguide.ru/uzbekistan/tashkent/sights/"
+        },
+        {
+            "name": "Самарканд",
+            "url": "https://extraguide.ru/uzbekistan/samarkand/sights/"
+        },
+        {
+            "name": "Бухара",
+            "url": "https://extraguide.ru/uzbekistan/bukhara/sights/"
+        },
+        {
+            "name": "Хива",
+            "url": "https://extraguide.ru/uzbekistan/khiva/sights/"
+        }
+    ],
+    "Украина": [
+        {
+            "name": "Киев",
+            "url": "https://extraguide.ru/ukraine/kiev/sights/"
+        }
+    ],
+    "Финляндия": [
+        {
+            "name": "Хельсинки",
+            "url": "https://extraguide.ru/finland/helsinki/sights/"
+        }
+    ],
+    "Франция": [
+        {
+            "name": "Париж",
+            "url": "https://extraguide.ru/france/paris/sights/"
+        },
+        {
+            "name": "Ницца",
+            "url": "https://extraguide.ru/france/nice/sights/"
+        },
+        {
+            "name": "Лион",
+            "url": "https://extraguide.ru/france/lyons/sights/"
+        },
+        {
+            "name": "Марсель",
+            "url": "https://extraguide.ru/france/marseilles/sights/"
+        },
+        {
+            "name": "Бордо",
+            "url": "https://extraguide.ru/france/bordeaux/sights/"
+        },
+        {
+            "name": "Канны",
+            "url": "https://extraguide.ru/france/cannes/sights/"
+        },
+        {
+            "name": "Страсбург",
+            "url": "https://extraguide.ru/france/strasbourg/sights/"
+        }
+    ],
+    "Хорватия": [
+        {
+            "name": "Дубровник",
+            "url": "https://extraguide.ru/croatia/dubrovnik/sights/"
+        },
+        {
+            "name": "Сплит",
+            "url": "https://extraguide.ru/croatia/split/sights/"
+        },
+        {
+            "name": "Загреб",
+            "url": "https://extraguide.ru/croatia/zagreb/sights/"
+        }
+    ],
+    "Черногория": [
+        {
+            "name": "Будва",
+            "url": "https://extraguide.ru/montenegro/budva/sights/"
+        },
+        {
+            "name": "Герцег-Нови",
+            "url": "https://extraguide.ru/montenegro/herceg-novi/sights/"
+        }
+    ],
+    "Чехия": [
+        {
+            "name": "Прага",
+            "url": "https://extraguide.ru/czech-republic/prague/sights/"
+        },
+        {
+            "name": "Карловы Вары",
+            "url": "https://extraguide.ru/czech-republic/karlovy-vary/sights/"
+        }
+    ],
+    "Швейцария": [
+        {
+            "name": "Женева",
+            "url": "https://extraguide.ru/switzerland/geneva/sights/"
+        },
+        {
+            "name": "Цюрих",
+            "url": "https://extraguide.ru/switzerland/zurich/sights/"
+        },
+        {
+            "name": "Люцерн",
+            "url": "https://extraguide.ru/switzerland/lucerne/sights/"
+        }
+    ],
+    "Швеция": [
+        {
+            "name": "Стокгольм",
+            "url": "https://extraguide.ru/sweden/stockholm/sights/"
+        }
+    ],
+    "Шри-Ланка": [
+        {
+            "name": "Коломбо",
+            "url": "https://extraguide.ru/sri-lanka/colombo/sights/"
+        },
+        {
+            "name": "Хиккадува",
+            "url": "https://extraguide.ru/sri-lanka/hikkaduwa/sights/"
+        }
+    ],
+    "Эстония": [
+        {
+            "name": "Таллин",
+            "url": "https://extraguide.ru/estonia/tallinn/sights/"
+        },
+        {
+            "name": "Нарва",
+            "url": "https://extraguide.ru/estonia/narva/sights/"
+        }
+    ],
+    "ЮАР": [
+        {
+            "name": "Кейптаун",
+            "url": "https://extraguide.ru/south-africa/capetown/sights/"
+        }
+    ],
+    "Южная Корея": [
+        {
+            "name": "Сеул",
+            "url": "https://extraguide.ru/south-korea/seoul/sights/"
+        }
+    ],
+    "Япония": [
+        {
+            "name": "Токио",
+            "url": "https://extraguide.ru/japan/tokyo/sights/"
+        },
+        {
+            "name": "Киото",
+            "url": "https://extraguide.ru/japan/kyoto/sights/"
+        }
+    ]
+}
