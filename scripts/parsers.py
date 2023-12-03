@@ -1,4 +1,6 @@
 import json
+from PIL import Image
+import io
 import ijson
 import os
 import requests
@@ -149,16 +151,16 @@ def parse_sight_page_wikiway(url, headers, cookies, base_url, settings):
 
     image_url = soup.find('div', class_='obj-info')['style'].split('url(')[-1].split(')')[0]
     image_url = base_url + image_url
-    image_name = str(hashlib.sha256(description.encode()).hexdigest())[:10] + '.jpg'
+    image_name = str(hashlib.sha256(description.encode()).hexdigest())[:10] + '.png'
     download_image_wikiway(image_url, image_name, headers, cookies, settings)
 
     return title, description, image_name, url
 
 def download_image_wikiway(image_url, image_name, headers, cookies, settings):
     response = requests.get(image_url, headers=headers, cookies=cookies)
+    image = Image.open(io.BytesIO(response.content))
     path = settings["img_path"]
-    with open(f"{path}{image_name}", 'wb') as file:
-        file.write(response.content)
+    image.save(f"{path}{image_name}", 'PNG')
 
 
 
@@ -195,7 +197,7 @@ def parse_sight_page_extraguide(city_url, headers, cookies, base_url, settings, 
         image_block = container.find('a')
         img_url = image_block['href'] if image_block else ""
         image_url = base_url.split("/sights")[0] + img_url
-        image_name = str(hashlib.sha256(description.encode()).hexdigest())[:10] + '.jpg'
+        image_name = str(hashlib.sha256(description.encode()).hexdigest())[:10] + '.png'
         download_image_extraguide(image_url, image_name, headers, cookies, settings)
 
         sights.append((title, description, image_name, city_url))
@@ -208,9 +210,9 @@ def parse_sight_page_extraguide(city_url, headers, cookies, base_url, settings, 
 
 def download_image_extraguide(image_url, image_name, headers, cookies, settings):
     response = requests.get(image_url, headers=headers, cookies=cookies)
+    image = Image.open(io.BytesIO(response.content))
     path = settings["img_path"]
-    with open(f"{path}{image_name}", 'wb') as file:
-        file.write(response.content)
+    image.save(f"{path}{image_name}", 'PNG')
 
 
 
