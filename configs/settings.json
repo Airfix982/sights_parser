@@ -4,5 +4,6 @@
     "extraguide_data": "configs/extraguide.json",
     "wikiway_data": "configs/wikiway.json",
     "img_path": "img/",
-    "hash_path": "configs/hashes.json"
+    "hash_path": "configs/hashes.json",
+    "sights_path": "configs/sights.json"
 }

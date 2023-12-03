@@ -23,14 +23,14 @@ def init_parse_extraguide(url_info, settings):
         countries_elements = soup.find_all('h2', class_="all-sights-h2")
 
         for country_element in countries_elements:
-            country_name = country_element.get_text(strip=True)
+            country_name = country_element.get_text(strip=True).lower()
             next_ul = country_element.find_next_sibling('ul')
             cities = []
             cities_simple = []  # Только названия городов
 
             if next_ul:
                 for city_element in next_ul.find_all('a'):
-                    city_name = city_element.get_text(strip=True)
+                    city_name = city_element.get_text(strip=True).lower()
                     city_url = base_url.rstrip('/sights/') + city_element['href']
                     cities.append({"name": city_name, "url": city_url})
                     cities_simple.append(city_name)  # Добавляем только название города
@@ -62,7 +62,7 @@ def init_parse_wikiway(url_info, settings):
         if not link_element:
             continue
 
-        country_name = link_element.find('span').get_text(strip=True)
+        country_name = link_element.find('span').get_text(strip=True).lower()
         country_href = link_element['href']
         country_url = base_url + country_href
         cities = set()
@@ -79,11 +79,11 @@ def init_parse_wikiway(url_info, settings):
                     sight_name = sight_element.find('div', class_='ob-tz').get_text(strip=True)
                     sight_url = base_url + sight_link['href']
                     city_element = sight_element.find('a', class_='city-href')
-                    city_name = city_element.get_text(strip=True) if city_element else "Не указан"
+                    city_name = city_element.get_text(strip=True).lower() if city_element else "Не указан"
                     if city_name != "Не указан":
                         cities.add(city_name)
                     countries_sights.setdefault(country_name, {})[sight_url] = city_name
-        countries_cities[country_name] = list(cities)
+            countries_cities[country_name] = list(cities)
 
     # Сохранение данных о достопримечательностях в файл
     save_to_json(settings["wikiway_data"], countries_sights)
@@ -134,11 +134,22 @@ def parse_sight_page_wikiway(url, headers, cookies, base_url, settings):
     soup = BeautifulSoup(response.content, 'html.parser')
 
     title = soup.find('h1').get_text(strip=True)
-    description = soup.find('div', class_='txt-body').get_text(strip=True)
+    anons = soup.find('div', class_='element-anons')
+    if anons and anons.find('p'):
+        description = anons.find('p').get_text(strip=True)
+    else:
+        # Попытка найти описание в txt-body
+        txt_body = soup.find('div', class_='txt-body')
+        if txt_body and txt_body.find('p'):
+            description = txt_body.find('p').get_text(strip=True)
+        else:
+            # Заглушка, если описание не найдено
+            description = "Описание недоступно"
+
 
     image_url = soup.find('div', class_='obj-info')['style'].split('url(')[-1].split(')')[0]
     image_url = base_url + image_url
-    image_name = str(hash(description))[:10] + '.jpg'
+    image_name = str(hashlib.sha256(description.encode()).hexdigest())[:10] + '.jpg'
     download_image_wikiway(image_url, image_name, headers, cookies, settings)
 
     return title, description, image_name, url
@@ -157,7 +168,7 @@ def load_sights_for_country_extraguide(country_name, path):
     try:
         with open(path, 'r', encoding='utf-8') as file:
             data = json.load(file)
-            country_key = country_name.capitalize()
+            country_key = country_name
             country_data = data.get(country_key, [])
             return [(sight["url"], sight["name"]) for sight in country_data]
     except FileNotFoundError:
@@ -167,16 +178,16 @@ def load_sights_for_country_extraguide(country_name, path):
         print(f"Ошибка чтения JSON из файла {path}.")
         return []
     
-def parse_sight_page_extraguide(city_url, headers, cookies, base_url, settings, count, num_sights):
+def parse_sight_page_extraguide(city_url, headers, cookies, base_url, settings, count, country, city):#парсим такое кол-во элементов num_sights - <количество sights в wikiway с такой стране с таким городом> + число в parse_data
     response = requests.get(city_url, cookies=cookies, headers=headers)
     soup = BeautifulSoup(response.content, 'html.parser')
-
+    loaded_count = 0
     sights = []
     sight_containers = soup.find('div', class_='row rows sight-center').find_all('div', class_='mobimg')
     for container in sight_containers:
-        if count == num_sights:
+        if count == loaded_count:
             break
-        count += 1
+        loaded_count += 1
         title_block = container.find_previous_sibling('h2')
         title = title_block.get_text(strip=True) if title_block else ""
         description_block = container.find_next_sibling('p')
@@ -184,12 +195,16 @@ def parse_sight_page_extraguide(city_url, headers, cookies, base_url, settings, 
         image_block = container.find('a')
         img_url = image_block['href'] if image_block else ""
         image_url = base_url.split("/sights")[0] + img_url
-        image_name = str(hash(description))[:10] + '.jpg'
+        image_name = str(hashlib.sha256(description.encode()).hexdigest())[:10] + '.jpg'
         download_image_extraguide(image_url, image_name, headers, cookies, settings)
 
         sights.append((title, description, image_name, city_url))
-
-    return sights
+    with open(settings["parse_data"], 'r+', encoding='utf-8') as file:
+        parse_data = json.load(file)
+        parse_data[country][city] = loaded_count
+        file.seek(0)
+        json.dump(parse_data, file, indent=4, ensure_ascii=False)
+    return sights, loaded_count
 
 def download_image_extraguide(image_url, image_name, headers, cookies, settings):
     response = requests.get(image_url, headers=headers, cookies=cookies)
@@ -201,10 +216,11 @@ def download_image_extraguide(image_url, image_name, headers, cookies, settings)
 
 
 def parse_country(settings, num_sights, *args):
-    country_name = args[0].capitalize()
-    city_name = args[1].capitalize() if len(args) > 1 else None
+    country_name = args[0].lower()
+    city_name = args[1].lower() if len(args) > 1 else None
     sights = []
     new_hashes = load_hashes(settings["hash_path"])
+    load_items = 0
 
     # Загрузка и добавление данных с сайта Wikiway
     sights_data_wikiway = load_sights_for_country_wikiway(country_name, settings["wikiway_data"])
@@ -214,7 +230,7 @@ def parse_country(settings, num_sights, *args):
     base_url_wikiway = web_settings_wikiway["url"].rstrip('/')
 
     for sight_url, current_city_name in sights_data_wikiway:
-        if len(sights) >= num_sights:
+        if load_items >= num_sights:
             break
         # Проверка, соответствует ли город указанному, если он предоставлен
         if city_name and current_city_name != city_name:
@@ -225,9 +241,9 @@ def parse_country(settings, num_sights, *args):
             sight_object = Sight(country_name, current_city_name if current_city_name != "Не указан" else "", title, description, f"img/{image_name}", url, sight_hash)
             sights.append(sight_object)
             new_hashes.add(sight_hash)
-
+            load_items += 1
     # Аналогичные изменения для Extraguide
-    if len(sights) < num_sights:
+    if load_items <= num_sights:
         sights_data_extraguide = load_sights_for_country_extraguide(country_name, settings["extraguide_data"])
         web_settings_extraguide = json.load(open(settings["web_urls"]))["urls"]["extraguide"]
         headers_extraguide = web_settings_extraguide["headers"]
@@ -235,12 +251,14 @@ def parse_country(settings, num_sights, *args):
         base_url_extraguide = web_settings_extraguide["url"].rstrip('/')
 
         for city_url, current_city_name in sights_data_extraguide:
-            if len(sights) >= num_sights:
+            if load_items >= num_sights:
                 break
             if city_name and current_city_name != city_name:
                 continue
-            sights_ex = parse_sight_page_extraguide(city_url, headers_extraguide, cookies_extraguide, base_url_extraguide, settings, 0, num_sights - len(sights))
-
+            count = get_needed_count(load_items, num_sights, settings, country_name, current_city_name)
+            print(count, load_items)
+            sights_ex, loaded_count = parse_sight_page_extraguide(city_url, headers_extraguide, cookies_extraguide, base_url_extraguide, settings, count, country_name, current_city_name)
+            load_items += loaded_count
             for title, description, image_name, url in sights_ex:
                 sight_hash = image_name.split('.')[0]
                 if sight_hash not in new_hashes:
@@ -251,7 +269,16 @@ def parse_country(settings, num_sights, *args):
                         break
 
     update_hashes(settings["hash_path"], new_hashes)
+    print(new_hashes)
     return sights
+
+def get_needed_count(loaded, num_sights, settings, country_name, city_name):
+    with open(settings["parse_data"], 'r', encoding='utf-8') as file:
+        parse_data = json.load(file)
+    additional_value = parse_data[country_name][city_name]
+    needed_count = num_sights + additional_value - loaded
+    return needed_count
+
 
 
 

@@ -8,5 +8,16 @@ class Sight:
         self.hash = hash
         self.url = url
 
+    def to_dict(self):
+        return {
+            "country_name": self.country_name,
+            "city_name": self.city_name,
+            "sight_name": self.sight_name,
+            "description": self.description,
+            "photo_path": self.photo_path,
+            "url": self.url,
+            "hash": self.hash
+        }
+
     def __repr__(self):
         return f"Sight(country_name={self.country_name}, city_name={self.city_name}, sight_name={self.sight_name}, url={self.url}, hash={self.hash})"

@@ -42,14 +42,18 @@ def get_parse_data():
             lambda: init_parse_extraguide(urls["extraguide"], settings),
             lambda: init_parse_wikiway(urls["wikiway"], settings)
         )
+        new_data = {}
+        for country, cities in init_data.items():
+            new_data[country] = {city.lower(): 0 for city in cities}
         with open(parse_data_path, 'w', encoding='utf-8') as file:
-            json.dump(init_data, file, indent=4)
+            json.dump(new_data, file, indent=4, ensure_ascii=False)
         return init_data
     
-def start_parsing(num_sights, *args):
+def start_parsing(sights, num_sights, *args):
     settings = get_settings()
     os.makedirs(settings["img_path"], exist_ok=True)
     if len(args) == 1:
-        return parse_country(settings, num_sights, args[0])
+        new_sights = parse_country(settings, num_sights, args[0])
     else:
-        return parse_country(settings, num_sights, args[0], args[1])
+        new_sights = parse_country(settings, num_sights, args[0], args[1])
+    return sights + new_sights
