@@ -47,7 +47,7 @@ def get_parse_data():
             new_data[country] = {city.lower(): 0 for city in cities}
         with open(parse_data_path, 'w', encoding='utf-8') as file:
             json.dump(new_data, file, indent=4, ensure_ascii=False)
-        return init_data
+        return new_data
     
 def start_parsing(sights, num_sights, *args):
     settings = get_settings()

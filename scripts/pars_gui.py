@@ -124,7 +124,7 @@ class DataApp:
             photo = ImageTk.PhotoImage(img)
         else:
             # Load default image if file not found
-            default_img = Image.open('path/to/default/image')  # Specify path to default image
+            default_img = Image.open('configs/no_icon.png')  # Specify path to default image
             default_img.thumbnail(max_size)
             photo = ImageTk.PhotoImage(default_img)
 
@@ -203,13 +203,12 @@ class DataApp:
 
         self.update_gallery()
         self.root.update_idletasks()
-        print(len(self.sights))
         
 
     def discard_data(self, close=True):
         if not close:
             if messagebox.askyesno("Подтверждение", "Удалить скачанные данные?"):
-                pass
+                self.sights = []
             else:
                 return
         try:
@@ -235,13 +234,15 @@ class DataApp:
                 data[country][city] = 0
         with open(self.settings["parse_data"], "w", encoding="utf-8") as file:
             json.dump(data, file, indent=4, ensure_ascii=False)
-        
+        self.update_gallery()
+        self.root.update_idletasks()
         print("Данные не сохранены")
     
     def save_data(self):
-        sights_data = [sight.to_dict() for sight in self.sights]
-        with open(self.settings["sights_path"], "w", encoding="utf-8") as file:
-            json.dump(sights_data, file, indent=4, ensure_ascii=False)
+        if len(self.sights) != 0:
+            sights_data = [sight.to_dict() for sight in self.sights]
+            with open(self.settings["sights_path"], "w", encoding="utf-8") as file:
+                json.dump(sights_data, file, indent=4, ensure_ascii=False)
 
     def on_close(self):
         """Функция, вызываемая при закрытии приложения."""
